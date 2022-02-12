@@ -20,6 +20,9 @@ I like to break LONG stuff into short stuff where it makes sense.
 Often, this will mean changing a semicolon into a period
 if and where it helps to understand the text.
 
+I started this process so that I could read and to understand the Scriptures,
+not reference it to ***impress*** others or to ***argue*** with them.
+
 ## No Place to Hide
 
 This is my experience since experimenting with ventilated prose in my Bible study.
@@ -125,7 +128,3 @@ All inventions have pros and cons.
 I can see the advantage of a preacher being able to reference a text for consideration.  
 But what are the cons of having chapter and verse numbers
 in almost every printed version of the Bible?
-
-I created these to read and to understand the Scriptures,
-not reference it to ***impress*** others or to ***argue*** with them.  
-(I am prone to these sins.)
