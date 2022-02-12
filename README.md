@@ -112,11 +112,11 @@ and printed portions on old-fashioned paper.
 ## Interacting with Feedback from my Mother about Chapters and Verses
 
 My mother says she would never use these files
-because she cannot read the Bible without chapter and verse numbers.  
-For her, to ***not*** have the chapter and verse numbers is a distraction.  
+because she cannot read the Bible without chapter and verse numbers.
+For her, to ***not*** have the chapter and verse numbers is a distraction.
 This is a genuine difference between us.
 
-Chapter and verse and numbers are an invention of a couple hundred years ago.  
+Chapter and verse and numbers are an invention of a couple hundred years ago. 
 They have been considered largely inviolable ever since.
 
 I am a skeptic when it comes to inventions.  
