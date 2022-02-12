@@ -47,12 +47,13 @@ to read, think, pray, and take notes.
 I have taken snapshots of a page to share
 through email, text, or other electronic means.
 
-I have eliminated many page breaks and printed portions on old-fashioned paper.
+I have (temporarily) eliminated many page breaks
+and printed portions on old-fashioned paper.
 
 I have wondered what it was like to read the text of Scripture on a scroll.
 How did that work?
 
-How you consume the text is left as an exercise for the reader.
+How you consume the text is left as an exercise for you, the reader.
 
 ## Interacting with Feedback from my Mother
 
@@ -68,8 +69,9 @@ I can see their advantage in a sermon to reference a text.
 However, all technologies have pros and cons.
 What are the cons of having chapter and verse numbers in every printed version of the Bible?
 
-This means I am creating this to ***read*** and to ***understand*** the Scriptures, not
-***reference*** it to ***impress*** others or to ***argue*** with them.
+I created these to read and to understand the Scriptures,
+not reference it to ***impress*** others or to ***argue*** with them.
+(I admit that I am prone to these sins.)
 
   %-----------------------------------------------------------------------------
   My Headings:
