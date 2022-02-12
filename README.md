@@ -65,7 +65,7 @@ Net-Net.
 These documents are a midpoint between a word document and a powerpoint
 presentation.
 
-## Ventilating Consistently
+## Consistent Ventilation
 
 I don't presently believe there is one correct way to ventilate a given passage.  
 If I ventilate a passage twice, I will find that I do it differently each time.
