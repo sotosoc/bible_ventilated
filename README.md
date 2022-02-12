@@ -45,8 +45,7 @@ Thus, I have no place to hide from Scripture.
 
 My primary goal is to ventilate the text of Scripture
 so that the Word of God reaches my mind and heart and ultimately changes me.
-
-  The Word of God will not return void.
+The Word of God will not return void.
 
 ## My Definition of Ventilation
 
