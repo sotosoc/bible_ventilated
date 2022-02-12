@@ -71,9 +71,6 @@ through email, text, or other electronic means.
 I have (temporarily) eliminated many page breaks
 and printed portions on old-fashioned paper.
 
-I have wondered what it was like to read the text of Scripture on a scroll.
-How did that work?
-
 ## Interacting with Feedback from my Mother
 
 My mother says she would never use these files 
@@ -81,16 +78,17 @@ because she cannot read the Bible without chapter and verse numbers.
 For her, to not have the chapter and verse numbers is a distraction.
 I acknowledge that this is a genuine difference between us.
 
-I have long wondered what affect adding chapters and verses to the Bible has
-on me as a reader.
-These chapter and verse numbers were added a couple hundred years ago.
+Chapter and verse and numbers are an invention of a couple hundred years ago.
+They have been largely inviolable since.
+
+I am a skeptic when it comes to inventions.
 I can see their advantage in a sermon to reference a text.
-However, all technologies have pros and cons.
+However, all inventions have pros and cons.
 What are the cons of having chapter and verse numbers in every printed version of the Bible?
 
 I created these to read and to understand the Scriptures,
 not reference it to ***impress*** others or to ***argue*** with them.  
-(I admit that I am prone to these sins.)
+(I am prone to these sins.)
 
 
   %-----------------------------------------------------------------------------
