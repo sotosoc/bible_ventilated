@@ -39,6 +39,25 @@ Net-Net.
 These documents are a midpoint between a word document and a powerpoint
 presentation.
 
+## Page Headings
+
+I currently include consecutively numbered headings in the document.
+It does occur to me that these might be entirely unnecessary.
+I may remove them at some point.
+
+While these exist, these are my thoughts on them:
+
+- Heading titles are taken from the text that follows,
+  usually the very first words.
+  I seek to be extensively uncreative in creating these headings.
+
+- Headings are in the exact same place on every page.
+  This means your eyes can anticipate the location of the firs line of text
+  on the next page.
+  I ignore these headings almost all of the time.
+
+- Identical headings exist because the Bible repeats.
+
 # How to Consume These Texts
 
 I import the resulting PDFs into Notability on my iPad
@@ -73,24 +92,6 @@ I created these to read and to understand the Scriptures,
 not reference it to ***impress*** others or to ***argue*** with them.  
 (I admit that I am prone to these sins.)
 
-  %-----------------------------------------------------------------------------
-  My Headings:
-
-  \begin{itemize}
-
-    \item The headings exist so that I can quickly find where I am reading.
-
-    \item The headings are taken from the text that follows, often the first
-      words.
-
-    \item The headings are not meant to be read as you flip from page to page.
-      I have positioned the headings in the same place on every page.
-      Your eyes can count on the next text of the Scriptures being in the same
-      place on each page.
-
-    \item The Bible repeats, so my headings are going to repeat at times.
-
-  \end{itemize}
 
   %-----------------------------------------------------------------------------
   Changes to the text:
