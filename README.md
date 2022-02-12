@@ -25,11 +25,11 @@ Thus, I have no place to hide from Scripture.
 
 Using LaTex my format includes the following:
 
-- Line-and-a-half Spacing the text.
+- Line-and-a-half spacing the text.
 
 - Breaking text into clauses, somewhat like poetry.
 
-- Break sections across pages.
+- A distinct section per page (where possible).
   This document is a midpoint between a word document and a powerpoint
   presentation.
   Thus, this has not been created to be as a printed book.
