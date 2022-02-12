@@ -59,15 +59,19 @@ Net-Net.
 These documents are a midpoint between a word document and a powerpoint
 presentation.
 
-Important Note:
-I don't believe there is one correct way to ventilate a text.
-I am not seeking to be 100% consistent in how this is done.
-Maybe, as I go through the process, I will develop principles that will increase consistency.
-This is a secondary goal for me.
+## Ventilating Consistently
+
 My primary goal is to ventilate the text of Scripture
 so that the Word of God changes me.
 
   The Word of God will not return void.
+
+I don't presently believe there is one correct way to ventilate a given text or passage of Scripture.  
+If I ventilate a passage twice, I will find that I do it differently each time.
+
+Maybe,
+as I go through this process,
+I will develop principles that will increase consistency.
 
 ## Page Headings
 
