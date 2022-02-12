@@ -66,8 +66,12 @@ so that the Word of God changes me.
 
   The Word of God will not return void.
 
-I don't presently believe there is one correct way to ventilate a given text or passage of Scripture.  
+I don't presently believe there is one correct way to ventilate a given passage.  
 If I ventilate a passage twice, I will find that I do it differently each time.
+
+As I read a passage which I have ventilated,
+I often want the passage ventilated differently (and make the changes)
+because I think doing it differently will help me.
 
 Maybe,
 as I go through this process,
