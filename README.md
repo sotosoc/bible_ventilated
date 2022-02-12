@@ -23,15 +23,18 @@ Thus, I have no place to hide from Scripture.
 
 ## My Definition of Ventilation:
 
-- Line-and-a-Half Spacing the text.
+Using LaTex my format includes the following:
+
+- Line-and-a-half Spacing the text.
 
 - Breaking text into clauses, somewhat like poetry.
 
-- sections across pages. This document is a
-      midpoint between a word document and a powerpoint presentation.
-      Thus, this has not been created to be as a printed book.
-      It has been created to be read into Notability (or like app) on
-      a tablet computer to read, think, pray, and take notes.
+- Break sections across pages.
+  This document is a midpoint between a word document and a powerpoint
+  presentation.
+  Thus, this has not been created to be as a printed book.
+  It has been created to be read into Notability (or like app) on a tablet
+  computer to read, think, pray, and take notes.
 
 - chapter numbers or verse numbers. I have long wondered what affect
       adding chapters and verses to the Bible has on me as a reader. These were
