@@ -13,8 +13,8 @@ I make note which translation.
 I might also change word order to sound more natural to me.
 
 I also change the word ``Behold, this happened.`` to ``Behold! This happened.``
-This is a word that is supposed to call our attention.
-The exclamation point was made for this purpose.
+This is a word that is supposed to make me pay attention.
+The exclamation mark was made for this purpose.
 
 I like to break LONG stuff into short stuff where it makes sense.
 Often, this will mean changing a semicolon into a period
