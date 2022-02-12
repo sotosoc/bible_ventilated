@@ -1,4 +1,24 @@
-# WEB Bible Ventilated
+# MYWEB Bible Ventilated
+
+## MYWEB
+
+I use the WEB Bible as a baseline for these files.
+This is a public-domain translation of the Bible.
+
+I substitute other translations for some texts.
+Because of this, I call this the MYWEB translation.
+If and where I substitute another translation,
+I make note which translation.
+
+I might also change word order to sound more natural to me.
+
+I also change the word ``Behold, this happened.'' to ``Behold! This happened.''
+This is a word that is supposed to call our attention.
+The exclamation point was made for this purpose.
+
+I like to break LONG stuff into short stuff where it makes sense.
+Often, this will mean changing a semicolon into a period
+if and when it helps to understand the text.
 
 ## No Place to Hide
 
@@ -90,19 +110,5 @@ I created these to read and to understand the Scriptures,
 not reference it to ***impress*** others or to ***argue*** with them.  
 (I am prone to these sins.)
 
+## !! Changes to the Text !!
 
-  %-----------------------------------------------------------------------------
-  Changes to the text:
-
-  \begin{itemize}
-
-    \item Changing word order to sound more natural to me.
-
-    \item Changing ``Behold, this happened.'' to ``Behold! This happened.''
-      This is a word that is supposed to call our attention. The exclamation
-      point was made for this purpose.
-
-    \item I like to break LONG stuff into short stuff where it makes sense.
-      Often, this will mean changing a semicolon into a period.
-
-  \end{itemize}
