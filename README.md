@@ -6,8 +6,7 @@ This is my experience since experimenting with ventilated prose in my Bible stud
 
 ```
   A ventilated text exposes  
-    each word or phrase  
-      of Scripture  
+    each word or phrase of Scripture  
         to my mind.
 ```
 
@@ -17,27 +16,24 @@ And:
 ```
   The ventilated text exposes  
     my mind  
-      to each word or phrase  
-        of Scripture.
+      to each word or phrase of Scripture.
 ```
 
 Thus, I have no place to hide from Scripture.
 
 ## My Definition of Ventilation:
 
-  \begin{itemize}
+- Line-and-a-Half Spacing the text.
 
-    \item Line-and-a-Half Spacing the text.
+- Breaking text into clauses, somewhat like poetry.
 
-    \item Enjambment. Breaking text into clauses, somewhat like poetry.
-
-    \item Breaking sections across pages. This document is a
+- sections across pages. This document is a
       midpoint between a word document and a powerpoint presentation.
       Thus, this has not been created to be as a printed book.
       It has been created to be read into Notability (or like app) on
       a tablet computer to read, think, pray, and take notes.
 
-    \item No chapter numbers or verse numbers. I have long wondered what affect
+- chapter numbers or verse numbers. I have long wondered what affect
       adding chapters and verses to the Bible has on me as a reader. These were
       only added a couple hundred years ago. Why are we certain that having
       them is wise? (This means I am creating this to READ and to UNDERSTAND
