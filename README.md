@@ -116,8 +116,8 @@ because she cannot read the Bible without chapter and verse numbers.
 For her, to not have the chapter and verse numbers is a distraction.
 I acknowledge that this is a genuine difference between us.
 
-Chapter and verse and numbers are an invention of a couple hundred years ago.
-They have been largely inviolable since.
+Chapter and verse and numbers are an invention of a couple hundred years ago.  
+They have been considered largely inviolable ever since.
 
 I am a skeptic when it comes to inventions.
 I can see their advantage in a sermon to reference a text.
