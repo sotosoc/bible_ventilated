@@ -8,7 +8,7 @@ This is my experience since experimenting with ventilated prose in my Bible stud
   A ventilated text exposes  
     each word or phrase  
       of Scripture  
-        to ***my mind***.
+        to my mind.
 ```
 
 Thus, the words of Scripture have no place to hide from me.
@@ -16,7 +16,7 @@ And:
 
 ```
   The ventilated text exposes  
-    ***my mind***  
+    my mind  
       to each word or phrase  
         of Scripture.
 ```
