@@ -33,8 +33,7 @@ Using LaTex my format includes the following:
 
 Thus, this document is a midpoint between a word document and a powerpoint
 presentation.
-This also means this is not created to become a printed book.
-It has been created to be read into Notability (or like app) on a tablet
+It has been created to be imported into an app like Notability on a tablet
 computer to read, think, pray, and take notes.
 
 - No chapter numbers or verse numbers (though retained in the source files)
@@ -43,10 +42,9 @@ I have long wondered what affect adding chapters and verses to the Bible has
 on me as a reader.
 These were only added a couple hundred years ago.
 Why are we certain that having them is wise?
-(This means I am creating this to READ and to UNDERSTAND the Scriptures, not
-REFERENCE it to IMPRESS others or to ARGUE with others.
-However, to make it so more than one person can read and talk about the
-document, I have running heading numbers and page numbers.)
+
+This means I am creating this to ***read*** and to ***understand*** the Scriptures, not
+***reference*** it to ***impress*** others or to ***argue*** with them.
 
   %-----------------------------------------------------------------------------
   My Headings:
