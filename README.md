@@ -119,8 +119,9 @@ This is a genuine difference between us.
 Chapter and verse and numbers are an invention of a couple hundred years ago. 
 They have been considered largely inviolable ever since.
 
-I am a skeptic when it comes to inventions.  
+I am a skeptic when it comes to inventions.
 All inventions have pros and cons.  
+
 I can see the advantage of a preacher being able to reference a text for consideration.  
 But what are the cons of having chapter and verse numbers
 in every printed version of the Bible?
