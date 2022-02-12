@@ -33,12 +33,11 @@ Using LaTex my format includes the following:
 
 - No chapter numbers or verse numbers (though retained in source files)
 
-This means there is a lot of whitespace all around the text to write notes
+This means there is a lot of whitespace all around the text to write notes.
 
-## Net Net
-
-The creates documents that are a midpoint
-between a word document and a powerpoint presentation.
+Net-Net.
+These documents are a midpoint between a word document and a powerpoint
+presentation.
 
 I import the resulting PDFs into Notability on my iPad
 to read, think, pray, and take notes.
