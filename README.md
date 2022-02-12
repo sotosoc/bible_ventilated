@@ -31,9 +31,9 @@ Using LaTex my format includes the following:
 
 - A distinct section per page (where possible).
 
-This document is a midpoint between a word document and a powerpoint
+Thus, this document is a midpoint between a word document and a powerpoint
 presentation.
-Thus, this has not been created to be as a printed book.
+This also means this is not created to become a printed book.
 It has been created to be read into Notability (or like app) on a tablet
 computer to read, think, pray, and take notes.
 
