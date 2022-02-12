@@ -109,6 +109,3 @@ What are the cons of having chapter and verse numbers in every printed version o
 I created these to read and to understand the Scriptures,
 not reference it to ***impress*** others or to ***argue*** with them.  
 (I am prone to these sins.)
-
-## !! Changes to the Text !!
-
