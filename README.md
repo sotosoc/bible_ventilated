@@ -124,7 +124,7 @@ All inventions have pros and cons.
 
 I can see the advantage of a preacher being able to reference a text for consideration.  
 But what are the cons of having chapter and verse numbers
-in every printed version of the Bible?
+in almost every printed version of the Bible?
 
 I created these to read and to understand the Scriptures,
 not reference it to ***impress*** others or to ***argue*** with them.  
