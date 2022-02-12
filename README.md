@@ -27,8 +27,8 @@ if and where it helps to understand the text.
 This is my experience since experimenting with ventilated prose in my Bible study.
 
 ```
-  A ventilated text exposes  
-    each word or phrase of Scripture  
+  A ventilated text  
+    exposes each word or phrase of Scripture  
         to my mind.
 ```
 
@@ -36,8 +36,8 @@ Thus, the words of Scripture have no place to hide from me.
 And:
 
 ```
-  The ventilated text exposes  
-    my mind  
+  The ventilated text  
+    exposes my mind  
       to each word or phrase of Scripture.
 ```
 
