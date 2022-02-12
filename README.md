@@ -39,8 +39,20 @@ Net-Net.
 These documents are a midpoint between a word document and a powerpoint
 presentation.
 
+# How to Consume These Texts
+
 I import the resulting PDFs into Notability on my iPad
 to read, think, pray, and take notes.
+
+I have taken snapshots of a page to share
+through email, text, or other electronic means.
+
+I have eliminated many page breaks and printed portions on old-fashioned paper.
+
+I have wondered what it was like to read the text of Scripture on a scroll.
+How did that work?
+
+How you consume the text is left as an exercise for the reader.
 
 ## Interacting with Feedback from my Mother
 
