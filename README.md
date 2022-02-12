@@ -78,7 +78,7 @@ Maybe,
 as I go through this process,
 I will develop principles that will increase consistency.
 
-## Page Headings
+## Headings
 
 I currently include consecutively numbered headings in the document.
 It does occur to me that these might be entirely unnecessary.
