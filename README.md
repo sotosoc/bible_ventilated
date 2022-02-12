@@ -58,7 +58,7 @@ While these exist, these are my thoughts on them:
 
 - Identical headings exist because the Bible repeats.
 
-# How to Consume These Texts
+## How to Consume These Texts
 
 I import the resulting PDFs into Notability on my iPad
 to read, think, pray, and take notes.
