@@ -21,7 +21,7 @@ And:
 
 Thus, I have no place to hide from Scripture.
 
-## My Definition of Ventilation:
+## My Definition of Ventilation
 
 Using LaTex my format includes the following:
 
@@ -31,10 +31,18 @@ Using LaTex my format includes the following:
 
 - A distinct section per page (where possible).
 
-Thus, this document is a midpoint between a word document and a powerpoint
+- No chapter numbers or verse numbers (though retained in source files)
+
+This means there is a lot of whitespace all around the text to write notes
+
+## Net Net
+
+The documents are a midpoint between a word document and a powerpoint
 presentation.
+
 It has been created to be imported into an app like Notability on a tablet
-computer to read, think, pray, and take notes.
+computer to read, think, pray, and take notes,
+though sections can of course be printed on paper.
 
 - No chapter numbers or verse numbers (though retained in the source files)
 
