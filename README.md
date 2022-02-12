@@ -109,20 +109,21 @@ through email, text, or other electronic means.
 I have (temporarily) eliminated many page breaks
 and printed portions on old-fashioned paper.
 
-## Interacting with Feedback from my Mother
+## Interacting with Feedback from my Mother about Chapters and Verses
 
-My mother says she would never use these files 
-because she cannot read the Bible without chapter and verse numbers.
-For her, to not have the chapter and verse numbers is a distraction.
-I acknowledge that this is a genuine difference between us.
+My mother says she would never use these files
+because she cannot read the Bible without chapter and verse numbers.  
+For her, to ***not*** have the chapter and verse numbers is a distraction.  
+This is a genuine difference between us.
 
 Chapter and verse and numbers are an invention of a couple hundred years ago.  
 They have been considered largely inviolable ever since.
 
-I am a skeptic when it comes to inventions.
-I can see their advantage in a sermon to reference a text.
-However, all inventions have pros and cons.
-What are the cons of having chapter and verse numbers in every printed version of the Bible?
+I am a skeptic when it comes to inventions.  
+I can see their advantage in a sermon to reference a text.  
+However, all inventions have pros and cons.  
+What are the cons of having chapter and verse numbers
+in every printed version of the Bible?
 
 I created these to read and to understand the Scriptures,
 not reference it to ***impress*** others or to ***argue*** with them.  
