@@ -22,7 +22,7 @@ The exclamation mark was made for this purpose.
 Often, this will mean changing a semicolon into a period
 if and where it helps to understand the text.
 
-## Ventilation Means No Place to Hide
+## Ventilation Gives Me No Place to Hide
 
 This is my experience since experimenting with ventilated prose in my Bible study.
 
