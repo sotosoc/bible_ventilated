@@ -60,6 +60,8 @@ While these exist, these are my thoughts on them:
 
 ## How to Consume These Texts
 
+How you consume the text is left as an exercise for you, the reader.
+
 I import the resulting PDFs into Notability on my iPad
 to read, think, pray, and take notes.
 
@@ -71,8 +73,6 @@ and printed portions on old-fashioned paper.
 
 I have wondered what it was like to read the text of Scripture on a scroll.
 How did that work?
-
-How you consume the text is left as an exercise for you, the reader.
 
 ## Interacting with Feedback from my Mother
 
