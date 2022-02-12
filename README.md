@@ -70,7 +70,7 @@ However, all technologies have pros and cons.
 What are the cons of having chapter and verse numbers in every printed version of the Bible?
 
 I created these to read and to understand the Scriptures,
-not reference it to ***impress*** others or to ***argue*** with them.
+not reference it to ***impress*** others or to ***argue*** with them.  
 (I admit that I am prone to these sins.)
 
   %-----------------------------------------------------------------------------
