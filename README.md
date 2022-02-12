@@ -12,7 +12,7 @@ I make note which translation.
 
 I might also change word order to sound more natural to me.
 
-I also change the word ``Behold, this happened.'' to ``Behold! This happened.''
+I also change the word ``Behold, this happened.`` to ``Behold! This happened.``
 This is a word that is supposed to call our attention.
 The exclamation point was made for this purpose.
 
