@@ -5,23 +5,22 @@
 I use the WEB Bible as a baseline for these files.
 This is a public-domain translation of the Bible.
 
-I substitute other translations for some texts.
+### Changes to the Text
+
+- I substitute other translations for some texts.
 Because of this, I call this the MYWEB translation.
 If and where I substitute another translation,
 I make note which translation.
 
-I might also change word order to sound more natural to me.
+- I might also change word order to sound more natural to me.
 
-I also change ``Behold, this happened.`` to ``Behold! This happened.``
+- I also change ``Behold, this happened.`` to ``Behold! This happened.``
 The word ***behold*** is a word that is supposed to make me pay attention.
 The exclamation mark was made for this purpose.
 
-I like to break LONG stuff into short stuff where it makes sense.
+- I like to break LONG stuff into short stuff where it makes sense.
 Often, this will mean changing a semicolon into a period
 if and where it helps to understand the text.
-
-I started this process so that I could read and to understand the Scriptures,
-not reference it to ***impress*** others or to ***argue*** with them.
 
 ## No Place to Hide
 
@@ -44,6 +43,11 @@ And:
 
 Thus, I have no place to hide from Scripture.
 
+My primary goal is to ventilate the text of Scripture
+so that the Word of God reaches my mind and heart and ultimately changes me.
+
+  The Word of God will not return void.
+
 ## My Definition of Ventilation
 
 Using LaTex my format includes the following:
@@ -63,11 +67,6 @@ These documents are a midpoint between a word document and a powerpoint
 presentation.
 
 ## Ventilating Consistently
-
-My primary goal is to ventilate the text of Scripture
-so that the Word of God changes me.
-
-  The Word of God will not return void.
 
 I don't presently believe there is one correct way to ventilate a given passage.  
 If I ventilate a passage twice, I will find that I do it differently each time.
@@ -128,3 +127,6 @@ All inventions have pros and cons.
 I can see the advantage of a preacher being able to reference a text for consideration.  
 But what are the cons of having chapter and verse numbers
 in almost every printed version of the Bible?
+
+I started this process of ventilating the text of Scripture so that I could read and to understand the Scriptures,
+not reference it to ***impress*** others or to ***argue*** with them.
