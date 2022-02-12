@@ -18,7 +18,7 @@ The exclamation mark was made for this purpose.
 
 I like to break LONG stuff into short stuff where it makes sense.
 Often, this will mean changing a semicolon into a period
-if and when it helps to understand the text.
+if and where it helps to understand the text.
 
 ## No Place to Hide
 
