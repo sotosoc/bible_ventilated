@@ -10,7 +10,7 @@ This is a public-domain translation of the Bible.
 - I substitute other translations for some texts.
 Because of this, I call this the MYWEB translation.
 If and where I substitute another translation,
-I make note which translation.
+I note which translation.
 
 - I might also change word order to sound more natural to me.
 
