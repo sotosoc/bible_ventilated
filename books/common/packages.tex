@@ -1,0 +1,211 @@
+%-------------------------------------------------------------------------------
+% Purpose: define page margins
+%
+% NOTE: Must be first so that headings are created at the correct width.
+%-------------------------------------------------------------------------------
+%\usepackage[top=2cm,bottom=2.5cm,left=3cm,right=3cm,headsep=14pt,letterpaper]{geometry}
+% to see the region frames use the following line with the same settings as previous line
+%\usepackage[top=2cm,bottom=2.5cm,left=3cm,right=3cm,headsep=14pt,letterpaper,showframe]{geometry}
+
+%-------------------------------------------------------------------------------
+% Purpose: Avantgarde font for headings
+%
+% NOTE: Other fonts are possible, of course.
+%-------------------------------------------------------------------------------
+%\usepackage{avant}
+
+%-------------------------------------------------------------------------------
+% Purpose: for nicer horizontal rules in tables
+%-------------------------------------------------------------------------------
+\usepackage{booktabs}
+
+%-------------------------------------------------------------------------------
+% Purpose: to use adustwidth environment
+%-------------------------------------------------------------------------------
+%\usepackage{changepage}
+
+%-------------------------------------------------------------------------------
+% Purpose: to give the \say{} environment
+%-------------------------------------------------------------------------------
+\usepackage{dirtytalk}
+
+%-------------------------------------------------------------------------------
+% Purpose: English language hyphenation
+%-------------------------------------------------------------------------------
+\usepackage[english]{babel}
+
+%-------------------------------------------------------------------------------
+% Purpose: Block quote --- indent paragraph
+%-------------------------------------------------------------------------------
+\usepackage{scrextend}
+
+%-------------------------------------------------------------------------------
+% Purpose: Add time to title page
+%-------------------------------------------------------------------------------
+\usepackage[short,level,12hr]{datetime}
+
+%-------------------------------------------------------------------------------
+% Purpose: Make quotes italics.
+%-------------------------------------------------------------------------------
+\usepackage{etoolbox}
+
+% Purpose: Make quotes italics.
+\AtBeginEnvironment{quote}{\itshape}
+
+%-------------------------------------------------------------------------------
+% Purpose: customize lists
+%-------------------------------------------------------------------------------
+\usepackage{enumitem}
+\newlist{todolist}{itemize}{2}
+\setlist[todolist]{label=$\square$}
+
+% reduce spacing between bullet points and numbered lists
+\setlist{nolistsep}
+
+%-------------------------------------------------------------------------------
+% Purpose: Allow unicode inside verbatim (Verbatim}
+%-------------------------------------------------------------------------------
+\usepackage{fancyvrb}
+
+%-------------------------------------------------------------------------------
+% Purpose: use 8-bit encoding that has 256 glyphs
+%-------------------------------------------------------------------------------
+\usepackage[T1]{fontenc}
+
+%-------------------------------------------------------------------------------
+% Purpose: my default font for documents
+%-------------------------------------------------------------------------------
+%\usepackage{times} % better font than default, but not great
+\usepackage{tgbonum}
+
+%-------------------------------------------------------------------------------
+% Purpose: to get change bars (leftbar) to the left of text
+%-------------------------------------------------------------------------------
+\usepackage{framed}
+\renewenvironment{leftbar}{%
+  \def\FrameCommand{\hspace{-13pt}\vrule width 3pt \hspace{10pt}}%
+  \MakeFramed {\advance\hsize-\width \FrameRestore}}%
+ {\endMakeFramed}
+
+%-------------------------------------------------------------------------------
+% Purpose: to include images
+%-------------------------------------------------------------------------------
+\usepackage{graphicx}
+
+%-------------------------------------------------------------------------------
+% Purpose: to reference the chapter of a section
+%-------------------------------------------------------------------------------
+%\usepackage{hyperref}
+
+% specify directory where pictures are stored
+\graphicspath{{images/}}
+
+%-------------------------------------------------------------------------------
+% Purpose: for a different literal-text font
+%-------------------------------------------------------------------------------
+\usepackage{inconsolata}
+
+%-------------------------------------------------------------------------------
+% Purpose: dummy lorem ipsum text
+%-------------------------------------------------------------------------------
+\usepackage{lipsum}
+
+%-------------------------------------------------------------------------------
+% Purpose: verbatim listings
+%-------------------------------------------------------------------------------
+\usepackage{listings}
+\lstset{
+  basicstyle=\\ttfamily,
+  mathescape
+}
+
+%-------------------------------------------------------------------------------
+% Purpose: obtain math environment and symbols
+%-------------------------------------------------------------------------------
+\usepackage{mathtools}
+\usepackage{mathabx}
+
+%-------------------------------------------------------------------------------
+% Purpose: tweak font spacing for aesthetics
+%-------------------------------------------------------------------------------
+\usepackage{microtype}
+
+%-------------------------------------------------------------------------------
+% Purpose: multiple column environment
+%-------------------------------------------------------------------------------
+\usepackage{multicol}
+
+%-------------------------------------------------------------------------------
+% Purpose: multiple row environment
+%-------------------------------------------------------------------------------
+\usepackage{multirow}
+
+%-------------------------------------------------------------------------------
+% Purpose: cross reference names of sections
+%-------------------------------------------------------------------------------
+\usepackage{nameref}
+
+%-------------------------------------------------------------------------------
+% Purpose: change paragraphs to block style paragraphs without initial indent
+%-------------------------------------------------------------------------------
+\usepackage{parskip}
+
+%-------------------------------------------------------------------------------
+% Purpose: support tables that are the width of the page
+%-------------------------------------------------------------------------------
+\usepackage{tabu}
+
+%-------------------------------------------------------------------------------
+% Purpose: Setting up custom headers
+%-------------------------------------------------------------------------------
+%\usepackage[nobottomtitles]{titlesec}
+\usepackage{titlesec}
+
+%-------------------------------------------------------------------------------
+% Purpose: for better rules in the table
+%-------------------------------------------------------------------------------
+\usepackage{booktabs}
+
+%-------------------------------------------------------------------------------
+% Purpose: to draw custom shapes
+%
+% NOTE: If this is uncommented, it will cause a compile error because it loads
+%       xcolor without options. This needs more debug if needed.
+%-------------------------------------------------------------------------------
+%\usepackage{tikz}
+
+%-------------------------------------------------------------------------------
+% Purpose: Fix TOC numbering to stop overlapping with title
+%-------------------------------------------------------------------------------
+\usepackage{tocloft}
+\tocloftpagestyle{fancy}
+
+%-------------------------------------------------------------------------------
+% Purpose: to include letters with accents
+%-------------------------------------------------------------------------------
+\usepackage[utf8]{inputenc}
+
+%-------------------------------------------------------------------------------
+% Purpose: allows \begin{comment}...\end{comment}
+%-------------------------------------------------------------------------------
+\usepackage{verbatim}
+
+%-------------------------------------------------------------------------------
+% Purpose: to obtain circle characters
+%-------------------------------------------------------------------------------
+\usepackage{wasysym}
+
+%-------------------------------------------------------------------------------
+% Purpose: to specify colors by name
+%-------------------------------------------------------------------------------
+\usepackage[table]{xcolor}% http://ctan.org/pkg/xcolor
+
+%-------------------------------------------------------------------------------
+% Purpose: to reference external documents
+%-------------------------------------------------------------------------------
+\usepackage{xr}
+
+%-------------------------------------------------------------------------------
+% Purpose: Enable arrow diagrams
+%-------------------------------------------------------------------------------
+\usepackage{tikz-cd}

@@ -1,0 +1,95 @@
+%\usepackage[nobottomtitles]{titlesec}
+
+%-------------------------------------------------------------------------------
+% NOTE: This must be before \fancyfoot setup below
+%-------------------------------------------------------------------------------
+\renewcommand*{\thechapter}{\arabic{chapter}}
+\titleformat{\chapter}[frame]
+  {\filright\normalfont\Large\bfseries}                                    % format
+  {Book~\thechapter}                                                       % label
+  {10pt}                                                                   % sep
+  {\filleft\Large}                                                         % before
+  [{\titlerule[1pt]}]                                                      % after
+
+%\titlespacing{<command>}{<left>}{<before-sep>}{<after-sep>}
+\titlespacing*{\chapter}{0pt}{-20pt}{5pt}
+
+%-------------------------------------------------------------------------------
+\renewcommand*{\thesection}{\arabic{section}}
+\titleformat{\section}[hang]
+  {\ttfamily}                                                              % format
+  {\thechapter.\thesection\hspace{10pt}\textcolor{gray}{|}\hspace{10pt}}   % label
+  {0pt}                                                                    % sep
+  {\ttfamily}                                                              % before
+  [\titlerule]                                                             % after
+
+%%\titlespacing{<command>}{<left>}{<before-sep>}{<after-sep>}
+%\titlespacing{\section}{0pt}{1.0em}{1pc}
+\titlespacing{\section}{0pt}{\baselineskip}{1pc}
+
+%-------------------------------------------------------------------------------
+\renewcommand*{\thesubsection}{\arabic{subsection}}
+\titleformat{\subsection}[hang]
+  {\ttfamily}                                                              % format
+  {\( \blacktriangleright \)\hspace{10pt}}                                 % label
+  {0pt}                                                                    % sep
+  {\ttfamily}                                                              % before
+  [\titlerule]                                                             % after
+
+%\titlespacing{<command>}{<left>}{<before-sep>}{<after-sep>}
+\titlespacing{\subsection}{0pt}{1.0em}{1pc}
+
+%-------------------------------------------------------------------------------
+% Purpose: Define header and footers
+%-------------------------------------------------------------------------------
+\usepackage{fancyhdr}
+
+%-------------------------------------------------------------------------------
+% define \fancyhead and \fancyfoot
+%-------------------------------------------------------------------------------
+% HEAD: remove line for the header -- no header
+\fancyhead{}
+\pagestyle{fancy}
+\renewcommand{\headrulewidth}{0.0pt}
+
+% FOOT: the section name and page number
+\fancyfoot{}
+\fancyfoot[LO,RE]{Book~\arabic{chapter}}
+\fancyfoot[C]{\nouppercase{\leftmark}}
+\fancyfoot[RO,LE]{\thepage}
+
+% ADDS horizontal line before footer
+\renewcommand{\footrulewidth}{0.4pt}
+
+% NOTE! This must be after \pagestyle{fancy}
+\renewcommand{\chaptermark}[1]{%
+\markboth{#1}{}}
+
+% removes the header from odd empty pages at the end of chapters
+\makeatletter
+\renewcommand{\cleardoublepage}{
+\clearpage\ifodd\c@page\else
+\hbox{}
+\vspace*{\fill}
+\thispagestyle{empty}
+\newpage
+\fi}
+
+%-------------------------------------------------------------------------------
+% Purpose: Extend section numbering to subsubsections. Default: 2
+%-------------------------------------------------------------------------------
+\setcounter{secnumdepth}{3}
+
+%-------------------------------------------------------------------------------
+% Purpose: Define Header on TOC page
+% Default: Contents -- so following leaves it unchanged
+%-------------------------------------------------------------------------------
+%\addto\captionsenglish{\renewcommand{\contentsname} {Contents} }
+
+%-------------------------------------------------------------------------------
+% Purpose: Remove the paragraph indenting for this book
+%-------------------------------------------------------------------------------
+\newlength\tindent
+\setlength{\tindent}{\parindent}
+\setlength{\parindent}{0pt}
+\renewcommand{\indent}{\hspace*{\tindent}}
