@@ -1,9 +1,10 @@
 BOOK := BIBLE
 
-SOURCES := ../common/header.tex
+SOURCES := ../../common/header.tex
 SOURCES += ../2john/2john.tex
+SOURCES += ../3john/3john.tex
 SOURCES += ../jude/jude.tex
-SOURCES += ../common/tailer.tex
+SOURCES += ../../common/tailer.tex
 
 BASENAME := $(BOOK)
 
