@@ -3,9 +3,6 @@ BASENAME := $(BOOK)_book
 
 VIEWER := okular
 
-done: $(BASENAME).pdf
-	touch done
-
 $(BASENAME).pdf: $(SOURCE)
 	cat $^ > $(BASENAME).tex
 	pdflatex $(BASENAME).tex
@@ -23,4 +20,4 @@ edit:
 	vi $(BOOK).tex
 
 view:
-	$(VIEWER) $(BASENAME).pdf &
+	$(VIEWER) $(BASENAME).pdf >/dev/null 2>&1 &
