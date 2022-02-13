@@ -1,4 +1,4 @@
-SOURCE := ../common/header.tex $(BOOK).tex ../common/tailer.tex
+SOURCE := ../../common/header.tex $(BOOK).tex ../../common/tailer.tex
 BASENAME := $(BOOK)_book
 
 VIEWER := okular
