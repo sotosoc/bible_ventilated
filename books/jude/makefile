@@ -1,3 +1,3 @@
 BOOK := jude
 
-include make.common
+include ../../common/make.common

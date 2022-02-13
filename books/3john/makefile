@@ -1,3 +1,3 @@
 BOOK := 3john
 
-include make.common
+include ../../common/make.common
