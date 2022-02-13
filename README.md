@@ -54,6 +54,7 @@ Using LaTex my format includes the following:
 - Line-and-a-half spacing the text.
 
 - Breaking text into clauses, somewhat like poetry.
+  (Techincally, this is called ***enjambment***.)
 
 - A distinct section per page (where possible).
 
