@@ -3,4 +3,5 @@
 *.out
 *.pdf
 *_book.tex
+*.tex
 done
