@@ -1,0 +1,95 @@
+#!/usr/bin/env ruby
+
+require "fileutils"
+
+puts Time.now
+
+bookname = File.basename(Dir.getwd)
+
+filename = "./#{bookname}.tex"
+FileUtils.chmod(0777, filename) if File.file?(filename)
+fid = File.open("#{filename}", 'w')
+
+dir_path = File.dirname(Dir.getwd).split('/')
+unless dir_path[-1] == 'books'
+  abort('ERROR: Must run in "$BIBLE/books/<book>" directory.')
+end
+
+# from .bible file to .tex
+prev_line_is_text = false
+File.open("./#{bookname}.bible").each do |line|
+  line.chomp!
+  line.rstrip!
+  exit if line.match?(/^__END__$/)
+
+  if line.match(/^$/)
+    prev_line_is_text = false
+    fid.puts line
+    next
+  end
+
+  if line.match?(/^# Book: /)
+    _pre, bookname = line.split(':')
+    fid.puts "\\chapter{#{bookname.strip}}"
+
+    prev_line_is_text = false
+    next
+  end
+
+  if line.match?(/^# Section: /)
+    _pre, section_name = line.split(':')
+    fid.puts "\\newpage\\section{#{section_name.strip}}"
+
+    prev_line_is_text = false
+    next
+  end
+
+  # remove other comments
+  if line.match(/^ *#/)
+    next
+  end
+
+  if line.match?(/ *\{$/)
+    fid.puts
+    fid.puts "#{line}\\itshape{}"
+
+    prev_line_is_text = false
+    next
+  end
+
+  if line.match?(/ *\}$/)
+    fid.puts
+    fid.puts "#{line}"
+
+    prev_line_is_text = false
+    next
+  end
+
+  # one tab indent
+  indent = ''
+  line.split('').each do |char|
+    if char == ' '
+      indent += char
+    else
+      break
+    end
+  end
+
+  unless indent.length.modulo(2).zero?
+    fid.puts "ERROR: indent must be multiple of two ∷ '#{line}'"
+    exit
+  end
+
+  if prev_line_is_text
+    fid.puts "\\\\"
+  else
+    prev_line_is_text = true
+  end
+
+  1.upto(indent.length/2).each do
+    fid.puts "#{indent}\\tab{}"
+  end
+
+  fid.puts line
+end
+FileUtils.chmod(0444, filename)

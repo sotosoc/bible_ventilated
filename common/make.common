@@ -1,23 +1,32 @@
-SOURCE := ../../common/header.tex $(BOOK).tex ../../common/tailer.tex
-BASENAME := $(BOOK)_book
+PIECES := ../../common/header.tex $(BOOK).tex ../../common/tailer.tex
+BOOKNAME := $(BOOK)_book
 
 VIEWER := okular
 
-$(BASENAME).pdf: $(SOURCE)
-	cat $^ > $(BASENAME).tex
-	pdflatex $(BASENAME).tex
+all: $(BOOKNAME).pdf
 
-.PHONY: clean edit view
+$(BOOKNAME).pdf: $(PIECES)
+	cat $^ > $(BOOKNAME).tex
+	pdflatex $(BOOKNAME).tex
+
+$(BOOK).tex: $(BOOK).bible
+	../../bin/bible2tex
+
+.PHONY: clean copy edit view
 
 clean:
 	rm -f *.log
 	rm -f *.aux
 	rm -f *.out
 	rm -f *.pdf
+	rm -f *.tex
 	rm -f done
+
+copy:
+	cp -f *.pdf ~/Dropbox/pdfs
 
 edit:
 	vi $(BOOK).tex
 
 view:
-	$(VIEWER) $(BASENAME).pdf >/dev/null 2>&1 &
+	$(VIEWER) $(BOOKNAME).pdf >/dev/null 2>&1 &

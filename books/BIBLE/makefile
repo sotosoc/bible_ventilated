@@ -1,33 +1,12 @@
 BOOK := BIBLE
 
-SOURCES := ../../common/header.tex
-SOURCES += ../2john/2john.tex
-SOURCES += ../3john/3john.tex
-SOURCES += ../jude/jude.tex
-SOURCES += ../../common/tailer.tex
+include ../../common/make.common
 
-BASENAME := $(BOOK)
+SOURCES += ../2john/2john.bible
+SOURCES += ../3john/3john.bible
+SOURCES += ../jude/jude.bible
 
-VIEWER := okular
+BIBLE.bible: $(SOURCES)
+	cat $^ > BIBLE.bible
+	chmod 444 BIBLE.bible
 
-done: $(BASENAME).pdf
-	touch done
-
-$(BASENAME).pdf: $(SOURCES)
-	cat $^ > $(BASENAME).tex
-	pdflatex $(BASENAME).tex
-
-.PHONY: clean edit view
-
-clean:
-	rm -f *.log
-	rm -f *.aux
-	rm -f *.out
-	rm -f *.pdf
-	rm -f done
-
-edit:
-	vi $(BOOK).tex
-
-view:
-	$(VIEWER) $(BASENAME).pdf >/dev/null 2>&1 &
