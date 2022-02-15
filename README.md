@@ -54,7 +54,7 @@ Using LaTex my format includes the following:
 - Line-and-a-half spacing the text.
 
 - Breaking text into clauses, somewhat like poetry.
-  (Techincally, this is called ***enjambment***.)
+  (Technically, this is called ***enjambment***.)
 
 - A distinct section per page (where possible).
 
@@ -92,7 +92,7 @@ While these exist, these are my thoughts on them:
   I seek to be extensively uncreative in creating these headings.
 
 - Headings are in the exact same place on every page.
-  This means your eyes can anticipate the location of the firs line of text
+  This means your eyes can anticipate the location of the first line of text
   on the next page.
   I ignore these headings almost all of the time.
 
