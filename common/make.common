@@ -3,7 +3,7 @@ BOOKNAME := $(BOOK)_book
 
 VIEWER := okular
 
-all: $(BOOKNAME).pdf
+all: $(BOOKNAME).pdf copy
 
 $(BOOKNAME).pdf: $(PIECES)
 	cat $^ > $(BOOKNAME).tex
