@@ -3,6 +3,7 @@ BOOK := LARGE
 include ../../common/make.common
 
 # Largest *.bible file to smallest
+SOURCES += ../haggai/haggai.bible
 SOURCES += ../titus/titus.bible
 SOURCES += ../jude/jude.bible
 SOURCES += ../obadiah/obadiah.bible

@@ -17,6 +17,7 @@ end
 
 # from .bible file to .tex
 prev_line_is_text = false
+quote_depth = 0
 File.open("./#{bookname}.bible").each do |line|
   line.chomp!
   line.rstrip!
@@ -49,16 +50,28 @@ File.open("./#{bookname}.bible").each do |line|
     next
   end
 
-  if line.match?(/ *\{$/)
+  # increase quote depth
+  if line.match?(/ *\{/)
+    quote_depth += 1
+
     fid.puts
-    fid.puts "#{line}\\itshape{}"
+    case quote_depth
+    when 1
+      fid.puts "#{line}\\itshape"
+    when 2
+      fid.puts "#{line}\\normalfont\\textbf"
+    when 3
+      fid.puts "#{line}\\normalfont\\itshape"
+    end
 
     prev_line_is_text = false
     next
   end
 
+  # decrease quote depth
   if line.match?(/ *\}$/)
-    fid.puts
+    quote_depth -= 1
+
     fid.puts "#{line}"
 
     prev_line_is_text = false
@@ -87,7 +100,7 @@ File.open("./#{bookname}.bible").each do |line|
   end
 
   1.upto(indent.length/2).each do
-    fid.puts "#{indent}\\tab{}"
+    fid.puts "#{indent}\\tab"
   end
 
   fid.puts line

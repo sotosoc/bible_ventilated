@@ -13,3 +13,4 @@
 (cd ./books/3john    && make)
 (cd ./books/jude     && make)
 (cd ./books/obadiah  && make)
+(cd ./books/haggai   && make)

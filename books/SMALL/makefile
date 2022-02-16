@@ -9,6 +9,7 @@ SOURCES += ../philemon/philemon.bible
 SOURCES += ../obadiah/obadiah.bible
 SOURCES += ../jude/jude.bible
 SOURCES += ../titus/titus.bible
+SOURCES += ../haggai/haggai.bible
 
 $(BOOK).bible: $(SOURCES)
 	rm -f $@
