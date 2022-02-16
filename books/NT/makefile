@@ -1,8 +1,7 @@
-BOOK := BIBLE
+BOOK := NT
 
 include ../../common/make.common
 
-SOURCES += ../obadiah/obadiah.bible
 SOURCES += ../titus/titus.bible
 SOURCES += ../philemon/philemon.bible
 SOURCES += ../2john/2john.bible
@@ -13,4 +12,3 @@ $(BOOK).bible: $(SOURCES)
 	rm -f $@
 	cat $^ > $@
 	chmod 444 $@
-
