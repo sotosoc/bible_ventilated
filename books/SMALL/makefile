@@ -10,6 +10,7 @@ SOURCES += ../obadiah/obadiah.bible
 SOURCES += ../jude/jude.bible
 SOURCES += ../titus/titus.bible
 SOURCES += ../haggai/haggai.bible
+SOURCES += ../2thessalonians/2thessalonians.bible
 
 $(BOOK).bible: $(SOURCES)
 	rm -f $@

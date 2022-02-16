@@ -4,6 +4,7 @@ include ../../common/make.common
 
 SOURCES += ../obadiah/obadiah.bible
 SOURCES += ../haggai/haggai.bible
+SOURCES += ../2thessalonians/2thessalonians.bible
 SOURCES += ../titus/titus.bible
 SOURCES += ../philemon/philemon.bible
 SOURCES += ../2john/2john.bible
