@@ -12,6 +12,7 @@ SOURCES += ../jude/jude.bible
 SOURCES += ../obadiah/obadiah.bible
 SOURCES += ../nahum/nahum.bible
 SOURCES += ../habakkuk/habakkuk.bible
+SOURCES += ../zephaniah/zephaniah.bible
 SOURCES += ../haggai/haggai.bible
 
 $(BOOK).bible: $(SOURCES)

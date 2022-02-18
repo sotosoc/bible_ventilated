@@ -13,6 +13,7 @@ SOURCES += ../haggai/haggai.bible
 SOURCES += ../2thessalonians/2thessalonians.bible
 SOURCES += ../nahum/nahum.bible
 SOURCES += ../habakkuk/habakkuk.bible
+SOURCES += ../zephaniah/zephaniah.bible
 
 $(BOOK).bible: $(SOURCES)
 	rm -f $@
