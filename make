@@ -8,6 +8,7 @@
 (cd ./books/NT             && make)
 
 (cd ./books/2john          && make)
+(cd ./books/2peter         && make)
 (cd ./books/2thessalonians && make)
 (cd ./books/3john          && make)
 (cd ./books/habakkuk       && make)
