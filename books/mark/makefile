@@ -1,3 +1,3 @@
 BOOK := mark
 
-include ../../common/make.common/
+include ../../common/make.common

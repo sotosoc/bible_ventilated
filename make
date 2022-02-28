@@ -6,6 +6,7 @@
 (cd ./books/MINOR          && make)
 (cd ./books/OT             && make)
 (cd ./books/NT             && make)
+(cd ./books/REVERSED       && make)
 
 (cd ./books/2john          && make)
 (cd ./books/2peter         && make)
@@ -14,6 +15,7 @@
 (cd ./books/habakkuk       && make)
 (cd ./books/haggai         && make)
 (cd ./books/jude           && make)
+(cd ./books/mark           && make)
 (cd ./books/nahum          && make)
 (cd ./books/obadiah        && make)
 (cd ./books/philemon       && make)

@@ -15,6 +15,8 @@ SOURCES += ../nahum/nahum.bible
 SOURCES += ../habakkuk/habakkuk.bible
 SOURCES += ../zephaniah/zephaniah.bible
 SOURCES += ../2peter/2peter.bible
+# GAP
+SOURCES += ../mark/mark.bible
 
 $(BOOK).bible: $(SOURCES)
 	rm -f $@

@@ -3,6 +3,8 @@ BOOK := LARGE
 include ../../common/make.common
 
 # Largest *.bible file to smallest
+SOURCES += ../mark/mark.bible
+# GAP
 SOURCES += ../2peter/2peter.bible
 SOURCES += ../zephaniah/zephaniah.bible
 SOURCES += ../habakkuk/habakkuk.bible

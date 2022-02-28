@@ -2,6 +2,7 @@ BOOK := NT
 
 include ../../common/make.common
 
+SOURCES += ../mark/mark.bible
 SOURCES += ../2thessalonians/2thessalonians.bible
 SOURCES += ../titus/titus.bible
 SOURCES += ../philemon/philemon.bible
