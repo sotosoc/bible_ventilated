@@ -12,6 +12,7 @@ SOURCES += ../3john/3john.bible
 SOURCES += ../jude/jude.bible
 
 SOURCES += ../obadiah/obadiah.bible
+SOURCES += ../jonah/jonah.bible
 SOURCES += ../nahum/nahum.bible
 SOURCES += ../habakkuk/habakkuk.bible
 SOURCES += ../zephaniah/zephaniah.bible

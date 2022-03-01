@@ -15,6 +15,7 @@ SOURCES += ../haggai/haggai.bible
 SOURCES += ../zephaniah/zephaniah.bible
 SOURCES += ../habakkuk/habakkuk.bible
 SOURCES += ../nahum/nahum.bible
+SOURCES += ../jonah/jonah.bible
 SOURCES += ../obadiah/obadiah.bible
 
 $(BOOK).bible: $(SOURCES)

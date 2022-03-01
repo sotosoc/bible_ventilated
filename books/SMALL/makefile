@@ -15,6 +15,7 @@ SOURCES += ../nahum/nahum.bible
 SOURCES += ../habakkuk/habakkuk.bible
 SOURCES += ../zephaniah/zephaniah.bible
 SOURCES += ../2peter/2peter.bible
+SOURCES += ../jonah/jonah.bible
 # GAP
 SOURCES += ../mark/mark.bible
 
