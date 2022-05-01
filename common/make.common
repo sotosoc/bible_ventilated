@@ -12,7 +12,7 @@ $(BOOKNAME).pdf: $(PIECES)
 $(BOOK).tex: $(BOOK).bible
 	../../bin/bible2tex
 
-.PHONY: clean copy edit view
+.PHONY: clean copy edit setup view
 
 clean:
 	rm -f *.log
@@ -26,7 +26,12 @@ copy:
 	cp -f *.pdf ~/Dropbox/pdfs
 
 edit:
-	vi $(BOOK).tex
+	vi $(BOOK).bible
+
+setup:
+	../../bin/setupbook
+	\mv $(BOOK).bible $(BOOK).bible.bak
+	\mv tmp.bible $(BOOK).bible
 
 view:
 	$(VIEWER) $(BOOKNAME).pdf >/dev/null 2>&1 &
