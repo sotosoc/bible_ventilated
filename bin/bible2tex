@@ -1,8 +1,7 @@
 #!/usr/bin/env ruby
 
-require "fileutils"
-
-puts Time.now
+require 'byebug'
+require 'fileutils'
 
 bookname = File.basename(Dir.getwd)
 
@@ -44,6 +43,22 @@ File.open("./#{bookname}.bible").each do |line|
     prev_line_is_text = false
     next
   end
+
+  if line.match?(/^# RJUST: /)
+    _pre, text = line.split(':')
+    fid.puts "\\hfill{}#{text.strip}"
+
+    prev_line_is_text = false
+    next
+  end
+
+  if line.match?(/^# SEPARATOR/)
+    fid.puts "\\begin{center}\\textbf{$\\ast$~$\\ast$~$\\ast$~$\\ast$~$\\ast$}\\end{center}"
+
+    prev_line_is_text = false
+    next
+  end
+
 
   # remove other comments
   if line.match(/^ *#/)
