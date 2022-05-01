@@ -1,0 +1,25 @@
+#!/bin/env ruby
+
+fod = File.open('tmp.bible', 'w')
+
+# NOTE: get the file from the local directory
+File.open(Dir["*.bible"][0]).each do |line|
+  line.chomp!
+  line.gsub!(/[%] /, "#")
+
+  line.gsub!(/[.] /, ".\n\n")
+  line.gsub!(/[?] /, "?\n\n")
+  line.gsub!(/[!] /, "!\n\n")
+  line.gsub!(/[.]'' /, ".''\n\n")
+  line.gsub!(/[?]'' /, "?''\n\n")
+  line.gsub!(/[!]'' /, "!''\n\n")
+
+  line.gsub!(/[,] /, ",\n")
+  line.gsub!(/[;] /, ";\n")
+  line.gsub!(/[:] /, ":\n")
+
+  line.gsub!(/ ``/, "\n``\n")
+
+  fod.puts line
+end
+fod.close
