@@ -1,8 +1,11 @@
 #!/bin/env ruby
 
-fod = File.open('tmp.bible', 'w')
+require 'byebug'
 
-# NOTE: get the file from the local directory
+# NOTE: This is terrible dumb of me and needs to be fixed
+fod = File.open('zzz.bible', 'w')
+
+# NOTE: get the file from the local directory name
 File.open(Dir["*.bible"][0]).each do |line|
   line.chomp!
   line.gsub!(/[%] /, "#")

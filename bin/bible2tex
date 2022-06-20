@@ -17,7 +17,7 @@ end
 # from .bible file to .tex
 prev_line_is_text = false
 quote_depth = 0
-File.open("./#{bookname}.bible").each do |line|
+File.open("./#{bookname}.bible").each_with_index do |line, index|
   line.chomp!
   line.rstrip!
   exit if line.match?(/^__END__$/)

@@ -2,3 +2,4 @@
 versify.rb
 .byebug*
 *.orig
+*.bak
