@@ -27,8 +27,8 @@ if and where it helps to understand the text.
 This is my experience since experimenting with ventilated prose in my Bible study.
 
 ```
-  The ventilated text  
-    exposes each word or phrase of Scripture  
+  The ventilated text
+    exposes each word or phrase of Scripture
         to my mind.
 ```
 
@@ -36,8 +36,8 @@ Thus, the words of Scripture have no place to hide from me.
 And:
 
 ```
-  The ventilated text  
-    exposes my mind  
+  The ventilated text
+    exposes my mind
       to each word or phrase of Scripture.
 ```
 
@@ -68,7 +68,7 @@ presentation.
 
 ## Consistent Ventilation
 
-I don't presently believe there is one correct way to ventilate a given passage.  
+I don't presently believe there is one correct way to ventilate a given passage.
 If I ventilate a passage twice, I will find that I do it differently each time.
 
 As I read a ventilated passage,
@@ -118,13 +118,13 @@ because she cannot read the Bible without chapter and verse numbers.
 For her, ***not*** having the chapter and verse numbers is a distraction.
 This is a genuine difference between us.
 
-Chapter and verse and numbers are an invention of a couple hundred years ago.  
+Chapter and verse and numbers are an invention of a couple hundred years ago.
 They have been considered largely inviolable ever since.
 
 I am a skeptic when it comes to inventions.
-All inventions have pros and cons.  
+All inventions have pros and cons.
 
-I can see the advantage of a preacher being able to reference a text for consideration.  
+I can see the advantage of a preacher being able to reference a text for consideration.
 But what are the cons of having chapter and verse numbers
 in almost every printed version of the Bible?
 
