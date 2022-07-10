@@ -986,24 +986,33 @@ and you shall serve him only.’''
 # Luke 04:09
 He led him to Jerusalem and set him on the pinnacle of the temple,
 and said to him,
-``If you are the Son of God,
-cast yourself down from here,
-
-# Luke 04:10
-for it is written,
-‘He will put his angels in charge of you,
-to guard you;’
+{
+  If you are the Son of God,
+  cast yourself down from here,
+  # Luke 04:10
+  for it is written,
+  {
+    He will put his angels in charge of you,
+    to guard you;
+  }
 
 # Luke 04:11
 and,
-‘On their hands they will bear you up,
-lest perhaps you dash your foot against a stone.’''
+  {
+    On their hands they will bear you up,
+    lest perhaps you dash your foot against a stone.
+  }
+}
 
 # Luke 04:12
 Jesus answering,
 said to him,
-``It has been said,
-‘You shall not tempt the Lord your God.’''
+{
+  It has been said,
+  {
+    You shall not tempt the Lord your God.
+  }
+}
 
 # Luke 04:13
 When the devil had completed every temptation,
