@@ -18,106 +18,109 @@ end
 prev_line_is_text = false
 quote_depth = 0
 File.open("./#{bookname}.bible").each_with_index do |line, index|
-  line.chomp!
-  line.rstrip!
-  exit if line.match?(/^__END__$/)
+  line.chomp!.rstrip!
+  exit if line.match?(/^__END__/)
+
+  indent = line[/^ +/] || ''
+  abort "ERROR: indent not multiple of two ∷ '#{line}'" unless indent.length.modulo(2).zero?
+
+  byebug if line.match?(/^BYEBUG/)
 
   if line.match(/^$/)
     prev_line_is_text = false
     fid.puts line
+    puts line
+    fid.flush
     next
-  end
 
-  if line.match?(/^# Book: /)
+  elsif line.match?(/# Book: /)
     _pre, bookname = line.split(':')
     fid.puts "\\chapter{#{bookname.strip}}"
+    fid.flush
 
     prev_line_is_text = false
     next
-  end
 
-  if line.match?(/^# Section: /)
+  elsif line.match?(/^# Section: /)
     _pre, section_name = line.split(':')
     fid.puts "\\newpage\\section{#{section_name.strip}}"
+    fid.flush
 
     prev_line_is_text = false
     next
-  end
 
-  if line.match?(/^# RJUST: /)
+  elsif line.match?(/^# RJUST: /)
     _pre, text = line.split(':')
     fid.puts "\\hfill{}#{text.strip}"
+    fid.flush
 
     prev_line_is_text = false
     next
-  end
 
-  if line.match?(/^# SEPARATOR/)
+  elsif line.match?(/^# SEPARATOR/)
     fid.puts "\\begin{center}\\textbf{$\\ast$~$\\ast$~$\\ast$~$\\ast$~$\\ast$}\\end{center}"
+    fid.flush
 
     prev_line_is_text = false
     next
-  end
 
-
-  # remove other comments
-  if line.match(/^ *#/)
+  elsif line.match(/^ *#/)
     next
-  end
 
-  # increase quote depth
-  if line.match?(/ *\{/)
+  elsif line.match?(/ *\{/)
     quote_depth += 1
 
     fid.puts
     case quote_depth
     when 1
-      fid.puts "#{line}\\itshape"
+      fid.puts "#{line}\\itshape{}"
+      fid.flush
     when 2
-      fid.puts "#{line}\\normalfont\\textbf"
+      fid.puts "#{line}\\normalfont\\textbf{}"
+      fid.flush
     when 3
-      fid.puts "#{line}\\normalfont\\itshape"
+      fid.puts "#{line}\\normalfont\\itshape{}"
+      fid.flush
+    when 4
+      fid.puts "#{line}\\normalfont\\textbf{}"
+      fid.flush
+    when 5
+      fid.puts "#{line}\\normalfont\\itshape{}"
+      fid.flush
     end
 
     prev_line_is_text = false
+    fid.flush
     next
-  end
 
   # decrease quote depth
-  if line.match?(/ *\}$/)
+  elsif line.match?(/ *\}/)
     quote_depth -= 1
 
+    if line.match?(/^}$/) && !quote_depth.zero?
+      abort("#{index} ∷ #{line}")
+    end
+
     fid.puts "#{line}"
+    fid.flush
 
     prev_line_is_text = false
     next
-  end
-
-  # one tab indent
-  indent = ''
-  line.split('').each do |char|
-    if char == ' '
-      indent += char
-    else
-      break
-    end
-  end
-
-  unless indent.length.modulo(2).zero?
-    fid.puts "ERROR: indent must be multiple of two ∷ '#{line}'"
-    exit
   end
 
   if prev_line_is_text
-    fid.puts "\\\\"
-  else
-    prev_line_is_text = true
+    fid.puts "#{indent}\\\\"
+    fid.flush
   end
 
   1.upto(indent.length/2).each do
     fid.puts "#{indent}\\tab"
+    fid.flush
   end
 
   fid.puts line
+  fid.flush
+
+  prev_line_is_text = true
 end
 FileUtils.chmod(0444, filename)

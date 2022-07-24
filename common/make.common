@@ -26,12 +26,12 @@ copy:
 	cp -f *.pdf ~/Dropbox/pdfs
 
 edit:
-	vi $(BOOK).bible
+	vim $(BOOK).bible
 
 setup:
 	../../bin/setupbook
 	\mv $(BOOK).bible $(BOOK).bible.bak
 	\mv zzz.bible $(BOOK).bible
 
-view:
+view: all
 	$(VIEWER) $(BOOKNAME).pdf >/dev/null 2>&1 &
