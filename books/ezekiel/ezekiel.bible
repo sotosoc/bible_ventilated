@@ -349,7 +349,11 @@ Go to them of the captivity,
 to the children of your people,
 and speak to them,
 and tell them,
-‘This is what the Lord Yahweh says,’ whether they will hear,
+{
+  This is what the Lord Yahweh says,
+}
+
+whether they will hear,
 or whether they will refuse.''
 
 # Ezekiel 03:12
@@ -1792,17 +1796,27 @@ Again Yahweh's word came to me,
 saying,
 
 # Ezekiel 12:27
-``Son of man,
-behold,
-they of the house of Israel say,
-‘The vision that he sees is for many days to come,
-and he prophesies of times that are far off.’
+{
+  Son of man,
+  behold,
+  they of the house of Israel say,
+  {
+    The vision that he sees is for many days to come,
+    and he prophesies of times that are far off.
+  }
 
-# Ezekiel 12:28
-``Therefore tell them,
-‘The Lord Yahweh says:
-``None of my words will be deferred any more,
-but the word which I speak will be performed,'' says the Lord Yahweh.’''
+  # Ezekiel 12:28
+  Therefore tell them,
+  {
+    The Lord Yahweh says:
+    {
+      None of my words will be deferred any more,
+      but the word which I speak will be performed,
+    }
+
+    says the Lord Yahweh.
+  }
+}
 
 # Ezekiel 12:29
 Ezekiel.
@@ -1986,14 +2000,16 @@ and put the stumbling block of their iniquity before their face.
 Should I be inquired of at all by them?
 
 # Ezekiel 14:04
-Therefore speak to them and tell them,
-‘The Lord Yahweh says:
-``Every man of the house of Israel who takes his idols into his heart and puts the stumbling block of his iniquity before his face then comes to the prophet,
-I Yahweh will answer him there according to the multitude of his idols,
+  Therefore speak to them and tell them,
+  {
+    The Lord Yahweh says:
+    ``Every man of the house of Israel who takes his idols into his heart and puts the stumbling block of his iniquity before his face then comes to the prophet,
+    I Yahweh will answer him there according to the multitude of his idols,
 
-# Ezekiel 14:05
-that I may take the house of Israel in their own heart,
-because they are all estranged from me through their idols.''’
+    # Ezekiel 14:05
+    that I may take the house of Israel in their own heart,
+    because they are all estranged from me through their idols.''
+  }
 
 # Ezekiel 14:06
 ``Therefore tell the house of Israel,
@@ -8452,7 +8468,6 @@ Twenty shekels plus twenty-five shekels plus fifteen shekels shall be your mina.
 ``‘``This is the offering that you shall offer:
 the sixth part of an ephah from a homer of wheat,
 and you shall give the sixth part of an ephah from a homer of barley,
-
 # Ezekiel 45:14
 and the set portion of oil,
 of the bath of oil,
