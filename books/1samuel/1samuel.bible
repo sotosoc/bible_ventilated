@@ -1269,15 +1269,17 @@ lest my father stop caring about the donkeys and be anxious for us.''
 
 # 1Samuel 09:06
 The servant said to him,
-``Behold now,
-there is a man of God in this city,
-and he is a man who is held in honor.
+{
+  Behold now,
+  there is a man of God in this city,
+  and he is a man who is held in honor.
 
-All that he says surely happens.
+  All that he says surely happens.
 
-Now let's go there.
+  Now let's go there.
 
-Perhaps he can tell us which way to go.''
+  Perhaps he can tell us which way to go.
+}
 
 # 1Samuel 09:07
 Then Saul said to his servant,
@@ -1410,9 +1412,13 @@ who were about thirty persons.
 
 # 1Samuel 09:23
 Samuel said to the cook,
-``Bring the portion which I gave you,
-of which I said to you,
-‘Set it aside.’''
+{
+  Bring the portion which I gave you,
+  of which I said to you,
+  {
+    Set it aside.
+  }
+}
 
 # 1Samuel 09:24
 The cook took up the thigh,
@@ -1420,13 +1426,19 @@ and that which was on it,
 and set it before Saul.
 
 Samuel said,
-``Behold,
-that which has been reserved!
+{
+  Behold,
+  that which has been reserved!
 
-Set it before yourself and eat;
-because it has been kept for you for the appointed time,
-for I said,
-‘I have invited the people.’'' So Saul ate with Samuel that day.
+  Set it before yourself and eat;
+  because it has been kept for you for the appointed time,
+  for I said,
+  {
+    I have invited the people.
+  }
+}
+
+So Saul ate with Samuel that day.
 
 # 1Samuel 09:25
 When they had come down from the high place into the city,
@@ -1437,8 +1449,10 @@ They arose early;
 and about daybreak,
 Samuel called to Saul on the housetop,
 saying,
-``Get up,
-that I may send you away.''
+{
+  Get up,
+  that I may send you away.
+}
 
 Saul arose,
 and they both went outside,
@@ -1448,74 +1462,81 @@ together.
 # 1Samuel 09:27
 As they were going down at the end of the city,
 Samuel said to Saul,
-``Tell the servant to go on ahead of us.''
+{
+  Tell the servant to go on ahead of us.
+}
 
 He went ahead,
 then Samuel said,
-``But stand still first,
-that I may cause you to hear God's message.''
-
-# 1Samuel 09:28
-1 Samuel.
+{
+  But stand still first,
+  that I may cause you to hear God's message.
+}
 
 # 1Samuel 10:01
 Then Samuel took the vial of oil and poured it on his head,
 then kissed him and said,
-``Hasn’t Yahweh anointed you to be prince over his inheritance?
+{
+  Hasn’t Yahweh anointed you to be prince over his inheritance?
 
-# 1Samuel 10:02
-When you have departed from me today,
-then you will find two men by Rachel's tomb,
-on the border of Benjamin at Zelzah.
+  # 1Samuel 10:02
+  When you have departed from me today,
+  then you will find two men by Rachel's tomb,
+  on the border of Benjamin at Zelzah.
 
-They will tell you,
-‘The donkeys which you went to look for have been found;
-and behold,
-your father has stopped caring about the donkeys and is anxious for you,
-saying,
-``What shall I do for my son?''’
+  They will tell you,
+  {
+    The donkeys which you went to look for have been found;
+    and behold,
+    your father has stopped caring about the donkeys and is anxious for you,
+    saying,
+    {
+      What shall I do for my son?
+    }
+  }
 
-# 1Samuel 10:03
-``Then you will go on forward from there,
-and you will come to the oak of Tabor.
+  # 1Samuel 10:03
+  Then you will go on forward from there,
+  and you will come to the oak of Tabor.
 
-Three men will meet you there going up to God to Bethel:
-one carrying three young goats,
-and another carrying three loaves of bread,
-and another carrying a container of wine.
+  Three men will meet you there going up to God to Bethel:
+  one carrying three young goats,
+  and another carrying three loaves of bread,
+  and another carrying a container of wine.
 
-# 1Samuel 10:04
-They will greet you and give you two loaves of bread,
-which you shall receive from their hand.
+  # 1Samuel 10:04
+  They will greet you and give you two loaves of bread,
+  which you shall receive from their hand.
 
 # 1Samuel 10:05
-``After that you will come to the hill of God,
-where the garrison of the Philistines is;
-and it will happen,
-when you have come there to the city,
-that you will meet a band of prophets coming down from the high place with a lute,
-a tambourine,
-a pipe,
-and a harp before them;
-and they will be prophesying.
+  After that you will come to the hill of God,
+  where the garrison of the Philistines is;
+  and it will happen,
+  when you have come there to the city,
+  that you will meet a band of prophets coming down from the high place with a lute,
+  a tambourine,
+  a pipe,
+  and a harp before them;
+  and they will be prophesying.
 
-# 1Samuel 10:06
-Then Yahweh's Spirit will come mightily on you,
-then you will prophesy with them and will be turned into another man.
+  # 1Samuel 10:06
+  Then Yahweh's Spirit will come mightily on you,
+  then you will prophesy with them and will be turned into another man.
 
-# 1Samuel 10:07
-Let it be,
-when these signs have come to you,
-that you do what is appropriate for the occasion;
-for God is with you.
+  # 1Samuel 10:07
+  Let it be,
+  when these signs have come to you,
+  that you do what is appropriate for the occasion;
+  for God is with you.
 
-# 1Samuel 10:08
-``Go down ahead of me to Gilgal;
-and behold,
-I will come down to you to offer burnt offerings and to sacrifice sacrifices of peace offerings.
+  # 1Samuel 10:08
+  Go down ahead of me to Gilgal;
+  and behold,
+  I will come down to you to offer burnt offerings and to sacrifice sacrifices of peace offerings.
 
-Wait seven days,
-until I come to you and show you what you are to do.''
+  Wait seven days,
+  until I come to you and show you what you are to do.
+}
 
 # 1Samuel 10:09
 It was so,
@@ -2212,8 +2233,13 @@ and behold,
 they were all striking each other with their swords in very great confusion.
 
 # 1Samuel 14:21
-Now the Hebrews who were with the Philistines before and who went up with them into the camp from all around,
-even they also turned to be with the Israelites who were with Saul and Jonathan.
+Now the Hebrews
+who were with the Philistines before
+and who went up with them
+  into the camp
+  from all around,
+even they also turned to be with the Israelites
+who were with Saul and Jonathan.
 
 # 1Samuel 14:22
 Likewise all the men of Israel who had hidden themselves in the hill country of Ephraim,
@@ -4659,7 +4685,8 @@ and he insulted them.
 # 1Samuel 25:15
 But the men were very good to us,
 and we were not harmed,
-and we didn’t miss anything as long as we went with them,
+and we didn’t miss anything
+as long as we went with them,
 when we were in the fields.
 
 # 1Samuel 25:16
@@ -5148,17 +5175,25 @@ and against the South of the Kenites.''
 # 1Samuel 27:11
 David saved neither man nor woman alive to bring them to Gath,
 saying,
-``Lest they should tell about us,
-saying,
-‘David did this,
-and this has been his way all the time he has lived in the country of the Philistines.’''
+{
+  Lest they should tell about us,
+  saying,
+  {
+    David did this,
+    and this has been his way
+    all the time
+    he has lived in the country of the Philistines.
+  }
+}
 
 # 1Samuel 27:12
 Achish believed David,
 saying,
-``He has made his people Israel utterly to abhor him.
+{
+  He has made his people Israel utterly to abhor him.
 
-Therefore he will be my servant forever.''
+  Therefore he will be my servant forever.
+}
 
 # 1Samuel 27:13
 1 Samuel.
