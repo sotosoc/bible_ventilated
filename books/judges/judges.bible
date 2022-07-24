@@ -237,24 +237,32 @@ Judges.
 Yahweh's angel came up from Gilgal to Bochim.
 
 He said,
-``I brought you out of Egypt,
-and have brought you to the land which I swore to give your fathers.
+{
+  I brought you out of Egypt,
+  and have brought you to the land which I swore to give your fathers.
 
-I said,
-‘I will never break my covenant with you.
+  I said,
+  {
+    I will never break my covenant with you.
 
-# Judges 02:02
-You shall make no covenant with the inhabitants of this land.
+    # Judges 02:02
+    You shall make no covenant with the inhabitants of this land.
 
-You shall break down their altars.’ But you have not listened to my voice.
+    You shall break down their altars.
+  }
 
-Why have you done this?
+  But you have not listened to my voice.
 
-# Judges 02:03
-Therefore I also said,
-‘I will not drive them out from before you;
-but they shall be in your sides,
-and their gods will be a snare to you.’''
+  Why have you done this?
+
+  # Judges 02:03
+  Therefore I also said,
+  {
+    I will not drive them out from before you;
+    but they shall be in your sides,
+    and their gods will be a snare to you.
+  }
+}
 
 # Judges 02:04
 When Yahweh's angel spoke these words to all the children of Israel,
@@ -3464,7 +3472,10 @@ and took the engraved image,
 the ephod,
 the teraphim,
 and the molten image;
-and the priest stood by the entrance of the gate with the six hundred men armed with weapons of war.
+and the priest stood
+by the entrance of the gate
+with the six hundred men
+armed with weapons of war.
 
 # Judges 18:18
 When these went into Micah's house,
