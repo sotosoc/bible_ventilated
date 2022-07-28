@@ -13,7 +13,6 @@ and God's Spirit was hovering over the surface of the waters.
 
 # Section: First day
 # Genesis 01:03
-STARTHERE
 
 God said,
 {
@@ -29,56 +28,59 @@ and saw that it was good.
 God divided the light from the darkness.
 
 # Genesis 01:05
-God called the light
-``
-day'',
-and the darkness he called
-``
-night''.
+God called the light ``day'',
+and the darkness he called ``night''.
 
 There was evening and there was morning,
 the first day.
 
+# Section: Second day
 # Genesis 01:06
 God said,
-``Let there be an expanse in the middle of the waters,
-and let it divide the waters from the waters.''
+{
+  Let there be an expanse in the middle of the waters,
+  and let it divide the waters from the waters.
+}
 
 # Genesis 01:07
 God made the expanse,
-and divided the waters which were under the expanse from the waters which were above the expanse;
+and divided the waters which were under the expanse
+from the waters which were above the expanse;
 and it was so.
 
 # Genesis 01:08
-God called the expanse
-``
-sky''.
+God called the expanse ``sky''.
 
 There was evening and there was morning,
 a second day.
 
+# Section: Third day
 # Genesis 01:09
 God said,
-``Let the waters under the sky be gathered together to one place,
-and let the dry land appear;'' and it was so.
+{
+  Let the waters under the sky be gathered together to one place,
+  and let the dry land appear;
+}
+
+and it was so.
 
 # Genesis 01:10
-God called the dry land
-``
-earth'',
-and the gathering together of the waters he called
-``
-seas''.
+God called the dry land ``earth'',
+and the gathering together of the waters he called ``seas''.
 
 God saw that it was good.
 
 # Genesis 01:11
 God said,
-``Let the earth yield grass,
-herbs yielding seeds,
-and fruit trees bearing fruit after their kind,
-with their seeds in it,
-on the earth;'' and it was so.
+{
+  Let the earth yield grass,
+  herbs yielding seeds,
+  and fruit trees bearing fruit after their kind,
+  with their seeds in it,
+  on the earth;
+}
+
+and it was so.
 
 # Genesis 01:12
 The earth yielded grass,
@@ -92,15 +94,22 @@ and God saw that it was good.
 There was evening and there was morning,
 a third day.
 
+# Section: Fourth day
 # Genesis 01:14
 God said,
-``Let there be lights in the expanse of the sky to divide the day from the night;
-and let them be for signs to mark seasons,
-days,
-and years;
+{
+  Let there be lights
+  in the expanse of the sky
+  to divide the day from the night;
+  and let them be for signs
+  to mark seasons, days, and years;
+  # Genesis 01:15
+  and let them be for lights
+  in the expanse of the sky
+  to give light on the earth;
+}
 
-# Genesis 01:15
-and let them be for lights in the expanse of the sky to give light on the earth;'' and it was so.
+and it was so.
 
 # Genesis 01:16
 God made the two great lights:
@@ -110,8 +119,8 @@ and the lesser light to rule the night.
 He also made the stars.
 
 # Genesis 01:17
-God set them in the expanse of the sky to give light to the earth,
-
+God set them in the expanse of the sky
+to give light to the earth,
 # Genesis 01:18
 and to rule over the day and over the night,
 and to divide the light from the darkness.
@@ -122,6 +131,7 @@ God saw that it was good.
 There was evening and there was morning,
 a fourth day.
 
+# Section: Fifth day
 # Genesis 01:20
 God said,
 ``Let the waters abound with living creatures,
@@ -147,12 +157,17 @@ and let birds multiply on the earth.''
 There was evening and there was morning,
 a fifth day.
 
+# Section: Sixth day
 # Genesis 01:24
 God said,
-``Let the earth produce living creatures after their kind,
-livestock,
-creeping things,
-and animals of the earth after their kind;'' and it was so.
+{
+  Let the earth produce living creatures after their kind,
+  livestock,
+  creeping things,
+  and animals of the earth after their kind;
+}
+
+and it was so.
 
 # Genesis 01:25
 God made the animals of the earth after their kind,
@@ -163,14 +178,16 @@ God saw that it was good.
 
 # Genesis 01:26
 God said,
-``Let's make man in our image,
-after our likeness.
+{
+  Let's make man in our image,
+  after our likeness.
 
-Let them have dominion over the fish of the sea,
-and over the birds of the sky,
-and over the livestock,
-and over all the earth,
-and over every creeping thing that creeps on the earth.''
+  Let them have dominion over the fish of the sea,
+  and over the birds of the sky,
+  and over the livestock,
+  and over all the earth,
+  and over every creeping thing that creeps on the earth.
+}
 
 # Genesis 01:27
 God created man in his own image.
@@ -182,31 +199,37 @@ male and female he created them.
 God blessed them.
 
 God said to them,
-``Be fruitful,
-multiply,
-fill the earth,
-and subdue it.
+{
+  Be fruitful,
+  multiply,
+  fill the earth,
+  and subdue it.
 
-Have dominion over the fish of the sea,
-over the birds of the sky,
-and over every living thing that moves on the earth.''
+  Have dominion over the fish of the sea,
+  over the birds of the sky,
+  and over every living thing that moves on the earth.
+}
 
 # Genesis 01:29
 God said,
-``Behold,
-I have given you every herb yielding seed,
-which is on the surface of all the earth,
-and every tree,
-which bears fruit yielding seed.
+{
+  Behold,
+  I have given you every herb yielding seed,
+  which is on the surface of all the earth,
+  and every tree,
+  which bears fruit yielding seed.
 
-It will be your food.
+  It will be your food.
 
-# Genesis 01:30
-To every animal of the earth,
-and to every bird of the sky,
-and to everything that creeps on the earth,
-in which there is life,
-I have given every green herb for food;'' and it was so.
+  # Genesis 01:30
+  To every animal of the earth,
+  and to every bird of the sky,
+  and to everything that creeps on the earth,
+  in which there is life,
+  I have given every green herb for food;
+}
+
+and it was so.
 
 # Genesis 01:31
 God saw everything that he had made,
@@ -217,20 +240,27 @@ it was very good.
 There was evening and there was morning,
 a sixth day.
 
+# Section: Seventh day
 # Genesis 02:01
 The heavens,
 the earth,
 and all their vast array were finished.
 
 # Genesis 02:02
-On the seventh day God finished his work which he had done;
-and he rested on the seventh day from all his work which he had done.
+On the seventh day
+God finished his work which he had done;
+and he rested on the seventh day
+from all his work which he had done.
 
 # Genesis 02:03
 God blessed the seventh day,
 and made it holy,
-because he rested in it from all his work of creation which he had done.
+because he rested in it
+from all his work of creation
+which he had done.
 
+# Section: This is the history
+STARTHERE
 # Genesis 02:04
 This is the history of the generations of the heavens and of the earth when they were created,
 in the day that Yahweh God made the earth and the heavens.
