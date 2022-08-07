@@ -1,5 +1,5 @@
 export PROJECT=BIBLE
-export BIBLE=$HOME/repos/web_bible_ventilated
+export BIBLE=$HOME/repos/mybible
 
 alias :alias='vi $BIBLE/aliases.sh; . $BIBLE/aliases.sh'
 
