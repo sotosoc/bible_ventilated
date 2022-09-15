@@ -73,19 +73,19 @@ File.open("./#{bookname}.bible").each_with_index do |line, index|
     fid.puts
     case quote_depth
     when 1
-      fid.puts "#{line}\\itshape{}"
+      fid.puts "#{line}\\itshape"
       fid.flush
     when 2
-      fid.puts "#{line}\\normalfont\\textbf{}"
+      fid.puts "#{line}\\normalfont\\textbf"
       fid.flush
     when 3
-      fid.puts "#{line}\\normalfont\\itshape{}"
+      fid.puts "#{line}\\normalfont\\itshape"
       fid.flush
     when 4
-      fid.puts "#{line}\\normalfont\\textbf{}"
+      fid.puts "#{line}\\normalfont\\textbf"
       fid.flush
     when 5
-      fid.puts "#{line}\\normalfont\\itshape{}"
+      fid.puts "#{line}\\normalfont\\itshape"
       fid.flush
     end
 
