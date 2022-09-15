@@ -57,6 +57,13 @@ File.open("./#{bookname}.bible").each_with_index do |line, index|
     prev_line_is_text = false
     next
 
+  elsif line.match?(/^# DOTFILL/)
+    fid.puts
+    fid.flush
+
+    prev_line_is_text = false
+    next
+
   elsif line.match?(/^# SEPARATOR/)
     fid.puts "\\begin{center}\\textbf{$\\ast$~$\\ast$~$\\ast$~$\\ast$~$\\ast$}\\end{center}"
     fid.flush
@@ -73,19 +80,19 @@ File.open("./#{bookname}.bible").each_with_index do |line, index|
     fid.puts
     case quote_depth
     when 1
-      fid.puts "#{line}\\itshape"
+      fid.puts "#{line}\\itshape{}"
       fid.flush
     when 2
-      fid.puts "#{line}\\normalfont\\textbf"
+      fid.puts "#{line}\\normalfont\\bfseries{}"
       fid.flush
     when 3
-      fid.puts "#{line}\\normalfont\\itshape"
+      fid.puts "#{line}\\normalfont\\itshape{}"
       fid.flush
     when 4
-      fid.puts "#{line}\\normalfont\\textbf"
+      fid.puts "#{line}\\normalfont\\bfseries{}"
       fid.flush
     when 5
-      fid.puts "#{line}\\normalfont\\itshape"
+      fid.puts "#{line}\\normalfont\\itshape{}"
       fid.flush
     end
 
