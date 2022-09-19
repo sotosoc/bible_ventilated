@@ -5,6 +5,7 @@ alias :alias='vi $BIBLE/aliases.sh; . $BIBLE/aliases.sh'
 
 alias :b='cd $BIBLE/books'
 alias :bin='cd $BIBLE/bin; ls'
+alias :c='cd $BIBLE/collections; ls'
 alias cdd='cd $BIBLE'
 
 alias :1ac='cd $BIBLE/books/1acts'
