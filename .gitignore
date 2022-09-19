@@ -3,3 +3,4 @@ versify.rb
 .byebug*
 *.orig
 *.bak
+.scratch.vim
