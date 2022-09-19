@@ -17,6 +17,7 @@ end
 # from .bible file to .tex
 prev_line_is_text = false
 quote_depth = 0
+reference = '1:1'
 File.open("./#{bookname}.bible").each_with_index do |line, index|
   line.chomp!.rstrip!
   exit if line.match?(/^__END__/)
@@ -40,6 +41,12 @@ File.open("./#{bookname}.bible").each_with_index do |line, index|
 
     prev_line_is_text = false
     next
+
+  # elsif line.match?(/^# [^ ]+ \d\d:\d\d$/)
+  #   _pre_pre, _pre, reference = line.split(' ')
+  #   reference.strip!
+
+  #   next
 
   elsif line.match?(/^# Section: /)
     _pre, section_name = line.split(':')
