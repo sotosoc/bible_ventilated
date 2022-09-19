@@ -1,6 +1,10 @@
 **/src/**
 versify.rb
 .byebug*
-*.orig
+*.aux
 *.bak
+*.log
+*.orig
+*.pdf
+*.tex
 .scratch.vim
