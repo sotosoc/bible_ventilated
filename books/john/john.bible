@@ -1949,6 +1949,7 @@ He said,
   unless it is given to him by my Father.
 }
 
+# Section: At this\hfill{}$\geq$06.66
 # John 06:66
 At this,
 many of his disciples went back and walked no more with him.
@@ -5159,7 +5160,8 @@ and he said to them,
   and have believed that I came from God.
 
   # John 16:28
-  I came from the Father and have come into the world.
+  I came from the Father
+  and have come into the world.
 
   Again,
   I leave the world and go to the Father.
@@ -5279,7 +5281,10 @@ he said,
   I don't pray for the world,
   but for those whom you have given me,
   for they are yours.
+}
 
+# Section: All things that are mine are yours\hfill{}$\geq$17.10
+{
   # John 17:10
   All things that are mine are yours,
   and yours are mine,
@@ -5289,12 +5294,18 @@ he said,
   I am no more in the world,
   but these are in the world,
   and I am coming to you.
+}
 
+# Section: Holy Father\hfill{}$\geq$17.12
+{
   Holy Father,
   keep them through your name which you have given me,
   that they may be one,
   even as we are.
+}
 
+# Section: While I was with them in the world\hfill{}$\geq$17.12
+{
   # John 17:12
   While I was with them in the world,
   I kept them in your name.
@@ -5336,23 +5347,30 @@ he said,
   Sanctify them in your truth.
 
   Your word is truth.
+}
 
+# Section: As you sent me into the world\hfill{}$\geq$17.18
+{
   # John 17:18
   As you sent me into the world,
   even so I have sent them into the world.
+}
 
+# Section: For their sakes I sanctify myself\hfill{}$\geq$17.19
+{
   # John 17:19
   For their sakes I sanctify myself,
   that they themselves also may be sanctified in truth.
+}
 
+# Section: Not for these only do I pray\hfill{}$\geq$17.20
+{
   # John 17:20
   Not for these only do I pray,
   but for those also who will believe in me through their word,
   # John 17:21
   that they may all be one;
-  even as you,
-  Father,
-  are in me,
+  even as you, Father, are in me,
   and I in you,
   that they also may be one in us;
   that the world may believe that you sent me.
@@ -5411,6 +5429,7 @@ having taken a detachment of soldiers and officers
 from the chief priests and the Pharisees,
 came there with lanterns, torches, and weapons.
 
+# Section: Jesus therefore\hfill{}$\geq$18.04
 # John 18:04
 Jesus therefore,
 knowing all the things that were happening to him,
@@ -5473,8 +5492,7 @@ that the word might be fulfilled which he spoke,
 # Section: Simon Peter therefore\hfill{}$\geq$18.10
 # John 18:10
 Simon Peter therefore,
-having a sword,
-drew it,
+having a sword, drew it,
 struck the high priest's servant,
 and cut off his right ear.
 
@@ -5489,10 +5507,12 @@ Jesus therefore said to Peter,
   shall I not surely drink it?
 }
 
+# Section: So the detachment\hfill{}$\geq$18.12
 # John 18:12
 So the detachment,
 the commanding officer,
-and the officers of the Jews seized Jesus and bound him,
+and the officers of the Jews
+seized Jesus and bound him,
 # John 18:13
 and led him to Annas first,
 for he was father-in-law to Caiaphas,
@@ -5503,12 +5523,14 @@ Now it was Caiaphas who advised the Jews
 that it was expedient
 that one man should perish for the people.
 
+# Section: Simon Peter followed Jesus\hfill{}$\geq$18.15
 # John 18:15
 Simon Peter followed Jesus,
 as did another disciple.
 
 Now that disciple was known to the high priest,
-and entered in with Jesus into the court of the high priest;
+and entered in with Jesus
+into the court of the high priest;
 # John 18:16
 but Peter was standing at the door outside.
 
@@ -5517,6 +5539,7 @@ who was known to the high priest,
 went out and spoke to her who kept the door,
 and brought in Peter.
 
+# Section: Then the maid who kept the door said to Peter\hfill{}$\geq$18.17
 # John 18:17
 Then the maid who kept the door said to Peter,
 {
@@ -5528,6 +5551,7 @@ He said,
   I am not.
 }
 
+# Section: Now the servants and the officers\hfill{}$\geq$18.18
 # John 18:18
 Now the servants and the officers were standing there,
 having made a fire of coals,
@@ -5538,6 +5562,7 @@ They were warming themselves.
 Peter was with them,
 standing and warming himself.
 
+# Section: The high priest therefore asked Jesus\hfill{}$\geq$18.19
 # John 18:19
 The high priest therefore asked Jesus
 about his disciples and about his teaching.
@@ -5557,8 +5582,8 @@ Jesus answered him,
 
   Ask those who have heard me what I said to them.
 
-  Behold,
-  they know the things which I said.
+  Behold!
+  They know the things which I said.
 }
 
 # John 18:22
@@ -5582,6 +5607,7 @@ Jesus answered him,
 Annas sent him bound to Caiaphas,
 the high priest.
 
+# Section: Now Simon Peter was standing and warming himself.\hfill{}$\geq$18.25
 # John 18:25
 Now Simon Peter was standing and warming himself.
 
@@ -5596,6 +5622,7 @@ He denied it and said,
   I am not.
 }
 
+# Section: One of the servants of the high priest\hfill{}$\geq$18.26
 # John 18:26
 One of the servants of the high priest,
 being a relative of him whose ear Peter had cut off,
@@ -5608,6 +5635,7 @@ said,
 Peter therefore denied it again,
 and immediately the rooster crowed.
 
+# Section: They led Jesus therefore from Caiaphas\hfill{}$\geq$18.28
 # John 18:28
 They led Jesus therefore from Caiaphas into the Praetorium.
 
@@ -5646,6 +5674,7 @@ that the word of Jesus might be fulfilled,
 which he spoke,
 signifying by what kind of death he should die.
 
+# Section: Pilate therefore entered again into the Praetorium\hfill{}$\geq$18.33
 # John 18:33
 Pilate therefore entered again into the Praetorium,
 called Jesus,
@@ -5683,6 +5712,7 @@ Jesus answered,
   But now my Kingdom is not from here.
 }
 
+# Section: Pilate therefore said to him\hfill{}$\geq$18.37
 # John 18:37
 Pilate therefore said to him,
 {
@@ -5700,6 +5730,7 @@ Jesus answered,
   Everyone who is of the truth listens to my voice.
 }
 
+# Section: Pilate said to him\hfill{}$\geq$18.38
 # John 18:38
 Pilate said to him,
 {
@@ -5713,7 +5744,9 @@ and said to them,
   I find no basis for a charge against him.
 
   # John 18:39
-  But you have a custom that I should release someone to you at the Passover.
+  But you have a custom
+  that I should release someone to you
+  at the Passover.
 
   Therefore,
   do you want me to release to you the King of the Jews?
@@ -5728,6 +5761,7 @@ saying,
 
 Now Barabbas was a robber.
 
+# Section: So Pilate then took Jesus and flogged him.\hfill{}$\geq$19.01
 # John 19:01
 So Pilate then took Jesus and flogged him.
 
@@ -5743,6 +5777,7 @@ They kept saying,
 
 and they kept slapping him.
 
+# Section: Then Pilate went out again\hfill{}$\geq$19.04
 # John 19:04
 Then Pilate went out again,
 and said to them,
@@ -5750,7 +5785,8 @@ and said to them,
   Behold!
 
   I bring him out to you,
-  that you may know that I find no basis for a charge against him.
+  that you may know
+  that I find no basis for a charge against him.
 }
 
 # John 19:05
@@ -5785,6 +5821,7 @@ The Jews answered him,
   because he made himself the Son of God.
 }
 
+# Section: When therefore Pilate heard this saying\hfill{}$\geq$19.08
 # John 19:08
 When therefore Pilate heard this saying,
 he was more afraid.
@@ -5798,14 +5835,14 @@ and said to Jesus,
 
 But Jesus gave him no answer.
 
+# Section: Pilate therefore said to him,\hfill{}$\geq$19.10
 # John 19:10
 Pilate therefore said to him,
 {
   Aren't you speaking to me?
 
   Don't you know
-  that I have power
-  to release you
+  that I have power to release you
   and have power to crucify you?
 }
 
@@ -5815,9 +5852,11 @@ Jesus answered,
   You would have no power at all against me,
   unless it were given to you from above.
 
-  Therefore he who delivered me to you has greater sin.
+  Therefore
+  he who delivered me to you has greater sin.
 }
 
+# Section: At this\hfill{}$\geq$19.12
 # John 19:12
 At this,
 Pilate was seeking to release him,
@@ -5826,22 +5865,25 @@ but the Jews cried out, saying,
   If you release this man,
   you aren't Caesar's friend!
 
-  Everyone who makes himself a king speaks against Caesar!
+  Everyone who makes himself a king
+  speaks against Caesar!
 }
 
 # John 19:13
 When Pilate therefore heard these words,
-he brought Jesus out and sat down on the judgment seat at a place called
+he brought Jesus out
+and sat down on the judgment seat
+at a place called
 {
   The Pavement
 }
-,
 
 but in Hebrew,
 {
   Gabbatha.
 }
 
+# Section: Now it was the Preparation Day of the Passover,\hfill{}$\geq$19.14
 # John 19:14
 Now it was the Preparation Day of the Passover,
 at about the sixth hour.
@@ -5871,6 +5913,7 @@ The chief priests answered,
   We have no king but Caesar!
 }
 
+# Section: So then he delivered him to them to be crucified.\hfill{}$\geq$19.16
 # John 19:16
 So then he delivered him to them to be crucified.
 
@@ -5883,13 +5926,11 @@ to the place called
 {
   The Place of a Skull
 }
-,
 
 which is called in Hebrew,
 {
   Golgotha
 }
-,
 
 # John 19:18
 where they crucified him,
@@ -5897,6 +5938,7 @@ and with him two others,
 on either side one,
 and Jesus in the middle.
 
+# Section: Pilate wrote a title also\hfill{}$\geq$19.19
 # John 19:19
 Pilate wrote a title also,
 and put it on the cross.
@@ -5910,9 +5952,7 @@ There was written,
 # John 19:20
 Therefore many of the Jews read this title,
 for the place where Jesus was crucified was near the city;
-and it was written in Hebrew,
-in Latin,
-and in Greek.
+and it was written in Hebrew, in Latin, and in Greek.
 
 # John 19:21
 The chief priests of the Jews therefore said to Pilate,
@@ -5938,6 +5978,7 @@ Pilate answered,
   I have written.
 }
 
+# Section: Then the soldiers\hfill{}$\geq$19.23
 # John 19:23
 Then the soldiers,
 when they had crucified Jesus,
@@ -5965,6 +6006,7 @@ which says,
 
 Therefore the soldiers did these things.
 
+# Section: But standing by Jesus' cross\hfill{}$\geq$19.25
 # John 19:25
 But standing by Jesus' cross were
   his mother,
@@ -5988,9 +6030,10 @@ Then he said to the disciple,
 From that hour,
 the disciple took her to his own home.
 
+# Section: After this\hfill{}$\geq$19.28
 # John 19:28
-After this,
-Jesus, seeing that all things were now finished,
+After this, Jesus,
+seeing that all things were now finished,
 that the Scripture might be fulfilled,
 said,
 {
@@ -6011,6 +6054,7 @@ he said,
 
 Then he bowed his head and gave up his spirit.
 
+# Section: Therefore the Jews\hfill{}$\geq$19.31
 # John 19:31
 Therefore the Jews,
 because it was the Preparation Day,
@@ -6032,6 +6076,7 @@ However,
 one of the soldiers pierced his side with a spear,
 and immediately blood and water came out.
 
+# Section: He who has seen has testified\hfill{}$\geq$19.35
 # John 19:35
 He who has seen has testified,
 and his testimony is true.
@@ -6040,7 +6085,8 @@ He knows that he tells the truth,
 that you may believe.
 
 # John 19:36
-For these things happened that the Scripture might be fulfilled,
+For these things happened
+that the Scripture might be fulfilled,
 {
   A bone of him will not be broken.
 }
@@ -6051,6 +6097,7 @@ Again another Scripture says,
   They will look on him whom they pierced.
 }
 
+# Section: After these things, Joseph of Arimathaea\hfill{}$\geq$19.38
 # John 19:38
 After these things,
 Joseph of Arimathaea,
@@ -6074,15 +6121,19 @@ and bound it in linen cloths with the spices,
 as the custom of the Jews is to bury.
 
 # John 19:41
-Now in the place where he was crucified there was a garden.
+Now in the place where he was crucified
+there was a garden.
 
-In the garden was a new tomb in which no man had ever yet been laid.
+In the garden was a new tomb
+in which no man had ever yet been laid.
 
 # John 19:42
 Then,
-because of the Jews' Preparation Day (for the tomb was near at hand),
+because of the Jews' Preparation Day
+(for the tomb was near at hand),
 they laid Jesus there.
 
+# Section: Now on the first day of the week\hfill{}$\geq$20.01
 # John 20:01
 Now on the first day of the week,
 Mary Magdalene went early,
@@ -6091,7 +6142,9 @@ to the tomb,
 and saw that the stone had been taken away from the tomb.
 
 # John 20:02
-Therefore she ran and came to Simon Peter and to the other disciple whom Jesus loved,
+Therefore
+she ran and came to Simon Peter
+and to the other disciple whom Jesus loved,
 and said to them,
 {
   They have taken away the Lord out of the tomb,
@@ -6099,13 +6152,16 @@ and said to them,
 }
 
 # John 20:03
-Therefore Peter and the other disciple went out,
+Therefore
+Peter and the other disciple went out,
 and they went toward the tomb.
 
 # John 20:04
 They both ran together.
 
-The other disciple outran Peter and came to the tomb first.
+# Section: The other disciple outran Peter\hfill{}$\geq$20.05
+The other disciple outran Peter
+and came to the tomb first.
 
 # John 20:05
 Stooping and looking in,
@@ -6118,20 +6174,21 @@ following him,
 and entered into the tomb.
 
 He saw the linen cloths lying,
-
 # John 20:07
 and the cloth that had been on his head,
 not lying with the linen cloths,
 but rolled up in a place by itself.
 
 # John 20:08
-So then the other disciple who came first to the tomb also entered in,
+So then the other disciple
+who came first to the tomb also entered in,
 and he saw and believed.
 
 # John 20:09
 For as yet they didn't know the Scripture,
 that he must rise from the dead.
 
+# Section: So the disciples went away again to their own homes.\hfill{}$\geq$20.10
 # John 20:10
 So the disciples went away again to their own homes.
 
@@ -6140,7 +6197,6 @@ But Mary was standing outside at the tomb weeping.
 
 So as she wept,
 she stooped and looked into the tomb,
-
 # John 20:12
 and she saw two angels in white sitting,
 one at the head and one at the feet,
@@ -6158,6 +6214,7 @@ She said to them,
   and I don't know where they have laid him.
 }
 
+# Section: When she had said this\hfill{}$\geq$20.14
 # John 20:14
 When she had said this,
 she turned around and saw Jesus standing,
@@ -6210,13 +6267,16 @@ Jesus said to her,
 }
 
 # John 20:18
-Mary Magdalene came and told the disciples that she had seen the Lord,
+Mary Magdalene came and told the disciples
+that she had seen the Lord,
 and that he had said these things to her.
 
+# Section: When therefore it was evening on that day\hfill{}$\geq$20.19
 # John 20:19
 When therefore it was evening on that day,
 the first day of the week,
-and when the doors were locked where the disciples were assembled,
+and when the doors were locked
+where the disciples were assembled,
 for fear of the Jews,
 Jesus came and stood in the middle and said to them,
 {
@@ -6253,6 +6313,7 @@ and said to them,
   they have been retained.
 }
 
+# Section: But Thomas\hfill{}$\geq$20.24
 # John 20:24
 But Thomas,
 one of the twelve,
@@ -6273,9 +6334,11 @@ But he said to them,
   I will not believe.
 }
 
+# Section: After eight days\hfill{}$\geq$20.26
 # John 20:26
 After eight days,
-again his disciples were inside and Thomas was with them.
+again his disciples were inside
+and Thomas was with them.
 
 Jesus came,
 the doors being locked,
@@ -6313,6 +6376,7 @@ Jesus said to him,
   Blessed are those who have not seen and have believed.
 }
 
+# Section: Therefore\hfill{}$\geq$20.30
 # John 20:30
 Therefore
 Jesus did many other signs
@@ -6325,6 +6389,7 @@ that Jesus is the Christ, the Son of God,
 and that believing
 you may have life in his name.
 
+# Section: After these things\hfill{}$\geq$21.01
 # John 21:01
 After these things,
 Jesus revealed himself again
@@ -6340,6 +6405,7 @@ Nathanael of Cana in Galilee,
 and the sons of Zebedee,
 and two others of his disciples were together.
 
+# Section: Simon Peter said to them\hfill{}$\geq$21.03
 # John 21:03
 Simon Peter said to them,
 {
@@ -6356,6 +6422,7 @@ They immediately went out and entered into the boat.
 That night,
 they caught nothing.
 
+# Section: But when day had already come\hfill{}$\geq$21.04
 # John 21:04
 But when day had already come,
 Jesus stood on the beach;
@@ -6399,6 +6466,7 @@ But the other disciples came in the little boat
 but about two hundred cubits away),
 dragging the net full of fish.
 
+# Section: So when they got out on the land\hfill{}$\geq$21.09
 # John 21:09
 So when they got out on the land,
 they saw a fire of coals there,
@@ -6441,6 +6509,7 @@ This is now the third time
 that Jesus was revealed to his disciples
 after he had risen from the dead.
 
+# Section: So when they had eaten their breakfast\hfill{}$\geq$21.15
 # John 21:15
 So when they had eaten their breakfast,
 Jesus said to Simon Peter,
@@ -6460,6 +6529,7 @@ He said to him,
   Feed my lambs.
 }
 
+# Section: He said to him again a second time\hfill{}$\geq$21.16
 # John 21:16
 He said to him again a second time,
 {
@@ -6478,6 +6548,7 @@ He said to him,
   Tend my sheep.
 }
 
+# Section: He said to him the third time\hfill{}$\geq$21.17
 # John 21:17
 He said to him the third time,
 {
@@ -6521,20 +6592,21 @@ he said to him,
   Follow me.
 }
 
+# Section: Then Peter\hfill{}$\geq$21.20
 # John 21:20
 Then Peter,
 turning around,
 saw a disciple following.
 
 This was the disciple whom Jesus loved,
-the one who had also leaned on Jesus' breast at the supper and asked,
+the one who had also leaned on Jesus' breast at the supper
+and asked,
 {
   Lord, who is going to betray you?
 }
 
 # John 21:21
-Peter,
-seeing him,
+Peter, seeing him,
 said to Jesus,
 {
   Lord, what about this man?
@@ -6560,6 +6632,7 @@ but,
   what is that to you?
 }
 
+# Section: This is the disciple who testifies\hfill{}$\geq$21.24
 # John 21:24
 This is the disciple who testifies about these things,
 and wrote these things.
