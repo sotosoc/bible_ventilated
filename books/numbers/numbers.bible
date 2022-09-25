@@ -1,79 +1,85 @@
 # Book: Numbers
 
-# Section: Yahweh spoke to Moses in the wilderness of Sinai
+# Section: Yahweh spoke to Moses in the wilderness\hfill{}$\geq$01.01
 # Numbers 01:01
 Yahweh spoke to Moses in the wilderness of Sinai,
 in the Tent of Meeting,
 on the first day of the second month,
 in the second year after they had come out of the land of Egypt,
 saying,
-
 # Numbers 01:02
-``Take a census of all the congregation of the children of Israel,
-by their families,
-by their fathers’ houses,
-according to the number of the names,
-every male,
-one by one,
+{
+  Take a census
+  of all the congregation of the children of Israel,
+  by their families,
+  by their fathers’ houses,
+  according to the number of the names,
+  every male,
+  one by one,
+  # Numbers 01:03
+  from twenty years old and upward,
+  all who are able to go out to war in Israel.
 
-# Numbers 01:03
-from twenty years old and upward,
-all who are able to go out to war in Israel.
+  You and Aaron shall count them by their divisions.
 
-You and Aaron shall count them by their divisions.
+  # Numbers 01:04
+  With you there shall be a man of every tribe,
+  each one head of his fathers’ house.
+}
 
-# Numbers 01:04
-With you there shall be a man of every tribe,
-each one head of his fathers’ house.
+# Section: These are the names of the men who shall stand with you\hfill{}$\geq$01.05
+{
+  # Numbers 01:05
+  These are the names of the men who shall stand with you:
 
-# Numbers 01:05
-These are the names of the men who shall stand with you:
-Of Reuben:
-Elizur the son of Shedeur.
+    Of Reuben:
+      Elizur the son of Shedeur.
 
-# Numbers 01:06
-Of Simeon:
-Shelumiel the son of Zurishaddai.
+    # Numbers 01:06
+    Of Simeon:
+      Shelumiel the son of Zurishaddai.
 
-# Numbers 01:07
-Of Judah:
-Nahshon the son of Amminadab.
+    # Numbers 01:07
+    Of Judah:
+      Nahshon the son of Amminadab.
 
-# Numbers 01:08
-Of Issachar:
-Nethanel the son of Zuar.
+    # Numbers 01:08
+    Of Issachar:
+      Nethanel the son of Zuar.
 
-# Numbers 01:09
-Of Zebulun:
-Eliab the son of Helon.
+    # Numbers 01:09
+    Of Zebulun:
+      Eliab the son of Helon.
 
-# Numbers 01:10
-Of the children of Joseph:
-of Ephraim:
-Elishama the son of Ammihud;
-of Manasseh:
-Gamaliel the son of Pedahzur.
+    # Numbers 01:10
+    Of the children of Joseph:
+    of Ephraim:
+      Elishama the son of Ammihud;
+    of Manasseh:
+      Gamaliel the son of Pedahzur.
 
-# Numbers 01:11
-Of Benjamin:
-Abidan the son of Gideoni.
+    # Numbers 01:11
+    Of Benjamin:
+      Abidan the son of Gideoni.
 
-# Numbers 01:12
-Of Dan:
-Ahiezer the son of Ammishaddai.
+    # Numbers 01:12
+    Of Dan:
+      Ahiezer the son of Ammishaddai.
 
-# Numbers 01:13
-Of Asher:
-Pagiel the son of Ochran.
+    # Numbers 01:13
+    Of Asher:
+      Pagiel the son of Ochran.
 
-# Numbers 01:14
-Of Gad:
-Eliasaph the son of Deuel.
+    # Numbers 01:14
+    Of Gad:
+      Eliasaph the son of Deuel.
 
-# Numbers 01:15
-Of Naphtali:
-Ahira the son of Enan.''
+    # Numbers 01:15
+    Of Naphtali:
+      Ahira the son of Enan.
+}
 
+# Section: These are those who were called of the congregation\hfill{}$\geq$01.16
 # Numbers 01:16
 These are those who were called of the congregation,
 the princes of the tribes of their fathers;
@@ -83,7 +89,8 @@ they were the heads of the thousands of Israel.
 Moses and Aaron took these men who are mentioned by name.
 
 # Numbers 01:18
-They assembled all the congregation together on the first day of the second month;
+They assembled all the congregation together
+on the first day of the second month;
 and they declared their ancestry by their families,
 by their fathers’ houses,
 according to the number of the names,
@@ -94,6 +101,7 @@ one by one.
 As Yahweh commanded Moses,
 so he counted them in the wilderness of Sinai.
 
+# Section: The children of Reuben\hfill{}$\geq$01.20
 # Numbers 01:20
 The children of Reuben,
 Israel's firstborn,
@@ -104,12 +112,12 @@ according to the number of the names,
 one by one,
 every male from twenty years old and upward,
 all who were able to go out to war:
-
 # Numbers 01:21
 those who were counted of them,
 of the tribe of Reuben,
 were forty-six thousand five hundred.
 
+# Section: Of the children of Simeon\hfill{}$\geq$01.22
 # Numbers 01:22
 Of the children of Simeon,
 their generations,
@@ -120,12 +128,12 @@ according to the number of the names,
 one by one,
 every male from twenty years old and upward,
 all who were able to go out to war:
-
 # Numbers 01:23
 those who were counted of them,
 of the tribe of Simeon,
 were fifty-nine thousand three hundred.
 
+# Section: Of the children of Gad\hfill{}$\geq$01.24
 # Numbers 01:24
 Of the children of Gad,
 their generations,
@@ -134,12 +142,12 @@ by their fathers’ houses,
 according to the number of the names,
 from twenty years old and upward,
 all who were able to go out to war:
-
 # Numbers 01:25
 those who were counted of them,
 of the tribe of Gad,
 were forty-five thousand six hundred fifty.
 
+# Section: Of the children of Judah\hfill{}$\geq$01.26
 # Numbers 01:26
 Of the children of Judah,
 their generations,
@@ -148,12 +156,12 @@ by their fathers’ houses,
 according to the number of the names,
 from twenty years old and upward,
 all who were able to go out to war:
-
 # Numbers 01:27
 those who were counted of them,
 of the tribe of Judah,
 were seventy-four thousand six hundred.
 
+# Section: Of the children of Issachar\hfill{}$\geq$01.28
 # Numbers 01:28
 Of the children of Issachar,
 their generations,
@@ -162,12 +170,12 @@ by their fathers’ houses,
 according to the number of the names,
 from twenty years old and upward,
 all who were able to go out to war:
-
 # Numbers 01:29
 those who were counted of them,
 of the tribe of Issachar,
 were fifty-four thousand four hundred.
 
+# Section: Of the children of Zebulun\hfill{}$\geq$01.30
 # Numbers 01:30
 Of the children of Zebulun,
 their generations,
@@ -176,12 +184,12 @@ by their fathers’ houses,
 according to the number of the names,
 from twenty years old and upward,
 all who were able to go out to war:
-
 # Numbers 01:31
 those who were counted of them,
 of the tribe of Zebulun,
 were fifty-seven thousand four hundred.
 
+# Section: Of the children of Joseph\hfill{}$\geq$01.32
 # Numbers 01:32
 Of the children of Joseph:
 of the children of Ephraim,
@@ -191,12 +199,12 @@ by their fathers’ houses,
 according to the number of the names,
 from twenty years old and upward,
 all who were able to go out to war:
-
 # Numbers 01:33
 those who were counted of them,
 of the tribe of Ephraim,
 were forty thousand five hundred.
 
+# Section: Of the children of Manasseh\hfill{}$\geq$01.34
 # Numbers 01:34
 Of the children of Manasseh,
 their generations,
@@ -205,12 +213,12 @@ by their fathers’ houses,
 according to the number of the names,
 from twenty years old and upward,
 all who were able to go out to war:
-
 # Numbers 01:35
 those who were counted of them,
 of the tribe of Manasseh,
 were thirty-two thousand two hundred.
 
+# Section: Of the children of Benjamin\hfill{}$\geq$01.36
 # Numbers 01:36
 Of the children of Benjamin,
 their generations,
@@ -219,12 +227,12 @@ by their fathers’ houses,
 according to the number of the names,
 from twenty years old and upward,
 all who were able to go out to war:
-
 # Numbers 01:37
 those who were counted of them,
 of the tribe of Benjamin,
 were thirty-five thousand four hundred.
 
+# Section: Of the children of Dan\hfill{}$\geq$01.38
 # Numbers 01:38
 Of the children of Dan,
 their generations,
@@ -233,12 +241,12 @@ by their fathers’ houses,
 according to the number of the names,
 from twenty years old and upward,
 all who were able to go out to war:
-
 # Numbers 01:39
 those who were counted of them,
 of the tribe of Dan,
 were sixty-two thousand seven hundred.
 
+# Section: Of the children of Asher\hfill{}$\geq$01.40
 # Numbers 01:40
 Of the children of Asher,
 their generations,
@@ -247,12 +255,12 @@ by their fathers’ houses,
 according to the number of the names,
 from twenty years old and upward,
 all who were able to go out to war:
-
 # Numbers 01:41
 those who were counted of them,
 of the tribe of Asher,
 were forty-one thousand five hundred.
 
+# Section: Of the children of Naphtali\hfill{}$\geq$01.42
 # Numbers 01:42
 Of the children of Naphtali,
 their generations,
@@ -261,20 +269,23 @@ by their fathers’ houses,
 according to the number of the names,
 from twenty years old and upward,
 all who were able to go out to war:
-
 # Numbers 01:43
 those who were counted of them,
 of the tribe of Naphtali,
 were fifty-three thousand four hundred.
 
+# Section: These are those who were counted\hfill{}$\geq$01.44
 # Numbers 01:44
+STARTHERE
+
 These are those who were counted,
 whom Moses and Aaron counted,
 and the twelve men who were princes of Israel,
 each one for his fathers’ house.
 
 # Numbers 01:45
-So all those who were counted of the children of Israel by their fathers’ houses,
+So all those who were counted of the children of Israel
+by their fathers’ houses,
 from twenty years old and upward,
 all who were able to go out to war in Israel ---
 
@@ -5122,9 +5133,6 @@ and prepare seven bulls and seven rams for me here.''
 Balak did as Balaam had said,
 and offered up a bull and a ram on every altar.
 
-# Numbers 23:31
-Numbers.
-
 # Numbers 24:01
 When Balaam saw that it pleased Yahweh to bless Israel,
 he didn’t go,
@@ -5140,55 +5148,56 @@ and the Spirit of God came on him.
 # Numbers 24:03
 He took up his parable,
 and said,
-``Balaam the son of Beor says,
-the man whose eyes are open says;
+{
+  Balaam the son of Beor says,
+  the man whose eyes are open says;
+  # Numbers 24:04
+  he says,
+  who hears the words of God,
+  who sees the vision of the Almighty,
+  falling down,
+  and having his eyes open:
 
-# Numbers 24:04
-he says,
-who hears the words of God,
-who sees the vision of the Almighty,
-falling down,
-and having his eyes open:
+  # Numbers 24:05
+  How goodly are your tents,
+  Jacob,
+  and your dwellings,
+  Israel!
 
-# Numbers 24:05
-How goodly are your tents,
-Jacob,
-and your dwellings,
-Israel!
+  # Numbers 24:06
+  As valleys they are spread out,
+  as gardens by the riverside,
+  as aloes which Yahweh has planted,
+  as cedar trees beside the waters.
 
-# Numbers 24:06
-As valleys they are spread out,
-as gardens by the riverside,
-as aloes which Yahweh has planted,
-as cedar trees beside the waters.
+  # Numbers 24:07
+  Water shall flow from his buckets.
 
-# Numbers 24:07
-Water shall flow from his buckets.
+  His seed shall be in many waters.
 
-His seed shall be in many waters.
+  His king shall be higher than Agag.
 
-His king shall be higher than Agag.
+  His kingdom shall be exalted.
 
-His kingdom shall be exalted.
+  # Numbers 24:08
+  God brings him out of Egypt.
 
-# Numbers 24:08
-God brings him out of Egypt.
+  He has as it were the strength of the wild ox.
 
-He has as it were the strength of the wild ox.
+  He shall consume the nations his adversaries,
+  shall break their bones in pieces,
+  and pierce them with his arrows.
 
-He shall consume the nations his adversaries,
-shall break their bones in pieces,
-and pierce them with his arrows.
+  # Numbers 24:09
+  He couched,
+  he lay down as a lion,
+  as a lioness;
+  who shall rouse him up?
 
-# Numbers 24:09
-He couched,
-he lay down as a lion,
-as a lioness;
-who shall rouse him up?
+  Everyone who blesses you is blessed.
 
-Everyone who blesses you is blessed.
-
-Everyone who curses you is cursed.''
+  Everyone who curses you is cursed.
+}
 
 # Numbers 24:10
 Balak's anger burned against Balaam,
