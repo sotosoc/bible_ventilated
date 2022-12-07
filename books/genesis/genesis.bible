@@ -1,6 +1,6 @@
 ﻿# Book: Genesis
 
-# Section: In the beginning
+# Section: In the beginning\hfill{}$\geq$01.01
 # Genesis 01:01
 In the beginning,
 God created the heavens and the earth.
@@ -11,7 +11,7 @@ The earth was without form and void.
 Darkness was on the surface of the deep
 and God's Spirit was hovering over the surface of the waters.
 
-# Section: First day
+# Section: First day\hfill{}$\geq$01.03
 # Genesis 01:03
 
 God said,
@@ -28,13 +28,13 @@ and saw that it was good.
 God divided the light from the darkness.
 
 # Genesis 01:05
-God called the light ``day'',
-and the darkness he called ``night''.
+God called the light Day,
+and the darkness he called Night.
 
 There was evening and there was morning,
 the first day.
 
-# Section: Second day
+# Section: Second day\hfill{}$\geq$01.06
 # Genesis 01:06
 God said,
 {
@@ -49,12 +49,12 @@ from the waters which were above the expanse;
 and it was so.
 
 # Genesis 01:08
-God called the expanse ``sky''.
+God called the expanse Sky.
 
 There was evening and there was morning,
 a second day.
 
-# Section: Third day
+# Section: Third day\hfill{}$\geq$01.09
 # Genesis 01:09
 God said,
 {
@@ -65,8 +65,8 @@ God said,
 and it was so.
 
 # Genesis 01:10
-God called the dry land ``earth'',
-and the gathering together of the waters he called ``seas''.
+God called the dry land Earth,
+and the gathering together of the waters he called Seas.
 
 God saw that it was good.
 
@@ -94,7 +94,7 @@ and God saw that it was good.
 There was evening and there was morning,
 a third day.
 
-# Section: Fourth day
+# Section: Fourth day\hfill{}$\geq$01.14
 # Genesis 01:14
 God said,
 {
@@ -131,14 +131,18 @@ God saw that it was good.
 There was evening and there was morning,
 a fourth day.
 
-# Section: Fifth day
+# Section: Fifth day\hfill{}$\geq$01.20
 # Genesis 01:20
 God said,
-``Let the waters abound with living creatures,
-and let birds fly above the earth in the open expanse of the sky.''
+{
+  Let the waters abound with living creatures,
+  and let birds fly above the earth
+  in the open expanse of the sky.
+}
 
 # Genesis 01:21
-God created the large sea creatures and every living creature that moves,
+God created the large sea creatures
+and every living creature that moves,
 with which the waters swarmed,
 after their kind,
 and every winged bird after its kind.
@@ -148,16 +152,18 @@ God saw that it was good.
 # Genesis 01:22
 God blessed them,
 saying,
-``Be fruitful,
-and multiply,
-and fill the waters in the seas,
-and let birds multiply on the earth.''
+{
+  Be fruitful,
+  and multiply,
+  and fill the waters in the seas,
+  and let birds multiply on the earth.
+}
 
 # Genesis 01:23
 There was evening and there was morning,
 a fifth day.
 
-# Section: Sixth day
+# Section: Sixth day (Part I)\hfill{}$\geq$01.24
 # Genesis 01:24
 God said,
 {
@@ -176,6 +182,7 @@ and everything that creeps on the ground after its kind.
 
 God saw that it was good.
 
+# Section: God said\hfill{}$\geq$01.26
 # Genesis 01:26
 God said,
 {
@@ -210,6 +217,7 @@ God said to them,
   and over every living thing that moves on the earth.
 }
 
+# Section: God said\hfill{}$\geq$01.29
 # Genesis 01:29
 God said,
 {
@@ -233,19 +241,17 @@ and it was so.
 
 # Genesis 01:31
 God saw everything that he had made,
-and,
-behold,
-it was very good.
+and, behold, it was very good.
 
 There was evening and there was morning,
 a sixth day.
 
-# Section: Seventh day
 # Genesis 02:01
 The heavens,
 the earth,
 and all their vast array were finished.
 
+# Section: Seventh day\hfill{}$\geq$02.02
 # Genesis 02:02
 On the seventh day
 God finished his work which he had done;
@@ -259,7 +265,7 @@ because he rested in it
 from all his work of creation
 which he had done.
 
-# Section: This is the history
+# Section: This is the history\hfill{}$\geq$02.04
 # Genesis 02:04
 This is the history of the generations
 of the heavens and of the earth
@@ -268,7 +274,7 @@ in the day
   that Yahweh God made
     the earth and the heavens.
 
-# Section: No plant of the field was yet in the earth
+# Section: No plant of the field was yet in the earth\hfill{}$\geq$02.05
 # Genesis 02:05
 No plant of the field was yet in the earth,
 and no herb of the field had yet sprung up;
@@ -284,20 +290,21 @@ Yahweh God formed man from the dust of the ground,
 and breathed into his nostrils the breath of life;
 and man became a living soul.
 
+# Section: Yahweh God planted a garden eastward\hfill{}$\geq$02.08
 # Genesis 02:08
-Yahweh God planted a garden eastward,
-in Eden,
+Yahweh God planted a garden eastward, in Eden,
 and there he put the man whom he had formed.
 
 # Genesis 02:09
 Out of the ground
-  Yahweh God made every tree to grow
-    that is pleasant to the sight,
+Yahweh God made every tree to grow
+that is pleasant to the sight,
 and good for food,
 including the tree of life
-  in the middle of the garden
+in the middle of the garden
 and the tree of the knowledge of good and evil.
 
+# Section: A river went out of Eden to water the garden\hfill{}$\geq$02.10
 # Genesis 02:10
 A river went out of Eden to water the garden;
 and from there it was parted,
@@ -312,19 +319,26 @@ and the gold of that land is good.
 
 Bdellium and onyx stone are also there.
 
+---
+
 # Genesis 02:13
 The name of the second river is Gihon.
 
 It is the same river
 that flows through the whole land of Cush.
 
+---
+
 # Genesis 02:14
 The name of the third river is Hiddekel.
 
 This is the one which flows in front of Assyria.
 
+---
+
 The fourth river is the Euphrates.
 
+# Section: Yahweh God took the man\hfill{}$\geq$02.15
 # Genesis 02:15
 Yahweh God took the man,
 and put him into the garden of Eden to cultivate and keep it.
@@ -332,18 +346,27 @@ and put him into the garden of Eden to cultivate and keep it.
 # Genesis 02:16
 Yahweh God commanded the man,
 saying,
-``You may freely eat of every tree of the garden;
+{
+  You may freely eat
+    of every tree
+      of the garden;
+  # Genesis 02:17
+  but you shall not eat
+    of the tree
+      of the knowledge
+        of good and evil;
+  for in the day that you eat of it,
+  you will surely die.
+}
 
-# Genesis 02:17
-but you shall not eat of the tree of the knowledge of good and evil;
-for in the day that you eat of it,
-you will surely die.''
-
+# Section: Yahweh God said\hfill{}$\geq$02.18
 # Genesis 02:18
 Yahweh God said,
-``It is not good for the man to be alone.
+{
+  It is not good for the man to be alone.
 
-I will make him a helper comparable to him.''
+  I will make him a helper comparable to him.
+}
 
 # Genesis 02:19
 Out of the ground Yahweh God formed every animal of the field,
@@ -358,6 +381,7 @@ and to the birds of the sky,
 and to every animal of the field;
 but for man there was not found a helper comparable to him.
 
+# Section: Yahweh God caused the man to fall into a deep sleep.\hfill{}$\geq$02.21
 # Genesis 02:21
 Yahweh God caused the man to fall into a deep sleep.
 
@@ -366,17 +390,19 @@ he took one of his ribs,
 and closed up the flesh in its place.
 
 # Genesis 02:22
-Yahweh God made a woman
-  from the rib
-    which he had taken from the man,
+Yahweh God made a woman from the rib
+which he had taken from the man,
 and brought her to the man.
 
 # Genesis 02:23
 The man said,
-``This is now bone of my bones,
-and flesh of my flesh.
+{
+  This is now bone of my bones,
+  and flesh of my flesh.
 
-She will be called ‘woman,’ because she was taken out of Man.''
+  She will be called `woman,'
+  because she was taken out of Man.
+}
 
 # Genesis 02:24
 Therefore a man will leave his father and his mother,
@@ -387,35 +413,48 @@ and they will be one flesh.
 The man and his wife were both naked,
 and they were not ashamed.
 
+# Section: Now the serpent\hfill{}$\geq$03.01
 # Genesis 03:01
-Now the serpent was more subtle than any animal of the field which Yahweh God had made.
+Now the serpent was more subtle
+than any animal of the field
+which Yahweh God had made.
 
 He said to the woman,
-``Has God really said,
-‘You shall not eat of any tree of the garden’?''
+{
+  Has God really said,
+  {
+    You shall not eat of any tree of the garden
+  }
+
+  ?
+}
 
 # Genesis 03:02
 The woman said to the serpent,
-``We may eat fruit from the trees of the garden,
+{
+  We may eat fruit from the trees of the garden,
+  # Genesis 03:03
+  but not the fruit of the tree which is in the middle of the garden.
 
-# Genesis 03:03
-but not the fruit of the tree which is in the middle of the garden.
+  God has said,
+  {
+    You shall not eat of it.
 
-God has said,
-‘You shall not eat of it.
-
-You shall not touch it,
-lest you die.’''
+    You shall not touch it,
+    lest you die.
+  }
+}
 
 # Genesis 03:04
 The serpent said to the woman,
-``You won’t really die,
-
-# Genesis 03:05
-for God knows that in the day you eat it,
-your eyes will be opened,
-and you will be like God,
-knowing good and evil.''
+{
+  You won’t really die,
+  # Genesis 03:05
+  for God knows that in the day you eat it,
+  your eyes will be opened,
+  and you will be like God,
+  knowing good and evil.
+}
 
 # Genesis 03:06
 When the woman saw that the tree was good for food,
@@ -424,9 +463,9 @@ and that the tree was to be desired to make one wise,
 she took some of its fruit,
 and ate.
 
+# Section: Then she gave some to her husband with her\hfill{}$\geq$03.07
 Then she gave some to her husband with her,
-and he ate it,
-too.
+and he ate it, too.
 
 # Genesis 03:07
 Their eyes were opened,
@@ -435,14 +474,22 @@ and they both knew that they were naked.
 They sewed fig leaves together,
 and made coverings for themselves.
 
+# Section: They sewed fig leaves together,\hfill{}$\geq$03.08
 # Genesis 03:08
-They heard Yahweh God's voice walking in the garden in the cool of the day,
-and the man and his wife hid themselves from the presence of Yahweh God among the trees of the garden.
+They heard Yahweh God's voice
+walking in the garden
+in the cool of the day,
+and the man and his wife hid themselves
+from the presence of Yahweh God
+among the trees of the garden.
 
+# Section: Yahweh God called to the man\hfill{}$\geq$03.09
 # Genesis 03:09
 Yahweh God called to the man,
 and said to him,
-``Where are you?''
+{
+  Where are you?
+}
 
 # Genesis 03:10
 The man said,
@@ -455,38 +502,49 @@ The man said,
 
 # Genesis 03:11
 God said,
-``Who told you that you were naked?
+{
+  Who told you that you were naked?
 
-Have you eaten from the tree that I commanded you not to eat from?''
+  Have you eaten from the tree
+  that I commanded you not to eat from?
+}
 
 # Genesis 03:12
 The man said,
-``The woman whom you gave to be with me,
-she gave me fruit from the tree,
-and I ate it.''
+{
+  The woman whom you gave to be with me,
+  she gave me fruit from the tree,
+  and I ate it.
+}
 
 # Genesis 03:13
 Yahweh God said to the woman,
-``What have you done?''
+{
+  What have you done?
+}
 
 The woman said,
-``The serpent deceived me,
-and I ate.''
+{
+  The serpent deceived me,
+  and I ate.
+}
 
 # Genesis 03:14
 Yahweh God said to the serpent,
-``Because you have done this,
-you are cursed above all livestock,
-and above every animal of the field.
+{
+  Because you have done this,
+  you are cursed above all livestock,
+  and above every animal of the field.
 
-You shall go on your belly and you shall eat dust all the days of your life.
+  You shall go on your belly and you shall eat dust all the days of your life.
 
-# Genesis 03:15
-I will put hostility between you and the woman,
-and between your offspring and her offspring.
+  # Genesis 03:15
+  I will put hostility between you and the woman,
+  and between your offspring and her offspring.
 
-He will bruise your head,
-and you will bruise his heel.''
+  He will bruise your head,
+  and you will bruise his heel.
+}
 
 # Genesis 03:16
 To the woman he said,
@@ -547,13 +605,16 @@ and he placed cherubim at the east of the garden of Eden,
 and a flaming sword which turned every way,
 to guard the way to the tree of life.
 
+# Section: The man knew Eve his wife.\hfill{}$\geq$04.01
 # Genesis 04:01
 The man knew Eve his wife.
 
 She conceived,
 and gave birth to Cain,
 and said,
-``I have gotten a man with Yahweh's help.''
+{
+  I have gotten a man with Yahweh's help.
+}
 
 # Genesis 04:02
 Again she gave birth,
@@ -1439,35 +1500,40 @@ Noah lived three hundred fifty years after the flood.
 All the days of Noah were nine hundred fifty years,
 and then he died.
 
+# Section: Now this is the history\hfill{}$\geq$10.01
 # Genesis 10:01
-Now this is the history of the generations of the sons of Noah and of Shem,
-Ham,
-and Japheth.
+Now this is the history
+  of the generations 
+    of the sons of Noah
+      and of Shem,
+      Ham,
+      and Japheth.
 
 Sons were born to them after the flood.
 
+# Section: The sons of Japheth\hfill{}$\geq$10.02
 # Genesis 10:02
 The sons of Japheth were:
-Gomer,
-Magog,
-Madai,
-Javan,
-Tubal,
-Meshech,
-and Tiras.
+  Gomer,
+  Magog,
+  Madai,
+  Javan,
+  Tubal,
+  Meshech,
+  and Tiras.
 
 # Genesis 10:03
 The sons of Gomer were:
-Ashkenaz,
-Riphath,
-and Togarmah.
+  Ashkenaz,
+  Riphath,
+  and Togarmah.
 
 # Genesis 10:04
 The sons of Javan were:
-Elishah,
-Tarshish,
-Kittim,
-and Dodanim.
+  Elishah,
+  Tarshish,
+  Kittim,
+  and Dodanim.
 
 # Genesis 10:05
 Of these were the islands of the nations divided in their lands,
@@ -1475,24 +1541,26 @@ everyone after his language,
 after their families,
 in their nations.
 
+# Section: The sons of Ham\hfill{}$\geq$10.06
 # Genesis 10:06
 The sons of Ham were:
-Cush,
-Mizraim,
-Put,
-and Canaan.
+  Cush,
+  Mizraim,
+  Put,
+  and Canaan.
 
 # Genesis 10:07
 The sons of Cush were:
-Seba,
-Havilah,
-Sabtah,
-Raamah,
-and Sabteca.
+  Seba,
+  Havilah,
+  Sabtah,
+  Raamah,
+  and Sabteca.
 
 The sons of Raamah were:
-Sheba and Dedan.
+  Sheba and Dedan.
 
+# Section: Cush became the father of Nimrod.\hfill{}$\geq$10.08
 # Genesis 10:08
 Cush became the father of Nimrod.
 
@@ -1502,8 +1570,10 @@ He began to be a mighty one in the earth.
 He was a mighty hunter before Yahweh.
 
 Therefore it is said,
-``like Nimrod,
-a mighty hunter before Yahweh''.
+{
+  like Nimrod,
+  a mighty hunter before Yahweh
+}.
 
 # Genesis 10:10
 The beginning of his kingdom was Babel,
@@ -1514,50 +1584,53 @@ in the land of Shinar.
 
 # Genesis 10:11
 Out of that land he went into Assyria,
-and built Nineveh,
-Rehoboth Ir,
-Calah,
+  and built Nineveh,
+  Rehoboth Ir,
+  Calah,
+  # Genesis 10:12
+  and Resen
+between Nineveh and the great city Calah.
 
-# Genesis 10:12
-and Resen between Nineveh and the great city Calah.
-
+# Section: Mizraim became the father\hfill{}$\geq$10.13
 # Genesis 10:13
-Mizraim became the father of Ludim,
-Anamim,
-Lehabim,
-Naphtuhim,
-
-# Genesis 10:14
-Pathrusim,
-Casluhim (which the Philistines descended from),
-and Caphtorim.
+Mizraim became the father
+  of Ludim,
+  Anamim,
+  Lehabim,
+  Naphtuhim,
+  # Genesis 10:14
+  Pathrusim,
+  Casluhim (which the Philistines descended from),
+  and Caphtorim.
 
 # Genesis 10:15
 Canaan became the father of Sidon (his firstborn),
 Heth,
-
-# Genesis 10:16
-the Jebusites,
-the Amorites,
-the Girgashites,
-
-# Genesis 10:17
-the Hivites,
-the Arkites,
-the Sinites,
-
-# Genesis 10:18
-the Arvadites,
-the Zemarites,
-and the Hamathites.
+  # Genesis 10:16
+  the Jebusites,
+  the Amorites,
+  the Girgashites,
+  # Genesis 10:17
+  the Hivites,
+  the Arkites,
+  the Sinites,
+  # Genesis 10:18
+  the Arvadites,
+  the Zemarites,
+  and the Hamathites.
 
 Afterward the families of the Canaanites were spread abroad.
 
+# Section: The border of the Canaanites\hfill{}$\geq$10.19
 # Genesis 10:19
-The border of the Canaanites was from Sidon --- as you go toward Gerar --- to Gaza --- as you go toward Sodom,
-Gomorrah,
-Admah,
-and Zeboiim --- to Lasha.
+The border of the Canaanites was from Sidon ---
+as you go toward Gerar ---
+to Gaza ---
+as you go toward Sodom,
+  Gomorrah,
+  Admah,
+  and Zeboiim ---
+to Lasha.
 
 # Genesis 10:20
 These are the sons of Ham,
@@ -1565,24 +1638,24 @@ after their families,
 according to their languages,
 in their lands and their nations.
 
+# Section: Children were also born to Shem\hfill{}$\geq$10.21
+
 # Genesis 10:21
-Children were also born to Shem (the elder brother of Japheth),
+Children were also born to Shem
+(the elder brother of Japheth),
 the father of all the children of Eber.
 
 # Genesis 10:22
 The sons of Shem were:
-Elam,
-Asshur,
-Arpachshad,
-Lud,
-and Aram.
+  Elam,
+  Asshur,
+  Arpachshad,
+  Lud,
+  and Aram.
 
 # Genesis 10:23
 The sons of Aram were:
-Uz,
-Hul,
-Gether,
-and Mash.
+  Uz, Hul, Gether, and Mash.
 
 # Genesis 10:24
 Arpachshad became the father of Shelah.
@@ -1598,25 +1671,14 @@ for in his days the earth was divided.
 His brother's name was Joktan.
 
 # Genesis 10:26
-Joktan became the father of Almodad,
-Sheleph,
-Hazarmaveth,
-Jerah,
-
-# Genesis 10:27
-Hadoram,
-Uzal,
-Diklah,
-
-# Genesis 10:28
-Obal,
-Abimael,
-Sheba,
-
-# Genesis 10:29
-Ophir,
-Havilah,
-and Jobab.
+Joktan became the father of
+  Almodad, Sheleph, Hazarmaveth, Jerah,
+  # Genesis 10:27
+  Hadoram, Uzal, Diklah,
+  # Genesis 10:28
+  Obal, Abimael, Sheba,
+  # Genesis 10:29
+  Ophir, Havilah, and Jobab.
 
 All these were the sons of Joktan.
 
@@ -1627,11 +1689,10 @@ the mountain of the east.
 
 # Genesis 10:31
 These are the sons of Shem,
-by their families,
-according to their languages,
-lands,
-and nations.
+  by their families,
+  according to their languages, lands, and nations.
 
+# Section: These are the families of the sons of Noah\hfill{}$\geq$10.32
 # Genesis 10:32
 These are the families of the sons of Noah,
 by their generations,
@@ -1639,6 +1700,7 @@ according to their nations.
 
 The nations divided from these in the earth after the flood.
 
+# Section: The whole earth was of one language and of one speech.\hfill{}$\geq$11.01
 # Genesis 11:01
 The whole earth was of one language and of one speech.
 
@@ -1649,43 +1711,51 @@ and they lived there.
 
 # Genesis 11:03
 They said to one another,
-``Come,
-let's make bricks,
-and burn them thoroughly.''
+{
+  Come,
+  let's make bricks,
+  and burn them thoroughly.
+}
 
 They had brick for stone,
 and they used tar for mortar.
 
 # Genesis 11:04
 They said,
-``Come,
-let's build ourselves a city,
-and a tower whose top reaches to the sky,
-and let's make a name for ourselves,
-lest we be scattered abroad on the surface of the whole earth.''
+{
+  Come,
+  let's build ourselves a city,
+  and a tower whose top reaches to the sky,
+  and let's make a name for ourselves,
+  lest we be scattered abroad on the surface of the whole earth.
+}
 
+# Section: Yahweh came down to see the city and the tower\hfill{}$\geq$11.05
 # Genesis 11:05
 Yahweh came down to see the city and the tower,
 which the children of men built.
 
 # Genesis 11:06
 Yahweh said,
-``Behold,
-they are one people,
-and they all have one language,
-and this is what they begin to do.
+{
+  Behold,
+  they are one people,
+  and they all have one language,
+  and this is what they begin to do.
 
-Now nothing will be withheld from them,
-which they intend to do.
+  Now nothing will be withheld from them,
+  which they intend to do.
 
-# Genesis 11:07
-Come,
-let's go down,
-and there confuse their language,
-that they may not understand one another's speech.''
+  # Genesis 11:07
+  Come,
+  let's go down,
+  and there confuse their language,
+  that they may not understand one another's speech.
+}
 
 # Genesis 11:08
-So Yahweh scattered them abroad from there on the surface of all the earth.
+So Yahweh scattered them abroad from there
+on the surface of all the earth.
 
 They stopped building the city.
 
@@ -1694,11 +1764,15 @@ Therefore its name was called Babel,
 because there Yahweh confused the language of all the earth.
 
 From there,
-Yahweh scattered them abroad on the surface of all the earth.
+Yahweh scattered them abroad
+on the surface of all the earth.
 
+# Section: This is the history of the generations of Shem\hfill{}$\geq$11.10
 # Genesis 11:10
 This is the history of the generations of Shem:
-Shem was one hundred years old when he became the father of Arpachshad two years after the flood.
+  Shem was one hundred years old
+  when he became the father of Arpachshad
+  two years after the flood.
 
 # Genesis 11:11
 Shem lived five hundred years after he became the father of Arpachshad,
