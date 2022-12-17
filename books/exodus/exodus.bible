@@ -3453,94 +3453,129 @@ and told them.
 # Exodus 19:26
 Exodus.
 
+# Section: God spoke all these words\hfill{}$\geq$20.01
 # Exodus 20:01
 God spoke all these words,
 saying,
 
 # Exodus 20:02
-``I am Yahweh your God,
-who brought you out of the land of Egypt,
-out of the house of bondage.
+{
+  I am Yahweh your God,
+  who brought you out of the land of Egypt,
+  out of the house of bondage.
+}
 
-# Exodus 20:03
-``You shall have no other gods before me.
+# Section: 1/10 You shall have no other gods\hfill{}$\geq$20.03
+{
+  # Exodus 20:03
+  You shall have no other gods before me.
+}
 
-# Exodus 20:04
-``You shall not make for yourselves an idol,
-nor any image of anything that is in the heavens above,
-or that is in the earth beneath,
-or that is in the water under the earth:
+# Section: 2/10 You shall not make\hfill{}$\geq$20.04
+{
+  # Exodus 20:04
+  You shall not make for yourselves an idol,
+  nor any image of anything that is in the heavens above,
+  or that is in the earth beneath,
+  or that is in the water under the earth:
+  # Exodus 20:05
+  you shall not bow yourself down to them,
+  nor serve them.
 
-# Exodus 20:05
-you shall not bow yourself down to them,
-nor serve them,
-for I,
-Yahweh your God,
-am a jealous God,
-visiting the iniquity of the fathers on the children,
-on the third and on the fourth generation of those who hate me,
+  For I,
+  Yahweh your God,
+  am a jealous God,
+  visiting the iniquity of the fathers on the children,
+  on the third and on the fourth generation of those who hate me,
+  # Exodus 20:06
+  and showing loving kindness
+  to thousands of those
+  who love me and keep my commandments.
+}
 
-# Exodus 20:06
-and showing loving kindness to thousands of those who love me and keep my commandments.
+# Section: 3/10 You shall not misuse\hfill{}$\geq$20.07
+{
+  # Exodus 20:07
+  You shall not misuse the name of Yahweh your God,
+  for Yahweh will not hold him guiltless who misuses his name.
+}
 
-# Exodus 20:07
-``You shall not misuse the name of Yahweh your God,
-for Yahweh will not hold him guiltless who misuses his name.
+# Section: 4/10 Remember the Sabbath day\hfill{}$\geq$20.07
+{
+  # Exodus 20:08
+  Remember the Sabbath day,
+  to keep it holy.
 
-# Exodus 20:08
-``Remember the Sabbath day,
-to keep it holy.
+  # Exodus 20:09
+  You shall labor six days,
+  and do all your work,
+  # Exodus 20:10
+  but the seventh day is a Sabbath to Yahweh your God.
 
-# Exodus 20:09
-You shall labor six days,
-and do all your work,
+  You shall not do any work in it,
+    you,
+    nor your son,
+    nor your daughter,
+    your male servant,
+    nor your female servant,
+    nor your livestock,
+    nor your stranger who is within your gates.
 
-# Exodus 20:10
-but the seventh day is a Sabbath to Yahweh your God.
+  # Exodus 20:11
+  For in six days
+    Yahweh made heaven and earth,
+    the sea, and all that is in them,
+  and rested the seventh day;
+  therefore Yahweh blessed the Sabbath day,
+  and made it holy.
+}
 
-You shall not do any work in it,
-you,
-nor your son,
-nor your daughter,
-your male servant,
-nor your female servant,
-nor your livestock,
-nor your stranger who is within your gates;
+# Section: 5/10 Honor your father and your mother.\hfill{}$\geq$20.07
+{
+  # Exodus 20:12
+  Honor your father and your mother,
+  that your days may be long in the land
+    which Yahweh your God gives you.
+}
 
-# Exodus 20:11
-for in six days Yahweh made heaven and earth,
-the sea,
-and all that is in them,
-and rested the seventh day;
-therefore Yahweh blessed the Sabbath day,
-and made it holy.
+# Section: 6/10 You shall not murder.\hfill{}$\geq$20.07
+{
+  # Exodus 20:13
+  You shall not murder.
+}
 
-# Exodus 20:12
-``Honor your father and your mother,
-that your days may be long in the land which Yahweh your God gives you.
+# Section: 7/10 You shall not commit adultery.\hfill{}$\geq$20.07
+{
+  # Exodus 20:14
+  You shall not commit adultery.
+}
 
-# Exodus 20:13
-``You shall not murder.
+# Section: 8/10 You shall not steal.\hfill{}$\geq$20.07
+{
+  # Exodus 20:15
+  You shall not steal.
+}
 
-# Exodus 20:14
-``You shall not commit adultery.
+# Section: 9/10 You shall not give false testimony\hfill{}$\geq$20.07
+{
+  # Exodus 20:16
+  You shall not give false testimony against your neighbor.
+}
 
-# Exodus 20:15
-``You shall not steal.
+# Section: 10/10 You shall not covet.\hfill{}$\geq$20.17
+{
+  # Exodus 20:17
+  You shall not covet your neighbor's house.
 
-# Exodus 20:16
-``You shall not give false testimony against your neighbor.
+  You shall not covet your neighbor's wife,
+    nor his male servant,
+    nor his female servant,
+    nor his ox,
+    nor his donkey,
+    nor anything that is your neighbor's.
+}
 
-# Exodus 20:17
-``You shall not covet your neighbor's house.
-
-You shall not covet your neighbor's wife,
-nor his male servant,
-nor his female servant,
-nor his ox,
-nor his donkey,
-nor anything that is your neighbor's.''
-
+# Section: All the people perceived the thunderings\hfill{}$\geq$20.18
 # Exodus 20:18
 All the people perceived the thunderings,
 the lightnings,
