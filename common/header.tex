@@ -1,4 +1,6 @@
 \documentclass[twoside, openany, 12pt]{extbook}
+% \documentclass[twoside, openany, landscape, 17pt]{extbook}
+% 8pt 9pt 10pt 11pt 12pt 14pt 17pt 20pt
 
 \usepackage[top=2cm,bottom=2.5cm,left=3cm,right=3cm,headsep=14pt,letterpaper]{geometry}
 
@@ -9,6 +11,15 @@
 % Purpose: enable \onehalfspacing{} or \doublespacing{}
 %-------------------------------------------------------------------------------
 \usepackage{setspace}
+
+%-------------------------------------------------------------------------------
+% Purpose: to get change bars (leftbar) to the left of text
+%-------------------------------------------------------------------------------
+\usepackage{framed}
+\renewenvironment{leftbar}{%
+  \def\FrameCommand{\hspace{-13pt}\vrule width 3pt \hspace{10pt}}%
+  \MakeFramed {\advance\hsize-\width \FrameRestore}}%
+  {\endMakeFramed}
 
 %-------------------------------------------------------------------------------
 % Purpose: change paragraphs to block style paragraphs without initial indent

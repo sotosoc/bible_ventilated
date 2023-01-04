@@ -1,18 +1,71 @@
-PIECES := ../../common/header.tex $(BOOK).tex ../../common/tailer.tex
-BOOKNAME := $(BOOK)_book
-
 VIEWER := okular
 
-all: $(BOOKNAME).pdf copy
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+# BOOKNAME := genesis # or whatever
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+DOC_SUFFIX  := doc
+DOC_NAME    := $(BOOKNAME)_$(DOC_SUFFIX)
+#   bible2doc                                                                                > $(DOC_NAME)_body.tex
+#   cat       ../../common/header.tex $(BOOKNAME)_body.tex ../../common/tailer.tex           > $(DOC_NAME).tex
+DOC_PIECES  := ../../common/header.tex $(DOC_NAME)_body.tex ../../common/tailer.tex
+#   pdflatex $(DOC_NAME).tex                                                                 > $(DOC_NAME).pdf
+DOC_DROPBOX := ~/Dropbox/pdfs/$(DOC_NAME).pdf
+DOC_DEPS    := $(DOC_PIECES) ../../common/page_headers.tex ../../bin/bible2doc
 
-$(BOOKNAME).pdf: $(PIECES)
-	cat $^ > $(BOOKNAME).tex
-	pdflatex $(BOOKNAME).tex
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+# BOOKNAME := genesis # or whatever
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+PRE_SUFFIX  := pre
+PRE_NAME    := $(BOOKNAME)_$(PRE_SUFFIX)
+#   bible2pre                                                                                > $(PRE_NAME)_body.tex
+#   cat        ../../common/present_header.tex $(PRE_NAME)_body.tex ../../common/tailer.tex  > $(PRE_NAME).tex
+PRE_PIECES  := ../../common/present_header.tex $(PRE_NAME)_body.tex ../../common/tailer.tex
+#   pdflatex $(PRE_NAME).tex                                                                 > $(PRE_NAME).pdf
+PRE_DROPBOX := ~/Dropbox/pdfs/$(PRE_NAME).pdf
+PRE_DEPS    := $(PRE_PIECES) ../../common/present_page_headers.tex ../../bin/bible2pre
 
-$(BOOK).tex: $(BOOK).bible
-	../../bin/bible2tex
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+# TARGETS
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+all: $(DOC_NAME).pdf
+all: $(PRE_NAME).pdf
+all: copy
 
-.PHONY: clean copy edit finished setup view
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+# DOCUMENT
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+$(DOC_NAME).pdf: $(DOC_DEPS)
+	cat $(DOC_PIECES) > $(DOC_NAME).tex
+	pdflatex -halt-on-error $(DOC_NAME).tex
+	pdflatex -halt-on-error $(DOC_NAME).tex
+
+$(DOC_NAME)_body.tex: $(BOOKNAME).bible
+	../../bin/bible2doc
+
+$(DOC_DROPBOX): $(DOC_NAME).pdf
+	cp -f $^ $@
+
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+# PRESENTATION
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+$(PRE_NAME).pdf: $(PRE_DEPS)
+	cat $(PRE_PIECES) > $(PRE_NAME).tex
+	pdflatex -halt-on-error $(PRE_NAME).tex
+	pdflatex -halt-on-error $(PRE_NAME).tex
+
+# $(PRE_NAME)_body.tex: $(BOOKNAME).bible
+	# ../../bin/bible2pre
+
+$(PRE_DROPBOX): $(PRE_NAME).pdf
+	cp -f $^ $@
+
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+.PHONY: clean copy edit touch view
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 clean:
 	rm -f *.log
@@ -21,17 +74,16 @@ clean:
 	rm -f *.pdf
 	rm -f *.tex
 	rm -f done
+	rm -f *.rst
 
-copy:
-	cp -f *.pdf ~/Dropbox/pdfs
+copy: $(DOC_DROPBOX) $(PRE_DROPBOX)
 
 edit:
-	vim $(BOOK).bible
+	vim $(BOOKNAME).bible
 
-setup:
-	../../bin/setupbook
-	\mv $(BOOK).bible $(BOOK).bible.bak
-	\mv zzz.bible $(BOOK).bible
+touch:
+	touch $(BOOKNAME).bible
 
 view: all
-	$(VIEWER) $(BOOKNAME).pdf >/dev/null 2>&1 &
+	$(VIEWER) $(DOC_NAME).pdf >/dev/null 2>&1 &
+	$(VIEWER) $(PRE_NAME).pdf >/dev/null 2>&1 &
