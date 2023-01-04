@@ -7,4 +7,5 @@ versify.rb
 *.orig
 *.pdf
 *.tex
+*.rst
 .scratch.vim
