@@ -1,3 +1,3 @@
-BOOK := 1acts
+BOOKNAME := 1acts
 
 include ../../common/make.common
