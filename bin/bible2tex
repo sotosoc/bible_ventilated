@@ -5,9 +5,13 @@ require 'fileutils'
 
 bookname = File.basename(Dir.getwd)
 
-filename = "./#{bookname}.tex"
-FileUtils.chmod(0777, filename) if File.file?(filename)
-fid = File.open("#{filename}", 'w')
+doc_name = "./#{bookname}_doc_body.tex"
+FileUtils.chmod(0777, doc_name) if File.file?(doc_name)
+fidd = File.open("#{doc_name}", 'w')
+
+pre_name = "./#{bookname}_pre_body.tex"
+FileUtils.chmod(0777, pre_name) if File.file?(pre_name)
+fidp = File.open("#{pre_name}", 'w')
 
 dir_path = File.dirname(Dir.getwd).split('/')
 unless dir_path[-1] == 'books' || dir_path[-1] == 'collections'
@@ -20,6 +24,7 @@ quote_depth = 0
 reference = '1:1'
 File.open("./#{bookname}.bible").each_with_index do |line, index|
   line.chomp!.rstrip!
+  line.gsub!('**', '$\dagger$')
   exit if line.match?(/^__END__/)
 
   indent = line[/^ +/] || ''
@@ -29,15 +34,30 @@ File.open("./#{bookname}.bible").each_with_index do |line, index|
 
   if line.match(/^$/)
     prev_line_is_text = false
-    fid.puts line
-    puts line
-    fid.flush
+    fidd.puts line
+    fidd.flush
+
+    fidp.puts line
+    fidp.flush
     next
 
-  elsif line.match?(/# Book: /)
+  elsif line.match?(/# Book:/)
     _pre, bookname = line.split(':')
-    fid.puts "\\chapter{#{bookname.strip}}"
-    fid.flush
+    fidd.puts "\\pagenumbering{gobble}"
+    fidd.puts "\\clearpage"
+    fidd.puts "\\thispagestyle{empty}"
+    fidd.puts "\\chapter{#{bookname.strip}}"
+    fidd.puts "\\clearpage"
+    fidd.puts "\\pagenumbering{arabic}"
+    fidd.flush
+
+    fidp.puts "\\pagenumbering{gobble}"
+    fidp.puts "\\clearpage"
+    fidp.puts "\\thispagestyle{empty}"
+    fidp.puts "\\chapter{#{bookname.strip}}"
+    fidp.puts "\\clearpage"
+    fidp.puts "\\pagenumbering{arabic}"
+    fidp.flush
 
     prev_line_is_text = false
     next
@@ -49,31 +69,63 @@ File.open("./#{bookname}.bible").each_with_index do |line, index|
   #   next
 
   elsif line.match?(/^# Section: /)
-    _pre, section_name = line.split(':')
-    fid.puts "\\newpage\\section{#{section_name.strip}}"
-    fid.flush
+    _pre, section_text = line.split(':')
+    fidd.puts "\\newpage\\section{#{section_text.strip}}"
+    fidd.flush
+
+    fidp.puts "\\newpage\\section{#{section_text.strip}}"
+    fidp.flush
+
+    prev_line_is_text = false
+    next
+
+  # split only in presentation
+  elsif line.match?(/^# PresentationSection: /)
+    _pre, section_text = line.split(':')
+    fidp.puts "\\newpage\\section{#{section_text.strip}}"
+    fidp.flush
 
     prev_line_is_text = false
     next
 
   elsif line.match?(/^# RJUST: /)
     _pre, text = line.split(':')
-    fid.puts "\\hfill{}#{text.strip}"
-    fid.flush
+    fidd.puts "\\hfill{}#{text.strip}"
+    fidd.flush
+
+    fidp.puts "\\hfill{}#{text.strip}"
+    fidp.flush
 
     prev_line_is_text = false
     next
 
-  elsif line.match?(/^# DOTFILL/)
-    fid.puts
-    fid.flush
+  elsif line.match?(/^# TEX: /)
+    _pre, text = line.split(':')
+    fidd.puts "\\hfill{}#{text.strip}"
+    fidd.flush
+
+    fidp.puts "\\hfill{}#{text.strip}"
+    fidp.flush
+
+    # prev_line_is_text = false
+    next
+
+  elsif line.match?(/^ *# DOTFILL/)
+    fidd.puts "\\dotfill{}"
+    fidd.flush
+
+    fidp.puts "\\dotfill{}"
+    fidp.flush
 
     prev_line_is_text = false
     next
 
-  elsif line.match?(/^# SEPARATOR/)
-    fid.puts "\\begin{center}\\textbf{$\\ast$~$\\ast$~$\\ast$~$\\ast$~$\\ast$}\\end{center}"
-    fid.flush
+  elsif line.match?(/^ *# SEPARATOR/)
+    fidd.puts "\\begin{center}\\textbf{$\\ast$~$\\ast$~$\\ast$~$\\ast$~$\\ast$}\\end{center}"
+    fidd.flush
+
+    fidp.puts "\\begin{center}\\textbf{$\\ast$~$\\ast$~$\\ast$~$\\ast$~$\\ast$}\\end{center}"
+    fidp.flush
 
     prev_line_is_text = false
     next
@@ -84,27 +136,44 @@ File.open("./#{bookname}.bible").each_with_index do |line, index|
   elsif line.match?(/ *\{/)
     quote_depth += 1
 
-    fid.puts
+    fidd.puts
+    fidp.puts
     case quote_depth
     when 1
-      fid.puts "#{line}\\itshape{}"
-      fid.flush
+      fidd.puts "#{line}\\itshape{}"
+      fidd.flush
+
+      fidp.puts "#{line}\\itshape{}"
+      fidp.flush
     when 2
-      fid.puts "#{line}\\normalfont\\bfseries{}"
-      fid.flush
+      fidd.puts "#{line}\\normalfont\\bfseries{}"
+      fidd.flush
+
+      fidp.puts "#{line}\\normalfont\\bfseries{}"
+      fidp.flush
     when 3
-      fid.puts "#{line}\\normalfont\\itshape{}"
-      fid.flush
+      fidd.puts "#{line}\\normalfont\\itshape{}"
+      fidd.flush
+
+      fidp.puts "#{line}\\normalfont\\itshape{}"
+      fidp.flush
     when 4
-      fid.puts "#{line}\\normalfont\\bfseries{}"
-      fid.flush
+      fidd.puts "#{line}\\normalfont\\bfseries{}"
+      fidd.flush
+
+      fidp.puts "#{line}\\normalfont\\bfseries{}"
+      fidp.flush
     when 5
-      fid.puts "#{line}\\normalfont\\itshape{}"
-      fid.flush
+      fidd.puts "#{line}\\normalfont\\itshape{}"
+      fidd.flush
+
+      fidp.puts "#{line}\\normalfont\\itshape{}"
+      fidp.flush
     end
 
     prev_line_is_text = false
-    fid.flush
+    fidd.flush
+    fidp.flush
     next
 
   # decrease quote depth
@@ -115,26 +184,40 @@ File.open("./#{bookname}.bible").each_with_index do |line, index|
       abort("#{index} ∷ #{line}")
     end
 
-    fid.puts "#{line}"
-    fid.flush
+    fidd.puts "#{line}"
+    fidd.flush
+
+    fidp.puts "#{line}"
+    fidp.flush
 
     prev_line_is_text = false
     next
   end
 
   if prev_line_is_text
-    fid.puts "#{indent}\\\\"
-    fid.flush
+    fidd.puts "#{indent}\\\\"
+    fidd.flush
+
+    fidp.puts "#{indent}\\\\"
+    fidp.flush
   end
 
   1.upto(indent.length/2).each do
-    fid.puts "#{indent}\\tab"
-    fid.flush
+    fidd.puts "#{indent}\\tab"
+    fidd.flush
+
+    fidp.puts "#{indent}\\tab"
+    fidp.flush
   end
 
-  fid.puts line
-  fid.flush
+  fidd.puts line.gsub(/\\dotfill/, '\\\\dotfill')
+  fidd.flush
+
+  fidp.puts line.gsub(/\\dotfill/, '\\\\dotfill')
+  fidp.flush
 
   prev_line_is_text = true
 end
-FileUtils.chmod(0444, filename)
+
+FileUtils.chmod(0444, doc_name)
+FileUtils.chmod(0444, pre_name)

@@ -1,0 +1,3 @@
+#!/bin/bash
+
+git commit -m $(echo $PWD | tr '/' ' ' | rev | cut -d' ' -f 1,2 | rev | tr ' ' '/')

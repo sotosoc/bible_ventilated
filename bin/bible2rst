@@ -1,0 +1,148 @@
+#!/usr/bin/env ruby
+
+require 'byebug'
+require 'fileutils'
+
+bookname = File.basename(Dir.getwd)
+
+filename = "./#{bookname}.rst"
+FileUtils.chmod(0777, filename) if File.file?(filename)
+fid = File.open("#{filename}", 'w')
+
+dir_path = File.dirname(Dir.getwd).split('/')
+unless dir_path[-1] == 'books' || dir_path[-1] == 'collections'
+  abort('ERROR: Must run in "$BIBLE/books/<book>" or "$BIBLE/collections/<book>" directory.')
+end
+
+# from .bible file to .rst
+count = 0
+File.open("./#{bookname}.bible").each_with_index do |line, index|
+  line.chomp!.rstrip!
+  exit if line.match?(/^__END__/)
+
+  if line.match(/^# Book:/)
+    _pre, title = line.split(':')
+    fid.puts title.strip
+  end
+
+  if line.match(/^# Section:/)
+    count += 1
+    fid.puts '~~~~'
+    fid.puts
+    fid.puts "--#{count}--"
+    fid.puts
+  end
+
+  next if line.match?(/^#/)
+
+  fid.puts line.gsub('``', "''")
+
+  next
+
+  if line.match(/^$/)
+    prev_line_is_text = false
+    fid.puts line
+    puts line
+    fid.flush
+    next
+
+  elsif line.match?(/# Book: /)
+    _pre, bookname = line.split(':')
+    fid.puts "\\chapter{#{bookname.strip}}"
+    fid.flush
+
+    prev_line_is_text = false
+    next
+
+  #   next
+
+  elsif line.match?(/^# Section: /)
+    _pre, section_name = line.split(':')
+    fid.puts "\\newpage\\section{#{section_name.strip}}"
+    fid.flush
+
+    prev_line_is_text = false
+    next
+
+  elsif line.match?(/^# RJUST: /)
+    _pre, text = line.split(':')
+    fid.puts "\\hfill{}#{text.strip}"
+    fid.flush
+
+    prev_line_is_text = false
+    next
+
+  elsif line.match?(/^# DOTFILL/)
+    fid.puts
+    fid.flush
+
+    prev_line_is_text = false
+    next
+
+  elsif line.match?(/^# SEPARATOR/)
+    fid.puts "\\begin{center}\\textbf{$\\ast$~$\\ast$~$\\ast$~$\\ast$~$\\ast$}\\end{center}"
+    fid.flush
+
+    prev_line_is_text = false
+    next
+
+  elsif line.match(/^ *#/)
+    next
+
+  elsif line.match?(/ *\{/)
+    quote_depth += 1
+
+    fid.puts
+    case quote_depth
+    when 1
+      fid.puts "#{line}\\itshape{}"
+      fid.flush
+    when 2
+      fid.puts "#{line}\\normalfont\\bfseries{}"
+      fid.flush
+    when 3
+      fid.puts "#{line}\\normalfont\\itshape{}"
+      fid.flush
+    when 4
+      fid.puts "#{line}\\normalfont\\bfseries{}"
+      fid.flush
+    when 5
+      fid.puts "#{line}\\normalfont\\itshape{}"
+      fid.flush
+    end
+
+    prev_line_is_text = false
+    fid.flush
+    next
+
+  # decrease quote depth
+  elsif line.match?(/ *\}/)
+    quote_depth -= 1
+
+    if line.match?(/^}$/) && !quote_depth.zero?
+      abort("#{index} ∷ #{line}")
+    end
+
+    fid.puts "#{line}"
+    fid.flush
+
+    prev_line_is_text = false
+    next
+  end
+
+  if prev_line_is_text
+    fid.puts "#{indent}\\\\"
+    fid.flush
+  end
+
+  1.upto(indent.length/2).each do
+    fid.puts "#{indent}\\tab"
+    fid.flush
+  end
+
+  fid.puts line
+  fid.flush
+
+  prev_line_is_text = true
+end
+FileUtils.chmod(0444, filename)
