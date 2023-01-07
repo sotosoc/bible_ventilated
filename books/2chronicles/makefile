@@ -1,3 +1,3 @@
-BOOK := 2chronicles
+BOOKNAME := 2chronicles
 
 include ../../common/make.common
