@@ -1,3 +1,3 @@
-BOOK := lamentations
+BOOKNAME := lamentations
 
 include ../../common/make.common
