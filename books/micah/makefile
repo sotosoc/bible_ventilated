@@ -1,3 +1,3 @@
-BOOK := micah
+BOOKNAME := micah
 
 include ../../common/make.common
