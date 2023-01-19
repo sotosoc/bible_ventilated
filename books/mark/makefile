@@ -1,3 +1,3 @@
-BOOK := mark
+BOOKNAME := mark
 
 include ../../common/make.common
