@@ -1,3 +1,3 @@
-BOOK := 1corinthians
+BOOKNAME := 1corinthians
 
 include ../../common/make.common

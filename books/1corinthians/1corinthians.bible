@@ -22,8 +22,6 @@ from God our Father and the Lord Jesus Christ.
 
 # Section: I always thank my God concerning you
 # 1Corinthians 01:04
-STARTHERE
-
 I always thank my God concerning you
 for the grace of God
 which was given you in Christ Jesus,
@@ -2356,14 +2354,18 @@ and this mortal must put on immortality.
 But when this perishable body will have become imperishable,
 and this mortal will have put on immortality,
 then what is written will happen:
-``Death is swallowed up in victory.''
+{
+  Death is swallowed up in victory.
+}
 
 # 1Corinthians 15:55
-``Death,
-where is your sting?
+{
+  Death,
+  where is your sting?
 
-Hades,
-where is your victory?''
+  Hades,
+  where is your victory?
+}
 
 # 1Corinthians 15:56
 The sting of death is sin,
