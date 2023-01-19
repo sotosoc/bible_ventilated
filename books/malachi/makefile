@@ -1,3 +1,3 @@
-BOOK := malachi
+BOOKNAME := malachi
 
 include ../../common/make.common
