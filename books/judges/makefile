@@ -1,3 +1,3 @@
-BOOK := judges
+BOOKNAME := judges
 
 include ../../common/make.common
