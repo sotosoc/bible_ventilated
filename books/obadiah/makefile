@@ -1,3 +1,3 @@
-BOOK := obadiah
+BOOKNAME := obadiah
 
 include ../../common/make.common
