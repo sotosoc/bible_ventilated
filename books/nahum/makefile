@@ -1,3 +1,3 @@
-BOOK := nahum
+BOOKNAME := nahum
 
 include ../../common/make.common
