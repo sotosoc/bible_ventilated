@@ -1,3 +1,3 @@
-BOOK := exodus
+BOOKNAME := exodus
 
 include ../../common/make.common
