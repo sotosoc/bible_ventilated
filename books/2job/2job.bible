@@ -52,17 +52,18 @@ Job answered:
 
   # Job 03:09
   Let the stars of its twilight be dark.
+}
 
+# PresentationSection: \hfill{}$\geqq$03.09b
+{
+  # Job 03:09b
   Let it look for light,
   but have none,
   neither let it see the eyelids of the morning,
   # Job 03:10
   because it didn't shut up the doors of my mother's womb,
   nor did it hide trouble from my eyes.
-}
 
-# Section: \hfill{}$\geqq$03.11
-{
   # Job 03:11
   Why didn't I die from the womb?
 
@@ -76,7 +77,11 @@ Job answered:
 
   # Job 03:13
   For now I should have lain down and been quiet.
+}
 
+# Section: \hfill{}$\geqq$03.13b
+{
+  # Job 03:13b
   I should have slept,
   then I would have been at rest,
   # Job 03:14
@@ -170,19 +175,23 @@ Then Eliphaz the Temanite answered,
 
   It touches you,
   and you are troubled.
+}
 
+# PresentationSection: \hfill{}$\geqq$04.06
+{
   # Job 04:06
   Isn't your piety your confidence?
 
   Isn't the integrity of your ways your hope?
 
   # Job 04:07
-  Remember, now,
-  whoever perished,
-  being innocent?
+  Remember, now, whoever perished, being innocent?
 
   Or where were the upright cut off?
+}
 
+# PresentationSection: \hfill{}$\geqq$04.08
+{
   # Job 04:08
   According to what I have seen,
   those who plow iniquity and sow trouble,
@@ -192,7 +201,10 @@ Then Eliphaz the Temanite answered,
   By the breath of God they perish.
 
   By the blast of his anger are they consumed.
+}
 
+# Section: \hfill{}$\geqq$04.10
+{
   # Job 04:10
   The roaring of the lion,
   and the voice of the fierce lion,
@@ -203,7 +215,10 @@ Then Eliphaz the Temanite answered,
   The old lion perishes for lack of prey.
 
   The cubs of the lioness are scattered abroad.
+}
 
+# PresentationSection: \hfill{}$\geqq$04.12
+{
   # Job 04:12
   Now a thing was secretly brought to me.
 
@@ -216,7 +231,10 @@ Then Eliphaz the Temanite answered,
   fear came on me,
   and trembling,
   which made all my bones shake.
+}
 
+# Section: \hfill{}$\geqq$04.15
+{
   # Job 04:15
   Then a spirit passed before my face.
 
@@ -227,7 +245,11 @@ Then Eliphaz the Temanite answered,
   but I couldn't discern its appearance.
 
   A form was before my eyes.
+}
 
+# Section: \hfill{}$\geqq$04.16b
+{
+  # Job 04:16b
   Silence,
   then I heard a voice,
   saying,
@@ -236,7 +258,12 @@ Then Eliphaz the Temanite answered,
     Shall mortal man be more just than God?
 
     Shall a man be more pure than his Maker?
+  }
+}
 
+# Section: \hfill{}$\geqq$04.18
+{
+  {
     # Job 04:18
     Behold!
     He puts no trust in his servants.
@@ -259,13 +286,19 @@ Then Eliphaz the Temanite answered,
     They die,
     and that without wisdom.
   }
+}
 
+# Section: \hfill{}$\geqq$05.01
+{
   # Job 05:01
-  Call now;
-  is there any who will answer you?
+  Call now.
+  Is there any who will answer you?
 
   To which of the holy ones will you turn?
+}
 
+# Section: \hfill{}$\geqq$05.02
+{
   # Job 05:02
   For resentment kills the foolish man,
   and jealousy kills the simple.
