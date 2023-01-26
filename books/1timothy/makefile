@@ -1,3 +1,3 @@
-BOOK := 1timothy
+BOOKNAME := 1timothy
 
 include ../../common/make.common
