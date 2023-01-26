@@ -1,3 +1,3 @@
-BOOK := ecclesiastes
+BOOKNAME := ecclesiastes
 
 include ../../common/make.common
