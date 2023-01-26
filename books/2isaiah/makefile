@@ -1,3 +1,3 @@
-BOOK := 2isaiah
+BOOKNAME := 2isaiah
 
 include ../../common/make.common
