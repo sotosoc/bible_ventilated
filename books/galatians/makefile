@@ -1,3 +1,3 @@
-BOOK := galatians
+BOOKNAME := galatians
 
 include ../../common/make.common
