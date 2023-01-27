@@ -1,3 +1,3 @@
-BOOK := 2thessalonians
+BOOKNAME := 2thessalonians
 
 include ../../common/make.common
