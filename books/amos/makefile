@@ -1,3 +1,3 @@
-BOOK := amos
+BOOKNAME := amos
 
 include ../../common/make.common
