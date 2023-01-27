@@ -1,3 +1,3 @@
-BOOK := jeremiah
+BOOKNAME := jeremiah
 
 include ../../common/make.common
