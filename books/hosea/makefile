@@ -1,3 +1,3 @@
-BOOK := hosea
+BOOKNAME := hosea
 
 include ../../common/make.common
