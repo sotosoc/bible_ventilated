@@ -1,3 +1,3 @@
-BOOK := haggai
+BOOKNAME := haggai
 
 include ../../common/make.common
