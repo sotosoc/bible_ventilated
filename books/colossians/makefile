@@ -1,3 +1,3 @@
-BOOK := colossians
+BOOKNAME := colossians
 
 include ../../common/make.common
