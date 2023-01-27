@@ -1,3 +1,3 @@
-BOOK := 2proverbs
+BOOKNAME := 2proverbs
 
 include ../../common/make.common
