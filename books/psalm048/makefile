@@ -1,3 +1,3 @@
-BOOK := psalm048
+BOOKNAME := psalm048
 
 include ../../common/make.common
