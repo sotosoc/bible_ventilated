@@ -1,3 +1,3 @@
-BOOK := song
+BOOKNAME := song
 
 include ../../common/make.common
