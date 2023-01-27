@@ -1,3 +1,3 @@
-BOOK := esther
+BOOKNAME := esther
 
 include ../../common/make.common
