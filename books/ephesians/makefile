@@ -1,3 +1,3 @@
-BOOK := ephesians
+BOOKNAME := ephesians
 
 include ../../common/make.common
