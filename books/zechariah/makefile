@@ -1,3 +1,3 @@
-BOOK := zechariah
+BOOKNAME := zechariah
 
 include ../../common/make.common
