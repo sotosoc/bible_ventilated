@@ -1,3 +1,3 @@
-BOOK := revelation
+BOOKNAME := revelation
 
 include ../../common/make.common
