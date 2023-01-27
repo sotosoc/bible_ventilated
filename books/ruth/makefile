@@ -1,3 +1,3 @@
-BOOK := ruth
+BOOKNAME := ruth
 
 include ../../common/make.common
