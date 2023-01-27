@@ -1,3 +1,3 @@
-BOOK := deuteronomy
+BOOKNAME := deuteronomy
 
 include ../../common/make.common
