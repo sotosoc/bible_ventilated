@@ -1,3 +1,3 @@
-BOOK := ezekiel
+BOOKNAME := ezekiel
 
 include ../../common/make.common
