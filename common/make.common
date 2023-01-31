@@ -64,7 +64,7 @@ $(PRE_DROPBOX): $(PRE_NAME).pdf
 
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-.PHONY: clean copy edit touch view
+.PHONY: clean copy edit gui more touch view viewdoc viewpre
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 clean:
@@ -78,12 +78,24 @@ clean:
 
 copy: $(DOC_DROPBOX) $(PRE_DROPBOX)
 
-edit:
+edit: all viewpre
 	vim $(BOOKNAME).bible
+
+gui: all viewpre
+	gvim $(BOOKNAME).bible
+
+more:
+	more $(DOC_NAME).pdf $(PRE_NAME).pdf
 
 touch:
 	touch $(BOOKNAME).bible
 
 view: all
 	$(VIEWER) $(DOC_NAME).pdf >/dev/null 2>&1 &
+	$(VIEWER) $(PRE_NAME).pdf >/dev/null 2>&1 &
+
+viewdoc: all
+	$(VIEWER) $(DOC_NAME).pdf >/dev/null 2>&1 &
+
+viewpre: all
 	$(VIEWER) $(PRE_NAME).pdf >/dev/null 2>&1 &
