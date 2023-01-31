@@ -47,7 +47,7 @@ File.open("./#{bookname}.bible").each_with_index do |line, index|
     fidd.puts "\\clearpage"
     fidd.puts "\\thispagestyle{empty}"
     fidd.puts "\\chapter{#{bookname.strip}}"
-    fidd.puts "\\clearpage"
+    # fidd.puts "\\clearpage"
     fidd.puts "\\pagenumbering{arabic}"
     fidd.flush
 
@@ -55,7 +55,7 @@ File.open("./#{bookname}.bible").each_with_index do |line, index|
     fidp.puts "\\clearpage"
     fidp.puts "\\thispagestyle{empty}"
     fidp.puts "\\chapter{#{bookname.strip}}"
-    fidp.puts "\\clearpage"
+    # fidp.puts "\\clearpage"
     fidp.puts "\\pagenumbering{arabic}"
     fidp.flush
 
@@ -68,8 +68,8 @@ File.open("./#{bookname}.bible").each_with_index do |line, index|
 
   #   next
 
-  elsif line.match?(/^# Section: /)
-    _pre, section_text = line.split(':')
+  elsif line.match?(/^# Section:/)
+    _pre, section_text = line.gsub(/RIGHTARROW/, '\\myrightarrow{}').split(':')
     fidd.puts "\\newpage\\section{#{section_text.strip}}"
     fidd.flush
 
@@ -80,8 +80,8 @@ File.open("./#{bookname}.bible").each_with_index do |line, index|
     next
 
   # split only in presentation
-  elsif line.match?(/^# PresentationSection: /)
-    _pre, section_text = line.split(':')
+  elsif line.match?(/^# PresentationSection:/)
+    _pre, section_text = line.gsub(/RIGHTARROW/, '\\myrightarrow{}').split(':')
     fidp.puts "\\newpage\\section{#{section_text.strip}}"
     fidp.flush
 
@@ -211,9 +211,11 @@ File.open("./#{bookname}.bible").each_with_index do |line, index|
   end
 
   fidd.puts line.gsub(/\\dotfill/, '\\\\dotfill')
+              .gsub(/#.*/, '')
   fidd.flush
 
-  fidp.puts line.gsub(/\\dotfill/, '\\\\dotfill')
+  fidp.puts line.gsub(/\\dotfill/, '\\\\dotfill').gsub(/#.*/, '')
+              .gsub(/#.*/, '')
   fidp.flush
 
   prev_line_is_text = true
