@@ -1,4 +1,4 @@
-BOOK := LARGE
+BOOKNAME := LARGE
 
 include ../../common/make.common
 
@@ -19,7 +19,7 @@ SOURCES += ../philemon/philemon.bible
 SOURCES += ../3john/3john.bible
 SOURCES += ../2john/2john.bible
 
-$(BOOK).bible: $(SOURCES)
+$(BOOKNAME).bible: $(SOURCES)
 	rm -f $@
 	cat $^ > $@
 	chmod 444 $@

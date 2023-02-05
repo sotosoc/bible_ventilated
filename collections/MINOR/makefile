@@ -1,4 +1,4 @@
-BOOK := MINOR
+BOOKNAME := MINOR
 
 include ../../common/make.common
 
@@ -9,7 +9,7 @@ SOURCES += ../habakkuk/habakkuk.bible
 SOURCES += ../zephaniah/zephaniah.bible
 SOURCES += ../haggai/haggai.bible
 
-$(BOOK).bible: $(SOURCES)
+$(BOOKNAME).bible: $(SOURCES)
 	rm -f $@
 	cat $^ > $@
 	chmod 444 $@

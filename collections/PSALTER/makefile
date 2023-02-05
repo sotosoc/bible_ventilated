@@ -3,7 +3,11 @@ BOOK := PSALTER
 include ../../common/make.common
 
 # HISTORY
+SOURCES += ../../books/psalm001/psalm001.bible
+SOURCES += ../../books/psalm002/psalm002.bible
+SOURCES += ../../books/psalm003/psalm003.bible
 SOURCES += ../../books/1psalms/1psalms.bible
+
 SOURCES += ../../books/psalm042/psalm042.bible
 SOURCES += ../../books/psalm043/psalm043.bible
 SOURCES += ../../books/psalm044/psalm044.bible
@@ -16,6 +20,7 @@ SOURCES += ../../books/psalm050/psalm050.bible
 SOURCES += ../../books/psalm051/psalm051.bible
 SOURCES += ../../books/psalm062/psalm062.bible
 SOURCES += ../../books/2psalms/2psalms.bible
+
 SOURCES += ../../books/3psalms/3psalms.bible
 SOURCES += ../../books/4psalms/4psalms.bible
 SOURCES += ../../books/5psalms/5psalms.bible
