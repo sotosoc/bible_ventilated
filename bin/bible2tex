@@ -14,7 +14,7 @@ FileUtils.chmod(0777, pre_name) if File.file?(pre_name)
 fidp = File.open("#{pre_name}", 'w')
 
 dir_path = File.dirname(Dir.getwd).split('/')
-unless dir_path[-1] == 'books' || dir_path[-1] == 'collections'
+unless %w[books nkjv collections].include? dir_path[-1]
   abort('ERROR: Must run in "$BIBLE/books/<book>" directory.')
 end
 

@@ -19,3 +19,22 @@ Dir.foreach(dirpath) do |filename|
     system('make')
   end
 end
+
+################################################################################
+dirpath = "#{ENV['BIBLE']}/nkjv"
+
+clean = ARGV.shift unless ARGV.length.zero?
+if clean == 'clean'
+  clean = true
+end
+
+Dir.foreach(dirpath) do |filename|
+  next if filename == '.' || filename == '..'
+  next if filename == '.gitignore'
+
+  filepath = "#{dirpath}/#{filename}"
+  Dir.chdir(filepath) do
+    system('make clean') if clean
+    system('make')
+  end
+end
