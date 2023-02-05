@@ -1,12 +1,12 @@
 # Book: Matthew
 
-# Section: The book of the genealogy of Jesus Christ\hfill{}$\geqq$01.01
+# Section: \hfill{}$\geqq$01.01
 # Matthew 01:01
 The book of the genealogy of Jesus Christ,
-the son of David,
-the son of Abraham.
+  the son of David,
+  the son of Abraham.
 
-# Section: Abraham\hfill{}$\geqq$01.02
+# Section: \hfill{}$\geqq$01.02
 # Matthew 01:02
 Abraham became the father of Isaac.
 
@@ -29,6 +29,7 @@ Amminadab became the father of Nahshon.
 
 Nahshon became the father of Salmon.
 
+# PresentationSection: \hfill{}$\geqq$01.05
 # Matthew 01:05
 Salmon became the father of Boaz
   by Rahab.
@@ -41,7 +42,8 @@ Obed became the father of Jesse.
 # Matthew 01:06
 Jesse became the father of King David.
 
-# Section: David\hfill{}$\geqq$01.07
+# PresentationSection: \hfill{}$\geqq$01.06b
+# Matthew 01:06b
 David the king became the father of Solomon
   by her who had been Uriah's wife.
 
@@ -64,6 +66,8 @@ Uzziah became the father of Jotham.
 
 Jotham became the father of Ahaz.
 
+# PresentationSection: \hfill{}$\geqq$01.09b
+# Matthew 01:09b
 Ahaz became the father of Hezekiah.
 
 # Matthew 01:10
@@ -77,7 +81,7 @@ Amon became the father of Josiah.
 Josiah became the father of Jechoniah and his brothers
   at the time of the exile to Babylon.
 
-# Section: After the exile to Babylon\hfill{}$\geqq$01:12
+# Section: \hfill{}$\geqq$01.12
 # Matthew 01:12
 After the exile to Babylon,
 Jechoniah became the father of Shealtiel.
@@ -105,14 +109,14 @@ Eleazar became the father of Matthan.
 
 Matthan became the father of Jacob.
 
-# Section: Jacob became the father of Joseph\hfill{}$\geqq$01:16
+# Section: \hfill{}$\geqq$01.16
 # Matthew 01:16
 Jacob became the father of Joseph,
 the husband of Mary,
 from whom was born Jesus,
 who is called Christ.
 
-# Section: So all the generations\hfill{}$\geqq$01:17
+# Section: \hfill{}$\geqq$01.17
 # Matthew 01:17
 So all the generations from Abraham to David
   are fourteen generations;
@@ -121,22 +125,24 @@ from David to the exile to Babylon
 and from the carrying away to Babylon to the Christ,
   fourteen generations.
 
-# Section: Now the birth of Jesus Christ\hfill{}$\geqq$01:18
+# Section: \hfill{}$\geqq$01.18
 # Matthew 01:18
 Now the birth of Jesus Christ was like this:
+
 After his mother, Mary,
 was engaged to Joseph,
 before they came together,
 she was found pregnant
   by the Holy Spirit.
 
-# Section: Joseph, her husband\hfill{}$\geqq$01:19
+# Section: \hfill{}$\geqq$01.19
 # Matthew 01:19
 Joseph, her husband,
 being a righteous man,
 and not willing to make her a public example,
 intended to put her away secretly.
 
+# PresentationSection: \hfill{}$\geqq$01.20
 # Matthew 01:20
 But when he thought about these things,
 behold,
@@ -154,6 +160,7 @@ saying,
   for it is he who shall save his people from their sins.
 }
 
+# PresentationSection: \hfill{}$\geqq$01.22
 # Matthew 01:22
 Now all this has happened
 that it might be fulfilled
@@ -161,19 +168,19 @@ which was spoken by the Lord through the prophet,
 saying,
 # Matthew 01:23
 {
-  Behold,
+  Behold!
   the virgin shall be with child,
   and shall give birth to a son.
 
   They shall call his name Immanuel,
 }
 
-which is,
-being interpreted,
+which is, being interpreted,
 {
   God with us.
 }
 
+# PresentationSection: \hfill{}$\geqq$01.24
 # Matthew 01:24
 Joseph arose from his sleep,
 and did as the angel of the Lord commanded him,
@@ -184,7 +191,7 @@ until she had given birth to her firstborn son.
 
 He named him Jesus.
 
-# Section: Now when Jesus was born in Bethlehem of Judea\hfill{}$\geqq$02:01
+# Section: \hfill{}$\geqq$02.01
 # Matthew 02:01
 Now when Jesus was born in Bethlehem of Judea
 in the days of King Herod,
@@ -199,7 +206,7 @@ saying,
   and have come to worship him.
 }
 
-# Section: When King Herod heard it\hfill{}$\geqq$02:03
+# Section: \hfill{}$\geqq$02.03
 # Matthew 02:03
 When King Herod heard it,
 he was troubled,
@@ -210,6 +217,7 @@ Gathering together
 all the chief priests and scribes of the people,
 he asked them where the Christ would be born.
 
+# PresentationSection: \hfill{}$\geqq$02.05
 # Matthew 02:05
 They said to him,
 {
@@ -221,11 +229,12 @@ They said to him,
     You Bethlehem,
     land of Judah,
     are in no way least among the princes of Judah;
-    for out of you shall come a governor who shall shepherd my people,
-    Israel.
+    for out of you shall come a governor
+      who shall shepherd my people, Israel.
   }
 }
 
+# PresentationSection: \hfill{}$\geqq$02.07
 # Matthew 02:07
 Then Herod secretly called the wise men,
 and learned from them exactly what time the star appeared.
@@ -241,7 +250,7 @@ and said,
   so that I also may come and worship him.
 }
 
-# Section: They, having heard the king\hfill{}$\geqq$02:09
+# PresentationSection: \hfill{}$\geqq$02.09
 # Matthew 02:09
 They,
 having heard the king,
@@ -256,7 +265,7 @@ over where the young child was.
 When they saw the star,
 they rejoiced with exceedingly great joy.
 
-# Section: They came into the house\hfill{}$\geqq$02:11
+# Section: \hfill{}$\geqq$02.11
 # Matthew 02:11
 They came into the house and saw the young child with Mary,
 his mother,
@@ -272,7 +281,7 @@ they offered to him gifts:
 Being warned in a dream not to return to Herod,
 they went back to their own country another way.
 
-# Section: Now when they had departed\hfill{}$\geqq$02:13
+# Section: \hfill{}$\geqq$02.13
 # Matthew 02:13
 Now when they had departed,
 behold,
@@ -285,11 +294,10 @@ saying,
   for Herod will seek the young child to destroy him.
 }
 
-# Section: He arose\hfill{}$\geqq$02:14
+# Section: \hfill{}$\geqq$02.14
 # Matthew 02:14
 He arose
-and took the young child and his mother
-by night
+and took the young child and his mother by night
 and departed into Egypt,
 # Matthew 02:15
 and was there until the death of Herod,
@@ -301,7 +309,7 @@ saying,
   Out of Egypt I called my son.
 }
 
-# Section: Then Herod\hfill{}$\geqq$02:16
+# Section: \hfill{}$\geqq$02.16
 # Matthew 02:16
 Then Herod,
 when he saw that he was mocked by the wise men,
@@ -313,24 +321,30 @@ from two years old and under,
 according to the exact time
 which he had learned from the wise men.
 
+# PresentationSection: \hfill{}$\geqq$02.17
 # Matthew 02:17
-Then that which was spoken by Jeremiah the prophet was fulfilled,
+Then that which was spoken
+by Jeremiah the prophet
+was fulfilled,
 saying,
 # Matthew 02:18
 {
   A voice was heard in Ramah,
-  lamentation,
-  weeping and great mourning,
+    lamentation,
+    weeping
+    and great mourning,
   Rachel weeping for her children;
   she wouldn't be comforted,
   because they are no more.
 }
 
-# Section: But when Herod was dead\hfill{}$\geqq$02:19
+# Section: \hfill{}$\geqq$02.19
 # Matthew 02:19
 But when Herod was dead,
 behold,
-an angel of the Lord appeared in a dream to Joseph in Egypt,
+an angel of the Lord appeared in a dream
+to Joseph
+in Egypt,
 saying,
 # Matthew 02:20
 {
@@ -339,7 +353,7 @@ saying,
   for those who sought the young child's life are dead.
 }
 
-# Section: He arose and took the young child and his mother\hfill{}$\geqq$02:21
+# Section: \hfill{}$\geqq$02.21
 # Matthew 02:21
 He arose and took the young child and his mother,
 and came into the land of Israel.
@@ -358,9 +372,7 @@ that it might be fulfilled
 which was spoken through the prophets
 that he will be called a Nazarene.
 
-# Matthew 02:24
-
-# Section: In those days\hfill{}$\geqq$03:01
+# Section: \hfill{}$\geqq$03.01
 # Matthew 03:01
 In those days,
 John the Baptizer came,
@@ -368,12 +380,14 @@ preaching in the wilderness of Judea,
 saying,
 # Matthew 03:02
 {
-  Repent,
-  for the Kingdom of Heaven is at hand!
+  Repent!
+  For the Kingdom of Heaven is at hand!
 }
 
+# PresentationSection: \hfill{}$\geqq$03.03
 # Matthew 03:03
-For this is he who was spoken of by Isaiah the prophet,
+For this is he
+who was spoken of by Isaiah the prophet,
 saying,
 {
   The voice of one crying in the wilderness,
@@ -382,7 +396,7 @@ saying,
   Make his paths straight!
 }
 
-# Section: Now John himself wore clothing made of camel's hair\hfill{}$\geqq$03:04
+# Section: \hfill{}$\geqq$03.04
 # Matthew 03:04
 Now John himself wore clothing made of camel's hair
 with a leather belt around his waist.
@@ -399,7 +413,7 @@ went out to him.
 They were baptized by him in the Jordan,
 confessing their sins.
 
-# Section: But when he saw many of the Pharisees and Sadducees\hfill{}$\geqq$03:07
+# Section: \hfill{}$\geqq$03.07
 # Matthew 03:07
 But when he saw many of the Pharisees and Sadducees
 coming for his baptism,
@@ -444,7 +458,7 @@ he said to them,
   with unquenchable fire.
 }
 
-# Section: Then Jesus came from Galilee\hfill{}$\geqq$03:13
+# Section: \hfill{}$\geqq$03.13
 # Matthew 03:13
 Then Jesus came from Galilee
 to the Jordan
@@ -468,7 +482,7 @@ But Jesus, answering, said to him,
 
 Then he allowed him.
 
-# Section: Jesus, when he was baptized\hfill{}$\geqq$03:16
+# Section: \hfill{}$\geqq$03.16
 # Matthew 03:16
 Jesus,
 when he was baptized,
@@ -480,14 +494,14 @@ He saw the Spirit of God descending as a dove,
 and coming on him.
 
 # Matthew 03:17
-Behold,
+Behold!
 a voice out of the heavens said,
 {
   This is my beloved Son,
   with whom I am well pleased.
 }
 
-# Section: Then Jesus was led up\hfill{}$\geqq$04:01
+# Section: \hfill{}$\geqq$04.01
 # Matthew 04:01
 Then Jesus was led up
 by the Spirit
@@ -515,7 +529,7 @@ But he answered,
   }
 }
 
-# Section: Then the devil took him into the holy city.\hfill{}$\geqq$04:05
+# Section: \hfill{}$\geqq$04.05
 # Matthew 04:05
 Then the devil took him into the holy city.
 
@@ -547,7 +561,7 @@ Jesus said to him,
   }
 }
 
-# Section: The devil took him to an exceedingly high mountain\hfill{}$\geqq$04:08
+# Section: \hfill{}$\geqq$04.08
 # Matthew 04:08
 Again,
 the devil took him to an exceedingly high mountain,
@@ -578,7 +592,7 @@ Then the devil left him,
 and behold,
 angels came and served him.
 
-# Section: Now when Jesus heard that John was delivered up\hfill{}$\geqq$04:12
+# Section: \hfill{}$\geqq$04.12
 # Matthew 04:12
 Now when Jesus heard that John was delivered up,
 he withdrew into Galilee.
@@ -604,7 +618,7 @@ saying,
   to them light has dawned.
 }
 
-# Section: From that time, Jesus began to preach\hfill{}$\geqq$04:17
+# Section: \hfill{}$\geqq$04.17
 # Matthew 04:17
 From that time,
 Jesus began to preach,
@@ -615,7 +629,7 @@ and to say,
   For the Kingdom of Heaven is at hand.
 }
 
-# Section: Walking by the sea of Galilee\hfill{}$\geqq$04:18
+# Section: \hfill{}$\geqq$04.18
 # Matthew 04:18
 Walking by the sea of Galilee,
 he saw two brothers:
@@ -636,7 +650,7 @@ He said to them,
 # Matthew 04:20
 They immediately left their nets and followed him.
 
-# Section: Going on from there, he saw two other brothers\hfill{}$\geqq$04:21
+# Section: \hfill{}$\geqq$04.21
 # Matthew 04:21
 Going on from there,
 he saw two other brothers,
@@ -651,7 +665,7 @@ He called them.
 They immediately left the boat and their father,
 and followed him.
 
-# Section: Jesus went about in all Galilee\hfill{}$\geqq$04:23
+# Section: \hfill{}$\geqq$04.23
 # Matthew 04:23
 Jesus went about in all Galilee,
 teaching in their synagogues,
@@ -669,7 +683,7 @@ epileptics,
 and paralytics;
 and he healed them.
 
-# Section: Great multitudes from Galilee\hfill{}$\geqq$04:25
+# Section: \hfill{}$\geqq$04.25
 # Matthew 04:25
 Great multitudes
   from Galilee,
@@ -686,7 +700,7 @@ he went up onto the mountain.
 When he had sat down,
 his disciples came to him.
 
-# Section: Blessed\hfill{}$\geqq$05:02
+# Section: \hfill{}$\geqq$05.02
 # Matthew 05:02
 He opened his mouth and taught them,
 saying,
@@ -724,7 +738,7 @@ saying,
   for theirs is the Kingdom of Heaven.
 }
 
-# Section: Blessed are you when people reproach you\hfill{}$\geqq$05:11
+# Section: \hfill{}$\geqq$05.11
 {
   # Matthew 05:11
   Blessed are you when people reproach you,
@@ -740,7 +754,7 @@ saying,
   For that is how they persecuted the prophets who were before you.
 }
 
-# Section: You are the salt of the earth\hfill{}$\geqq$05:13
+# Section: \hfill{}$\geqq$05.13
 {
   # Matthew 05:13
   You are the salt of the earth,
@@ -752,7 +766,7 @@ saying,
   and trodden under the feet of men.
 }
 
-# Section: You are the light of the world.\hfill{}$\geqq$05:14
+# Section: \hfill{}$\geqq$05.14
 {
   # Matthew 05:14
   You are the light of the world.
@@ -772,9 +786,8 @@ saying,
   and glorify your Father who is in heaven.
 }
 
-# Section: Don't think that I came to destroy the law\hfill{}$\geqq$
+# Section: \hfill{}$\geqq$05.17
 {
-  # Section: Don't think05:17
   # Matthew 05:17
   Don't think
   that I came to destroy the law or the prophets.
@@ -799,7 +812,7 @@ saying,
     shall be called great in the Kingdom of Heaven.
 }
 
-# Section: For I tell you\hfill{}$\geqq$05:20
+# Section: \hfill{}$\geqq$05.20
 {
   # Matthew 05:20
   For I tell you
@@ -808,7 +821,7 @@ saying,
   there is no way
   you will enter into the Kingdom of Heaven.
 
-# Section: You have heard that it was said to the ancient ones\hfill{}$\geqq$05:21
+# Section: \hfill{}$\geqq$05.21
   # Matthew 05:21
   You have heard that it was said to the ancient ones,
   {
@@ -850,7 +863,7 @@ saying,
   and then come and offer your gift.
 }
 
-# Section: Agree with your adversary quickly\hfill{}$\geqq$05:25
+# Section: \hfill{}$\geqq$05.25
 {
   # Matthew 05:25
   Agree with your adversary quickly
@@ -865,7 +878,7 @@ saying,
   until you have paid the last penny.
 }
 
-# Section: You have heard that it was said,\hfill{}$\geqq$05:27
+# Section: \hfill{}$\geqq$05.27
 {
   # Matthew 05:27
   You have heard that it was said,
@@ -881,7 +894,7 @@ saying,
   in his heart.
 }
 
-# Section: If your right eye causes you to stumble\hfill{}$\geqq$05:29
+# Section: \hfill{}$\geqq$05.29
 {
   # Matthew 05:29
   If your right eye causes you to stumble,
@@ -892,7 +905,7 @@ saying,
   than for your whole body to be cast into Gehenna.
 }
 
-# Section: If your right hand causes you to stumble\hfill{}$\geqq$05:30
+# Section: \hfill{}$\geqq$05.30
 {
   # Matthew 05:30
   If your right hand causes you to stumble,
@@ -904,7 +917,7 @@ saying,
   than for your whole body to be cast into Gehenna.
 }
 
-# Section: It was also said\hfill{}$\geqq$05:31
+# Section: \hfill{}$\geqq$05.31
 {
   # Matthew 05:31
   It was also said,
@@ -921,7 +934,7 @@ saying,
   commits adultery.
 }
 
-# Section: Again you have heard that it was said to the ancient ones,\hfill{}$\geqq$05:33
+# Section: \hfill{}$\geqq$05.33
 {
   # Matthew 05:33
   Again you have heard that it was said to the ancient ones,
@@ -970,7 +983,7 @@ saying,
   Whatever is more than these is of the evil one.
 }
 
-# Section: You have heard that it was said\hfill{}$\geqq$05:38
+# Section: \hfill{}$\geqq$05.38
 {
   # Matthew 05:38
   You have heard that it was said,
@@ -986,7 +999,7 @@ saying,
   turn to him the other also.
 }
 
-# Section: If anyone sues you to take away your coat\hfill{}$\geqq$05:40
+# Section: \hfill{}$\geqq$05.40
 {
   # Matthew 05:40
   If anyone sues you to take away your coat,
@@ -1001,7 +1014,7 @@ saying,
   and don't turn away him who desires to borrow from you.
 }
 
-# Section: You have heard that it was said\hfill{}$\geqq$05:43
+# Section: \hfill{}$\geqq$05.43
 {
   # Matthew 05:43
   You have heard that it was said,
@@ -1038,7 +1051,7 @@ saying,
   just as your Father in heaven is perfect.
 }
 
-# Section: Be careful\hfill{}$\geqq$06:01
+# Section: \hfill{}$\geqq$06.01
 {
   # Matthew 06:01
   Be careful
@@ -1065,7 +1078,7 @@ saying,
   then your Father who sees in secret will reward you openly.
 }
 
-# Section: When you pray\hfill{}$\geqq$06:05
+# Section: \hfill{}$\geqq$06.05
 {
   # Matthew 06:05
   When you pray,
@@ -1096,7 +1109,7 @@ saying,
   before you ask him.
 }
 
-# Section: Pray like this\hfill{}$\geqq$06:09
+# Section: \hfill{}$\geqq$06.09
 {
   # Matthew 06:09
   Pray like this:
@@ -1136,7 +1149,7 @@ saying,
   neither will your Father forgive your trespasses.
 }
 
-# Section: Moreover when you fast\hfill{}$\geqq$06:16
+# Section: \hfill{}$\geqq$06.16
 {
   # Matthew 06:16
   Moreover when you fast,
@@ -1161,7 +1174,7 @@ saying,
   will reward you.
 }
 
-# Section: Don't lay up treasures for yourselves\hfill{}$\geqq$06:19
+# Section: \hfill{}$\geqq$06.19
 {
   # Matthew 06:19
   Don't lay up treasures for yourselves on the earth,
@@ -1176,7 +1189,7 @@ saying,
   there your heart will be also.
 }
 
-# Section: The lamp of the body is the eye.\hfill{}$\geqq$06:22
+# Section: \hfill{}$\geqq$06.22
 {
   # Matthew 06:22
   The lamp of the body is the eye.
@@ -1199,7 +1212,7 @@ saying,
   You can't serve both God and Mammon.
 }
 
-# Section: Therefore I tell you\hfill{}$\geqq$06:25
+# Section: \hfill{}$\geqq$06.25
 {
   # Matthew 06:25
   Therefore I tell you,
@@ -1223,14 +1236,14 @@ saying,
   Aren't you of much more value than they?
 }
 
-# Section: Which of you by being anxious?\hfill{}$\geqq$06:27
+# Section: \hfill{}$\geqq$06.27
 {
   # Matthew 06:27
   Which of you by being anxious,
   can add one moment to his lifespan?
 }
 
-# Section: Why are you anxious about clothing?\hfill{}$\geqq$06:28
+# Section: \hfill{}$\geqq$06.28
 {
   # Matthew 06:28
   Why are you anxious about clothing?
@@ -1252,7 +1265,7 @@ saying,
   you of little faith?
 }
 
-# Section:   Therefore don't be anxious\hfill{}$\geqq$06:31
+# Section: \hfill{}$\geqq$06.31
 {
   # Matthew 06:31
   Therefore don't be anxious,
@@ -1287,7 +1300,7 @@ saying,
   Each day's own evil is sufficient.
 }
 
-# Section:   Don't judge\hfill{}$\geqq$07:01
+# Section: \hfill{}$\geqq$07.01
 {
   # Matthew 07:01
   Don't judge,
@@ -1632,8 +1645,8 @@ When he got into a boat,
 his disciples followed him.
 
 # Matthew 08:24
-Behold,
-a violent storm came up on the sea,
+Behold!
+A violent storm came up on the sea,
 so much that the boat was covered with the waves;
 but he was asleep.
 
@@ -1674,9 +1687,8 @@ exceedingly fierce,
 so that nobody could pass that way.
 
 # Matthew 08:29
-Behold,
-they cried out,
-saying,
+Behold!
+They cried out, saying,
 {
   What do we have to do with you,
   Jesus, Son of God?
@@ -1710,8 +1722,8 @@ Those who fed them fled and went away into the city and told everything,
 including what happened to those who were possessed with demons.
 
 # Matthew 08:34
-Behold,
-all the city came out to meet Jesus.
+Behold!
+All the city came out to meet Jesus.
 
 When they saw him,
 they begged that he would depart from their borders.
@@ -1721,8 +1733,8 @@ He entered into a boat and crossed over,
 and came into his own city.
 
 # Matthew 09:02
-Behold,
-they brought to him a man who was paralyzed,
+Behold!
+They brought to him a man who was paralyzed,
 lying on a bed.
 
 Jesus,
@@ -1735,8 +1747,8 @@ said to the paralytic,
 }
 
 # Matthew 09:03
-Behold,
-some of the scribes said to themselves,
+Behold!
+Some of the scribes said to themselves,
 {
   This man blasphemes.
 }
@@ -1871,8 +1883,10 @@ Jesus got up and followed him,
 as did his disciples.
 
 # Matthew 09:20
-Behold,
-a woman who had a discharge of blood for twelve years came behind him,
+Behold!
+A woman who had a discharge of blood
+for twelve years
+came behind him,
 and touched the fringe of his garment;
 # Matthew 09:21
 for she said within herself,
@@ -2090,7 +2104,7 @@ saying,
   it will be more tolerable for the land of Sodom and Gomorrah in the day of judgment than for that city.
 
   # Matthew 10:16
-  Behold,
+  Behold!
   I send you out as sheep among wolves.
 
   Therefore be wise as serpents and harmless as doves.
@@ -2267,8 +2281,8 @@ Jesus began to say to the multitudes concerning John,
 
   A man in soft clothing?
 
-  Behold,
-  those who wear soft clothing are in kings' houses.
+  Behold!
+  Those who wear soft clothing are in kings' houses.
 
   # Matthew 11:09
   But why did you go out?
@@ -2282,7 +2296,7 @@ Jesus began to say to the multitudes concerning John,
   For this is he,
   of whom it is written,
   {
-    Behold,
+    Behold!
     I send my messenger before your face,
     who will prepare your way before you.
   }
@@ -2335,8 +2349,8 @@ Jesus began to say to the multitudes concerning John,
   The Son of Man came eating and drinking,
   and they say,
   {
-    Behold,
-    a gluttonous man and a drunkard,
+    Behold!
+    A gluttonous man and a drunkard,
     a friend of tax collectors and sinners!
   }
 
@@ -2424,8 +2438,8 @@ But the Pharisees,
 when they saw it,
 said to him,
 {
-  Behold,
-  your disciples do what is not lawful to do on the Sabbath.
+  Behold!
+  Your disciples do what is not lawful to do on the Sabbath.
 }
 
 # Matthew 12:03
@@ -2518,7 +2532,7 @@ which was spoken through Isaiah the prophet,
 saying,
 # Matthew 12:18
 {
-  Behold,
+  Behold!
   My servant whom I have chosen,
   My beloved in whom my soul is well pleased.
 
@@ -2701,8 +2715,8 @@ seeking to speak to him.
 # Matthew 12:47
 One said to him,
 {
-  Behold,
-  your mother and your brothers stand outside,
+  Behold!
+  Your mother and your brothers stand outside,
   seeking to speak to you.
 }
 
@@ -2718,7 +2732,7 @@ But he answered him who spoke to him,
 He stretched out his hand toward his disciples,
 and said,
 {
-  Behold,
+  Behold!
   My mother and my brothers!
 
   # Matthew 12:50
@@ -2742,8 +2756,8 @@ and all the multitude stood on the beach.
 He spoke to them many things in parables,
 saying,
 {
-  Behold,
-  a farmer went out to sow.
+  Behold!
+  A farmer went out to sow.
 
   # Matthew 13:04
   As he sowed,
@@ -3460,8 +3474,8 @@ So Jesus said,
 Jesus went out from there and withdrew into the region of Tyre and Sidon.
 
 # Matthew 15:22
-Behold,
-a Canaanite woman came out from those borders and cried,
+Behold!
+A Canaanite woman came out from those borders and cried,
 saying,
 {
   Have mercy on me, Lord, you son of David!
@@ -3791,7 +3805,7 @@ His face shone like the sun,
 and his garments became as white as the light.
 
 # Matthew 17:03
-Behold,
+Behold!
 Moses and Elijah appeared to them talking with him.
 
 # Matthew 17:04
@@ -3811,8 +3825,8 @@ While he was still speaking,
 behold,
 a bright cloud overshadowed them.
 
-Behold,
-a voice came out of the cloud,
+Behold!
+A voice came out of the cloud,
 saying,
 {
   This is my beloved Son,
@@ -4070,7 +4084,7 @@ and said,
   # Matthew 18:14
   Even so it is not the will of your Father who is in heaven that one of these little ones should perish.
 
-  # Section: If your brother sins against you\hfill{}$\geqq$18:15
+  # Section: \hfill{}$\geqq$18.15
   # Matthew 18:15
   If your brother sins against you,
   go,
@@ -4307,8 +4321,8 @@ He laid his hands on them,
 and departed from there.
 
 # Matthew 19:16
-Behold,
-one came to him and said,
+Behold!
+One came to him and said,
 {
   Good teacher, what good thing shall I do,
   that I may have eternal life?
@@ -4416,8 +4430,8 @@ Jesus said,
 # Matthew 19:27
 Then Peter answered,
 {
-  Behold,
-  we have left everything and followed you.
+  Behold!
+  We have left everything and followed you.
 
   What then will we have?
 }
@@ -4556,8 +4570,8 @@ and on the way he said to them,
 
 # Matthew 20:18
 {
-  Behold,
-  we are going up to Jerusalem,
+  Behold!
+  We are going up to Jerusalem,
   and the Son of Man will be delivered to the chief priests and scribes,
   and they will condemn him to death,
   # Matthew 20:19
@@ -4637,8 +4651,8 @@ As they went out from Jericho,
 a great multitude followed him.
 
 # Matthew 20:30
-Behold,
-two blind men sitting by the road,
+Behold!
+Two blind men sitting by the road,
 when they heard that Jesus was passing by,
 cried out,
 {
@@ -5075,7 +5089,7 @@ saying,
   {
     Tell those who are invited,
     {
-      Behold,
+      Behold!
       I have prepared my dinner.
 
       My cattle and my fatlings are killed,
@@ -5579,8 +5593,8 @@ saying,
   and you would not!
 
   # Matthew 23:38
-  Behold,
-  your house is left to you desolate.
+  Behold!
+  Your house is left to you desolate.
 
   # Matthew 23:39
   For I tell you,
@@ -5711,8 +5725,8 @@ Jesus answered them,
   # Matthew 24:23
   Then if any man tells you,
   {
-    Behold,
-    here is the Christ!
+    Behold!
+    Here is the Christ!
   }
 
   or,
@@ -5730,20 +5744,20 @@ Jesus answered them,
   even the chosen ones.
 
   # Matthew 24:25
-  Behold,
+  Behold!
   I have told you beforehand.
 
   # Matthew 24:26
   If therefore they tell you,
   {
-    Behold,
+    Behold!
     he is in the wilderness,
   }
 
   don't go out;
   or
   {
-    Behold,
+    Behold!
     he is in the inner rooms,
   }
 
@@ -5979,7 +5993,7 @@ Jesus answered them,
     Lord,
     you delivered to me five talents.
 
-    Behold,
+    Behold!
     I have gained another five talents in addition to them.
   }
 
@@ -6001,7 +6015,7 @@ Jesus answered them,
     Lord,
     you delivered to me two talents.
 
-    Behold,
+    Behold!
     I have gained another two talents in addition to them.
   }
 
@@ -6030,8 +6044,8 @@ Jesus answered them,
     I was afraid,
     and went away and hid your talent in the earth.
 
-    Behold,
-    you have what is yours.
+    Behold!
+    You have what is yours.
   }
 
   # Matthew 25:26
@@ -6468,16 +6482,16 @@ Then he came to his disciples and said to them,
 {
   Are you still sleeping and resting?
 
-  Behold,
-  the hour is at hand,
+  Behold!
+  The hour is at hand,
   and the Son of Man is betrayed into the hands of sinners.
 
   # Matthew 26:46
   Arise,
   let's be going.
 
-  Behold,
-  he who betrays me is at hand.
+  Behold!
+  He who betrays me is at hand.
 }
 
 # Matthew 26:47
@@ -6518,8 +6532,8 @@ Then they came and laid hands on Jesus,
 and took him.
 
 # Matthew 26:51
-Behold,
-one of those who were with Jesus stretched out his hand and drew his sword,
+Behold!
+One of those who were with Jesus stretched out his hand and drew his sword,
 and struck the servant of the high priest,
 and cut off his ear.
 
@@ -6618,8 +6632,8 @@ saying,
 
   Why do we need any more witnesses?
 
-  Behold,
-  now you have heard his blasphemy.
+  Behold!
+  Now you have heard his blasphemy.
 
   # Matthew 26:66
   What do you think?
@@ -7130,8 +7144,8 @@ as it began to dawn on the first day of the week,
 Mary Magdalene and the other Mary came to see the tomb.
 
 # Matthew 28:02
-Behold,
-there was a great earthquake,
+Behold!
+There was a great earthquake,
 for an angel of the Lord descended from the sky
 and came
 and rolled away the stone from the door
@@ -7170,7 +7184,8 @@ The angel answered the women,
     there you will see him.
   }
 
-  Behold, I have told you.
+  Behold!
+  I have told you.
 }
 
 # Matthew 28:08
@@ -7250,7 +7265,7 @@ saying,
   # Matthew 28:20
   teaching them to observe all things that I commanded you.
 
-  Behold,
+  Behold!
   I am with you always,
   even to the end of the age.
 }
