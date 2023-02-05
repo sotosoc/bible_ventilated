@@ -5,6 +5,11 @@ require 'fileutils'
 
 bookname = File.basename(Dir.getwd)
 
+dir_path = File.dirname(Dir.getwd).split('/')
+unless %w[books collections].include? dir_path[-1]
+  abort('ERROR: Must run in "$BIBLE/books/<book>" directory.')
+end
+
 doc_name = "./#{bookname}_doc_body.tex"
 FileUtils.chmod(0777, doc_name) if File.file?(doc_name)
 fidd = File.open("#{doc_name}", 'w')
@@ -12,11 +17,6 @@ fidd = File.open("#{doc_name}", 'w')
 pre_name = "./#{bookname}_pre_body.tex"
 FileUtils.chmod(0777, pre_name) if File.file?(pre_name)
 fidp = File.open("#{pre_name}", 'w')
-
-dir_path = File.dirname(Dir.getwd).split('/')
-unless %w[books nkjv collections].include? dir_path[-1]
-  abort('ERROR: Must run in "$BIBLE/books/<book>" directory.')
-end
 
 # from .bible file to .tex
 prev_line_is_text = false
