@@ -1,4 +1,5 @@
-1  , 1  , 7225 , בְּרֵאשִׁ֖ית            , bə-rê-šîṯ            , In the beginning                      , Prep-b | N-fs                                                                                                                   , 1                                             , 1          , 1254 , בָּרָ֣א , bā-rā , created , V-Qal-Perf-3ms
+1  , 1  , 7225 , בְּרֵאשִׁ֖ית            , bə-rê-šîṯ            , In the beginning                      , Prep-b | N-fs
+1  , 1  , 1254 , בָּרָ֣א               , bā-rā                , created                               , V-Qal-Perf-3ms
 1  , 1  , 430  , אֱלֹהִ֑ים             , ’ĕ-lō-hîm;           , God                                   , N-mp
 1  , 1  , 853  , אֵ֥ת                , ’êṯ                  , -                                     , DirObjM
 1  , 1  , 8064 , הַשָּׁמַ֖יִם             , haš-šā-ma-yim        , the heavens                           , Art | N-mp
@@ -246,7 +247,7 @@
 1  , 19 , 1242 , בֹ֖קֶר               , ḇō-qer               , morning                               , N-ms
 1  , 19 , 3117 , י֥וֹם               , yō-wm                , day                                   , N-ms
 1  , 19 , 7243 , רְבִיעִֽי׃            , rə-ḇî-‘î.            , the fourth                            , Number-oms
-1  , 19 , 0000 , פ p̄               , -                    , Punc
+1  , 19 , 0000 , פ p̄               , -                    ,                                       , Punc
 
 1  , 20 , 559  , וַיֹּ֣אמֶר             , way-yō-mer           , And said                              , Conj-w | V-Qal-ConsecImperf-3ms
 1  , 20 , 430  , אֱלֹהִ֔ים             , ’ĕ-lō-hîm            , God                                   , N-mp
