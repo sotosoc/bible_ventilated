@@ -1,18 +1,67 @@
 ﻿# Book: Genesis
 
+# vnoremap ,, :1,.Tabu /\v[+\|]/<CR>
+# nnoremap ,, vip:Tabu /\v[+\|]/<CR>
+
+This is a new, experimental ``translation'' by me from Hebrew into English.
+
+{
+  I am translating the Hebrew,
+}
+
+should be understood through this analogy.
+
+# SEPARATOR
+
+# PresentationSection: \hfill{}[INTRO]
+A father is driving home along country roads.
+He stops the car and tells his five-year old son to come climb into his lap.
+
+The little, wide-eyed boy takes the wheel of the car into his hands
+as his father begins to move forward slowly the rest of the way home.
+
+Upon arriving home, the boy runs in the house,
+{
+  Mommy! Mommy! I drove the car home!
+
+  Daddy let me drive the car!
+}
+
+Dad quietly mouths to his anxious wife,
+{
+  My hands never left the steering wheel.
+}
+
+# SEPARATOR
+
+# Section: \hfill{}[INTRODUCTION]
+I am learning Hebrew, step-by-step, as I proceed, a little at a time.
+I am open to feedback from anyone who knows Hebrew.
+I will take Hebrew classes online for now.
+
+Presuppositions:
+--- Translation! NOT explanation!
+--- YHWH (or Yahweh) is the Hebrew name of our covenant God, not LORD.
+--- Hebrewisms should be revealed to the English reader where sensible.
+--- Hebrew word order revealed to the English reader where sensible.
+--- The word `and' should be rendered in the English text. (Very Hebraic.)
+--- Inferred words to complete an English sentence will be notated <like this>.
+--- The final text should be understandable by an educated English speaker.
+--- The text should be readable aloud; the Word should be proclaimed.
+--- TBD: Lower confidence renderings should be notated like this: [L] [M].
+--- ``Be strong and courageous. Don't be afraid. Don't be dismayed.''
+
 # Section: \hfill{}[LITERAL]\tab{}$\geqq$01.01
 # Genesis 01:01
 In the beginning,
-God /Elohim/ created the heavens and the earth.
+God created the heavens and the earth. \hfill /Elohim/
 
 # Genesis 01:02
 And the earth was formless and void.
 
-And darkness
-  <was> over the face of the deep.
+And darkness <was> over the face of the deep.
 
-And the Spirit of God
-  was hovering over the face of the waters.
+And the Spirit of God was hovering over the face of the waters.
 
 # Section: First Day\hfill{}[LITERAL]\tab{}$\geqq$01.03
 # Genesis 01:03
@@ -27,11 +76,12 @@ And there was light.
 And God saw the light,
 that <it was> good.
 
-And God divided between the light and the darkness.
+And God divided
+between the light and the darkness.
 
 # Genesis 01:05
 And God called the light Day
-and He called the darkness Night.
+and the darkness He called Night. \hfill [DMC: Hebrew order]
 
 And there was evening
 and there was morning,
@@ -53,7 +103,7 @@ and the waters that <were> above the firmament.
 And it was so.
 
 # Genesis 01:08
-And God called the firmament Sky /Air/.
+And God called the firmament Sky. \hfill /Air/
 
 And there was evening
 and there was morning,
@@ -82,9 +132,8 @@ And God said,
   Let the earth bring forth grass,
   the herb <that> yields seed,
   <and> the fruit tree <that> yields fruit
-  according to its kind,
-  whose seed <is> in itself,
-  on the earth.
+  after its kind,
+  whose seed <is> in itself on the earth.
 }
 
 And it was so.
@@ -92,10 +141,10 @@ And it was so.
 # Genesis 01:12
 And the earth brought forth grass,
 the herb <that> yields seed
-according to its kind,
+after its kind,
 and the tree <that> yields fruit,
 whose seed <is> in itself,
-according to its kind.
+after its kind.
 
 And God saw that <it was> good.
 
@@ -174,9 +223,9 @@ And God said,
 So God created great sea creatures
 and every living creature that moves,
 with which the waters abounded,
-according to their kinds,
+after their kinds,
 and every winged bird
-according to its kind.
+after its kind.
 
 And God saw that <it was> good.
 
@@ -200,21 +249,22 @@ and there was morning,
 And God said,
 {
   Let the earth bring forth the living creature
-  according to its kind,
+  after its kind,
     livestock,
     and creeping thing,
     and beast of the earth
-  <each> according to its kind.
+    after its kind.
 }
 
 And it was so.
 
 # Genesis 01:25
 And God made the beast of the earth
-according to its kind,
-and livestock according to its kind,
+  after its kind,
+and livestock
+  after its kind,
 and everything that creeps on the earth
-according to its kind.
+  after its kind.
 
 And God saw that <it was> good.
 
@@ -227,16 +277,16 @@ And God said,
 
   And let them rule
     over the fish of the sea,
-    and over the birds of the sky /air/,
+    and over the birds of the sky,
     and over the livestock,
     and over all the earth,
     and over every creeping thing that creeps on the earth.
 }
 
 # Genesis 01:27
-So God created man in his <own> image.
+So God created man in His <own> image.
 
-In the image of God He created him.
+In the image of God, He created him.
 
 Male and female He created them.
 
@@ -252,7 +302,7 @@ And God said to them,
   and subdue it.
 
   And have dominion over the fish of the sea,
-  and over the birds of the sky /air/,
+  and over the birds of the sky,
   and over every living thing that moves upon the earth.
 }
 
@@ -269,9 +319,9 @@ And God said,
 
   # Genesis 01:30
   And to every beast of the earth,
-  and to every bird of the sky /air/,
+  and to every bird of the sky,
   and to everything that creeps upon the earth,
-  which <has> in it the life-breath ---
+  which in it <has> the living-breath ---
   every green herb for food.
 }
 
@@ -304,7 +354,7 @@ from all His work which He had done.
 
 # Genesis 02:03
 And God blessed the seventh day,
-and He set it apart /sanctified/,
+and He set it apart,
 because in it He rested
 from all the work
 which God had created and made.
@@ -346,9 +396,8 @@ which God had created and made.
 These <are> the generations
   <of> the heavens and of the earth
     when they were created,
-in the day
-  that YHWH God /YHWH Elohim/ /LORD God/ made
-    the earth and the heavens.
+in the day that YHWH God  \hfill /YHWH Elohim/
+  made the earth and the heavens.
 
 # Section: \hfill{}[LITERAL]\tab{}$\geqq$02.05
 # Genesis 02:05
@@ -366,9 +415,10 @@ but a mist went up from the earth
 and watered the whole face of the ground.
 
 # Genesis 02:07
-And YHWH God formed man <from> the dust of the ground,
-and breathed into his nostrils the breath of life;
-and the man became a living being.
+And YHWH God formed man
+<from> the dust of the ground,
+and breathed into his nostrils the living-breath;
+and the man became a living soul.
 
 # Section: \hfill{}[LITERAL]\tab{}$\geqq$02.08
 # Genesis 02:08
@@ -378,8 +428,7 @@ and there he put the man whom he had formed.
 
 # Genesis 02:09
 And YHWH God made
-every tree that is
-  pleasing to the sight
+every tree that is pleasing to the sight
   and good for food
 grow out of the ground.
 
@@ -389,7 +438,7 @@ and the tree of the knowledge of good and evil.
 # Section: \hfill{}[LITERAL]\tab{}$\geqq$02.10
 # Genesis 02:10
 Now a river went out of Eden to water the garden;
-and from there it parted and became four riverheads /headwaters/.
+and from there it parted and became four riverheads. \hfill /headwaters/
 
 # PresentationSection: \hfill{}[LITERAL]\tab{}$\geqq$02.11
 # Genesis 02:11
@@ -437,7 +486,7 @@ saying,
   you shall not eat.
 
   For in the day that you eat of it,
-  surely you shall die.
+  dying, you will die.  \hfill [lit.]
 }
 
 # Section: \hfill{}[LITERAL]\tab{}$\geqq$02.18
@@ -453,25 +502,25 @@ And YHWH God said,
 # Genesis 02:19
 And YHWH God formed --- out of the ground ---
 every beast of the field
-and every bird of the sky /air/
-and He brought <them> to the man /Adam**/
+and every bird of the sky
+and He brought <them> to the man # /Adam**/
 to see what he would call them.
 
-And whatever the man /Adam**/ called <each> living creature ---
+And whatever the man called <each> living creature ---
 that <was> its name.
 
 # Genesis 02:20
-So the man /Adam**/ gave names
+So the man gave names
   to all livestock,
-  and to the birds of the sky /air/,
+  and to the birds of the sky,
   and to every animal of the field;
-but for the man /Adam**/
+but for the man
   a suitable helper was not found.
 
 # Section: \hfill{}[LITERAL]\tab{}$\geqq$02.21
 # Genesis 02:21
 And YHWH God caused a deep sleep
-to fall upon the man /Adam**/
+to fall upon the man
 
 And <as> he slept
 He took one of his ribs
@@ -485,7 +534,7 @@ into a woman.
 And He brought her to the man.
 
 # Genesis 02:23
-And the man /Adam**/ said,
+And the man said,
 {
   This <is> now bone of my bones
   and flesh of my flesh.
@@ -514,7 +563,7 @@ which YHWH God had made.
 
 And he said to the woman,
 {
-  Has God indeed /actually|really/ said,
+  Has God indeed said, \hfill /actually|really/
   {
     You shall not eat of every tree of the garden.
   }
@@ -543,7 +592,12 @@ And the woman said to the serpent,
 And the serpent said
 to the woman,
 {
-  Surely, you will not die.
+  # Surely, you will not die.
+
+  Not
+  {
+    Dying, you will die. \hfill [lit.]
+  }
 
   For God knows
   that in the day you eat of it
@@ -578,14 +632,14 @@ And they heard the sound /voice/ of YHWH God
 walking in the garden
 in the breeze of the day
 and hid themselves ---
-the man /Adam**/ and his wife ---
-from the presence of Yaheweh God
+the man and his wife ---
+from the presence of YHWH God
 among the trees of the garden.
 
 # Section: \hfill{}[LITERAL]\tab{}$\geqq$03.09
 # Genesis 03:09
 And YHWH God called
-to the man /Adam**/
+to the man
 and said to him
 {
   Where <are> you ?
@@ -620,7 +674,7 @@ And He said,
 }
 
 # Genesis 03:12
-And the man /Adam**/ said,
+And the man said,
 {
   The woman whom You gave <to be> with me ---
   she gave me of the tree and I ate.
@@ -640,8 +694,7 @@ And the woman said,
 
 # Section: \hfill{}[LITERAL]\tab{}$\geqq$03.14
 # Genesis 03:14
-So YHWH God said
-to the serpent,
+So YHWH God said to the serpent,
 {
   Because you have done this ---
   you <are> cursed <more than> all livestock
@@ -675,10 +728,10 @@ To the woman, He said,
 
 # Section: \hfill{}[LITERAL]\tab{}$\geqq$03.17
 # Genesis 03:17
-And to the man /Adam**/ He said,
+And to the man He said,
 {
   Because you heeded the voice of your wife
-  and have eaten from the tree 
+  and have eaten from the tree
   of which I commanded you saying,
   {
     You shall not eat of it,
@@ -687,8 +740,7 @@ And to the man /Adam**/ He said,
   cursed is the ground for your sake.
 
   In toil you shall eat <of> it
-  all the days
-  of your life.
+  all the days of your life.
 
 }
 
@@ -710,7 +762,7 @@ And to the man /Adam**/ He said,
 
 # Section: \hfill{}[LITERAL]\tab{}$\geqq$03.20
 # Genesis 03:20
-And Adam** /the man/ called the name of his wife Eve /living/
+And Adam**/Man called the name of his wife Eve/Life,
 because she <was> the mother of all living.
 
 # Section: \hfill{}[LITERAL]\tab{}$\geqq$03.21
@@ -724,7 +776,7 @@ and clothed them.
 And YHWH God said,
 {
   Behold!
-  Adam** /the man/ has become like one of Us,
+  Adam**/Man has become like one of Us,
   knowing good and evil.
 
   Now,
@@ -737,8 +789,7 @@ And YHWH God said,
 # PresentationSection: \hfill{}[LITERAL]\tab{}$\geqq$03.23
 # Genesis 03:23
 Therefore,
-YHWH God sent him
-out of the garden of Eden,
+YHWH God sent him out of the garden of Eden,
 to till the ground
 from which he had been taken.
 
