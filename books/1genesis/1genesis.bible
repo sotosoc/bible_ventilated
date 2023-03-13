@@ -3,218 +3,629 @@
 # vnoremap ,, :1,.Tabu /\v[+\|]/<CR>
 # nnoremap ,, vip:Tabu /\v[+\|]/<CR>
 
-My Experimental Rendering into English [MERE]
 
-This the MERE Translation of the Bible.
 
-# PresentationSection: \hfill{}[MERE INTRODUCTION]
-Presuppositions:
---- Translation! NOT explanation!
---- YHWH (or Yahweh) is the Hebrew name of our covenant God, not LORD.
---- The word `and' should be rendered in the English text. (Very Hebraic.)
---- Prefer `shall' (over `will') in commands, prohibitions, promises.
---- Hebrewisms should be revealed to the English reader where sensible.
---- Hebrew word order revealed to the English reader where sensible.
---- Inferred words to complete an English sentence will be notated <like this>.
---- The final text should be understandable by an educated English speaker.
---- The text should be readable aloud; the Word should be proclaimed.
---- TBD: Lower confidence renderings should be notated like this: [L] [M]
---- ``Be strong and courageous. Don't be afraid. Don't be dismayed.''
 
-# PresentationSection: \hfill{}[MERE INTRODUCTION]
-This is a new, experimental ``translation'' by me from Hebrew into English.
 
-{
-  I am translating the Hebrew,
-}
 
-should be understood through this analogy.
 
-A father is driving home along country roads.
-He stops the car and tells his five-year old son to come climb into his lap.
 
-The little, wide-eyed boy takes the wheel of the car into his hands
-as his father begins to move forward slowly the rest of the way home.
 
-Upon arriving home, the boy runs into the house,
-{
-  Mommy! Mommy! I drove the car home!
 
-  Daddy let me drive the car!
-}
 
-Dad quietly mouths to his anxious wife,
-{
-  My hands never left the steering wheel.
-}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # Section: \hfill{}[MERE]\tab{}$\geqq$01.01
 # Genesis 01:01
 In <the> beginning,
-God created the heavens and the earth. \hfill [Elohim] [skies]
+God [Elohim] created the heavens [skies] and the earth [land].
+
+
+
+
+
 
 # Genesis 01:02
-And the earth was without form and void. \hfill [formless and empty]
+And the earth [land] was without form [confusion] and void [empty].
+
+
+
+
+
 
 # Genesis 01:02b
-And darkness <was> over <the> faces of <the> deep. \hfill [lit. faces]
+And darkness <was> over <the> face[s] of <the> deep.
+
+
+
+
+
+
+
+
+
+
+
+
 
 # Genesis 01:02b
-And <the> Spirit of God \hfill [construction implies ownership]
-  was hovering over <the> faces of the waters.
+And <the> Spirit [breath] of God [Elohim]
+  was hovering over <the> face[s] of the waters.
+
+
+
+
+
+
+
+
+
 
 # Section: First Day\hfill{}[MERE]\tab{}$\geqq$01.03
 # Genesis 01:03
-And God said,
+And God [Elohim] said:
 {
   Let there be light.
 }
 
+
+
+
+
+
+
 # Genesis 01:03c
-And there was light.
+And it was light.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # Genesis 01:04
-And God saw the light,
+And God [Elohim] saw the light,
 that <it was> good.
 
+
+
+
+
+
+
+
 # Genesis 01:04b
-And God divided
-between the light and the darkness. \hfill [lit.]
+And God [Elohim] divided
+between the light and the darkness.
+
+
+
+
+
+
+
+
 
 # Genesis 01:05
-And God called to the light, Day
-and to the darkness He called, Night. \hfill [HO]
+And God [Elohim] called to <the> light, Day;
+and to <the> darkness, he called, Night.
+
+
+
+
+
+
+
 
 # Genesis 01:05b
-And there was sunset, \hfill [evening]
-and there was sunrise, \hfill [morning]
-<the> first day.
+And there was sunset [evening],
+and there was sunrise [morning]:
+day one.
+
+
+
+
+
+
 
 # Section: Second Day\hfill{}[MERE]\tab{}$\geqq$01.06
 # Genesis 01:06
-And God said,
+And God said:
 {
   Let there be <an> expanse
     in <the> midst of the waters,
-  and let it divide between \hfill [separate]
-    waters <and> waters.
+
+
+
+
+
+
+
+
+  And let it divide [separate]
+    between waters and waters.
 }
+
+
+
+
+
+
+
 
 # Genesis 01:07
 And God made the expanse.
 
+
+
+
+
+
+
+
+
+
+
+
+
 # Genesis 01:07b
-And He divided between # \hfill [separated]
-  the waters under the expanse
-  and the waters above the expanse.
+And He divided between [separated]
+  the waters that <were> under the expanse
+  and the waters that <were> above the expanse.
+
+
+
 
 # Genesis 01:07c
 And it was so.
 
-# Genesis 01:08
-And God called to the expanse, Heavens. \hfill [plural form] [Skies|Air]
 
+
+
+
+
+# Genesis 01:08
+And God [Elohim] called to the expanse, Heavens [Skies].
+
+
+
+
+
+
+
+# Section: Second Day\hfill{}$\geqq$01.08b
 # Genesis 01:08b
-And there was sunset, \hfill [evening]
-and there was sunrise, \hfill [morning]
+And there was sunset [evening],
+and there was sunrise [morning],
 <the> second day.
+
+
+
+
+
+
+
+
+
+
+
 
 # Section: Third Day\hfill{}[MERE]\tab{}$\geqq$01.09
 # Genesis 01:09
-And God said,
+And God [Elohim] said:
 {
-  Let the waters be gathered together
-  under the heavens into one place, \hfill [skies]
+  Let the waters be gathered [bound] together
+    under the heavens [skies]
+    into one place
   and let the dry <land> appear.
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # Genesis 01:09b
 And it was so.
 
+
+
+
+
+
+
+
+
+
 # Genesis 01:10
-And God called the dry <land> Earth,
-and the gathering of the waters He called Seas. \hfill [collection]
+And God [Elohim] called to the dry <land>, Earth;
+and to the gathering of waters, He called, Seas. \hfill [bound-together waters]
+
+
+
+
+
 
 # Genesis 01:10b
 And God saw that <it was> good.
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # PresentationSection: Third Day\hfill{}[MERE]\tab{}$\geqq$01.11
 # Genesis 01:11
-And God said,
+And God [Elohim] said:
 {
-  Let the earth bring forth grass,
-  the herb <that> yields seed,
-  <and> the fruit tree <that> yields fruit
+  Let the earth [land] sprout grass [vegetation],
+  the herb yielding seed,
+  <and> the fruit tree <that> makes [yields] fruit
   according to its kind,
-  whose seed <is> in itself on the earth.
+  whose seed <is> in itself on the earth [land].
 }
+
+
+
 
 # Genesis 01:11b
 And it was so.
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Genesis 01:12
-And the earth brought forth grass,
-the herb <that> yields seed
-  according to its kind,
-and the tree <that> yields fruit,
-whose seed <is> in itself,
-  according to its kind.
+And the earth [land] sprouted [brought forth] grass,
+the herb yielding seed
+  according to its kind [species],
+and the tree yielding fruit,
+  which <has> seed in it<self>,
+  according to its kind [species].
+
+
+
+
+
+
+
 
 # Genesis 01:12b
-And God saw that <it was> good.
+And God [Elohim] saw that <it was> good.
 
-# PresentationSection: \hfill{}[MERE]\tab{}$\geqq$01.13
+
+
+
+
+
+
+
+
+# PresentationSection: Third Day\hfill{}[MERE]\tab{}$\geqq$01.13
 # Genesis 01:13
-And there was sunset, \hfill [evening]
-and there was sunrise, \hfill [morning]
+And there was sunset [evening],
+and there was sunrise [morning],
 <the> third day.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # Section: Fourth Day\hfill{}[MERE]\tab{}$\geqq$01.14
 # Genesis 01:14
-And God said,
+And God [Elohim] said:
 {
   Let there be lights
-  in the expanse <of> the heavens \hfill [skies]
+  in the expanse [firmament] of the heavens [skies]
   to divide between the day and the night.
-  # \hfill [divide between \ldots and between \ldots]
 
-# Genesis 01:14b
+
+
+
+
+
+
+
+
+  # Genesis 01:14b
   And let them be
     for signs
     and for seasons
-    and for days and years. \hfill [lit.]
+    and for days and years.
 
-# Genesis 01:15
+
+
+
+
+
+
+
+
+
+
+  # Genesis 01:15
   And let them be for lights
-  in the expanse <of> the heavens \hfill [skies]
-  to shine upon the earth.
+  in the expanse of the heavens [skies]
+  to give light upon the earth.
 }
+
+
+
+
+
 
 # Genesis 01:15b
 And it was so.
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # PresentationSection: Fourth Day\hfill{}[MERE]\tab{}$\geqq$01.16
 # Genesis 01:16
-And God made two great lights ---
-  the greater light to rule the day
-  and the lesser light to rule the night ---
-and the stars. \hfill [lit.]
+And God made the two great lights ---
+  the greater light to govern [rule] the day
+  and the lesser light to govern [rule] the night ---
+and the stars.
+
+
+
+
+
+
+
+
+
+
 
 # Genesis 01:17
-And God set them in the expanse <of> the heavens \hfill [skies]
-to shine upon the earth,
+And God set them in the expanse [firmament] of the heavens [skies]
+to give light [shine] upon the earth,
 # Genesis 01:18
-and to rule over the day and over the night,
+and to govern [rule] in the day and in the night,
 and to divide between the light and the darkness.
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Genesis 01:18b
+And God [Elohim] saw that <it was> good.
+
+
+
+
+
+
+
+
 # Genesis 01:19
-And there was sunset, \hfill [evening]
-and there was sunrise, \hfill [morning]
-<the> fourth day.
+And there was sunset [evening],
+and there was sunrise [morning]:
+the fourth day.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # Section: Fifth Day\hfill{}[MERE]\tab{}$\geqq$01.20
 # Genesis 01:20
-And God said,
+And God said:
 {
   Let the waters abound with an abundance of living life,
   and let birds fly above the earth
@@ -230,7 +641,7 @@ and every living life that moves, \hfill [Hebraic]
 with which the waters abounded,
   according to their kinds,
 and every winged bird
-  according to its kind.
+  according to its kind [species].
 
 # Genesis 01:21b
 # -----,-------------------,----------------------,---------------------------------------,---------------------------------------
@@ -264,11 +675,11 @@ and there was sunrise, \hfill [morning]
 And God said,
 {
   Let the earth bring forth living life
-    according to its kind,
+    according to its kind [species],
   livestock,
   and creeping thing,
   and beast <of> the earth
-    according to its kind.
+    according to its kind [species].
 }
 
 # Genesis 01:24b
@@ -281,11 +692,11 @@ And it was so.
 # -----,-------------------,----------------------,---------------------------------------,---------------------------------------
 # -----,-------------------,----------------------,---------------------------------------,---------------------------------------
 And God made the living thing <of> the earth
-  according to its kind,
+  according to its kind [species],
 and livestock
-  according to its kind,
+  according to its kind [species],
 and everything that creeps on the earth
-  according to its kind.
+  according to its kind [species].
 
 # Genesis 01:25b
 # -----,-------------------,----------------------,---------------------------------------,---------------------------------------
