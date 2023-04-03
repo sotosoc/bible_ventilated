@@ -1,0 +1,59 @@
+--------------------------------------------------------------------------------
+Explain Hebrew Prep-k.
+--------------------------------------------------------------------------------
+
+In Hebrew grammar, the term "Prep-k" refers to the Hebrew preposition כְּ (kaf),
+which can be translated into English as
+
+--- like
+
+--- as
+
+--- according to
+
+--- about
+
+The preposition כְּ (kaf) is often used to indicate
+
+--- a comparison,
+
+--- similarity, or
+
+--- relationship
+
+between two elements in a sentence.
+
+It is a versatile preposition with a range of meanings, depending on the context
+in which it is used.
+
+Here are a few examples of how כְּ (kaf) functions in different contexts:
+
+--- Comparison or similarity:
+
+    In Genesis 1:26, the phrase כִּדְמוּתֵנוּ (kidmutenu) uses כְּ (kaf) to indicate
+    similarity: "in our likeness."
+
+    Here, כְּ (kaf) is used to express that humans were created with certain
+    attributes or characteristics similar to those of their Creator.
+
+--- Manner or way:
+
+    In Exodus 15:11, the phrase כָּמוֹךָ (kamocha) uses כְּ (kaf) to express the
+    manner or way in which something is done: "Who is like You?"
+
+    In this context, כְּ (kaf) conveys the idea that there is no one comparable to
+    God in terms of greatness or power.
+
+--- Proportion or measure:
+
+    In Leviticus 27:8, the phrase כַּאֲשֶׁר (ka'asher) uses כְּ (kaf) to indicate
+    proportion or measure: "according to what he can afford."
+
+    Here, כְּ (kaf) is used to express that the value of a vow should be
+    determined based on the individual's financial capacity.
+
+In summary, the Hebrew preposition כְּ (kaf), or "Prep-k," is a versatile
+preposition that can express comparison, similarity, manner, proportion, or
+measure, depending on the context in which it is used.
+
+vim: tw=80
