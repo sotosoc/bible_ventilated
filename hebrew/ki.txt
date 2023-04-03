@@ -1,0 +1,58 @@
+--------------------------------------------------------------------------------
+Translate and explain: כִּ֣י
+--------------------------------------------------------------------------------
+
+The Hebrew word כִּ֣י (ki) is a versatile conjunction that can be used in various
+contexts.
+
+Its meaning can range from "because," "for," "that," "when," or "if," depending
+on the context in which it is used.
+
+For example, in Exodus 20:11, כִּ֣י (ki) appears in the context of the Ten
+Commandments, specifically related to the creation of the world and the
+observance of the Sabbath:
+
+"כִּי֩ שֵׁ֨שֶׁת יָמִ֜ים עָשָׂ֣ה יְהוָ֗ה אֶת־הַשָּׁמַ֥יִם וְאֶת־הָאָ֖רֶץ אֶת־הַיָּ֣ם וְאֶת־כָּל־אֲשֶׁר־בָּ
+
+--------------------------------------------------------------------------------
+Explain: כִּי (ki)
+--------------------------------------------------------------------------------
+
+(ki) is a conjunction in Hebrew that has several possible translations in
+English, including
+
+    "because"
+
+    "for" 
+
+    "since"
+
+    "that"
+
+It is commonly used to introduce a reason, explanation,
+or cause for something that has been said or will be said.
+
+For example, in the sentence
+
+  "I didn't go to work today because I was sick,"
+
+"because" is the English equivalent of כִּי.
+
+In the sentence
+
+  "He left early for the meeting since it was important,"
+
+"since" is the English equivalent of כִּי.
+
+It's important to note that כִּי can also be used to introduce
+a clause that provides evidence or proof for a previous
+statement, as in the sentence
+
+  "I know he's coming, for he told me himself."
+
+Here, "for" is the English equivalent of כִּי.
+
+In Biblical Hebrew, כִּי is a common word used throughout the OT and appears in a
+wide variety of contexts.
+
+vim: tw=80
