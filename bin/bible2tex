@@ -25,6 +25,25 @@ reference = '1:1'
 File.open("./#{bookname}.bible").each_with_index do |line, index|
   line.chomp!.rstrip!
   line.gsub!('**', '$\dagger$')
+  line.gsub!('HFILL', '\hfill{}')
+  line.gsub!(/^ +--- /, '')
+
+  line.gsub!('[?]', '\textsubscript ?') # plural
+  line.gsub!('[p]', '\textsubscript p') # plural
+  line.gsub!('[u]', '\textsubscript u') # plural
+  line.gsub!(' [Elohim]', '\textsubscript E') # plural
+
+  line.gsub!(/<([^>]+)>/, '\1\textsubscript x') # inferred
+
+  # line.gsub!(/ \[[^\] ]+\] /, ' ')  # alternates
+  # line.gsub!(/ \[[^\] ]+\]$/, ' ')  # alternates
+  # line.gsub!(/ \[[^\] ]+\],/, ',')  # alternates
+  # line.gsub!(/ \[[^\] ]+\];/, ';')  # alternates
+  # line.gsub!(/ \[[^\] ]+\]:/, ':')  # alternates
+  # line.gsub!(/ \[[^\] ]+\]\./, '.') # alternates
+  # line.gsub!(/ \[[^\] ]+\]!/, '!')  # alternates
+  # line.gsub!(/ \[[^\] ]+\]\?/, '?') # alternates
+
   exit if line.match?(/^__END__/)
 
   indent = line[/^ +/] || ''
