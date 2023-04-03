@@ -1,0 +1,61 @@
+--------------------------------------------------------------------------------
+V-Nifal
+--------------------------------------------------------------------------------
+
+V-Nifal is a verb conjugation that represents a passive voice.
+
+It is one of the seven binyanim or "building blocks" used to form verb
+conjugations in Hebrew.
+
+The letter "Nun" in V-Nifal is the third letter of the root, and its vowel
+pattern changes depending on the tense and person.
+
+The V-Nifal is used to describe an action that is done to the subject of the
+sentence or the recipient of the action.
+
+  In other words, the subject of the sentence is the one who receives or
+  undergoes the action, rather than the one who performs it.
+
+  The passive voice is often used in Hebrew to emphasize the action or its
+  result, rather than the agent or the doer of the action.
+
+Examples of V-Nifal verbs in Hebrew include "to be built" (נִבְנֶה, nivneh), "to be
+heard" (נִשְׁמַע, nishma), and "to be seen" (נִרְאֶה, nir'eh).
+
+In each of these examples, the subject of the sentence is the one that is being
+acted upon or undergoing the action.
+
+--------------------------------------------------------------------------------
+Explain Hebrew V-Nifal.
+--------------------------------------------------------------------------------
+
+In Hebrew grammar, V-Nifal is a verb conjugation that represents a passive
+voice.
+
+  It is one of the seven binyanim or "building blocks" used to form verb
+  conjugations in Hebrew.
+
+  The letter "Nun" in V-Nifal is the third letter of the root, and its vowel
+  pattern changes depending on the tense and person.
+
+The V-Nifal is used to describe an action that is done to the subject of the
+sentence or the recipient of the action.
+
+  In other words, the subject of the sentence is the one who receives or
+  undergoes the action, rather than the one who performs it.
+
+  The passive voice is often used in Hebrew to emphasize the action or its
+  result, rather than the agent or the doer of the action.
+
+Examples of V-Nifal verbs in Hebrew include
+
+  --- "to be built" (נִבְנֶה, nivneh),
+
+  --- "to be heard" (נִשְׁמַע, nishma), 
+
+  --- "to be seen" (נִרְאֶה, nir'eh).
+
+In each of these examples, the subject of the sentence is the one that is being
+acted upon or undergoing the action.
+
+vim: tw=80
