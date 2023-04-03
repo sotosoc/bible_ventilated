@@ -13,6 +13,7 @@ alias    :bin='cd $BIBLE/bin; ls'
 alias      :c='cd $BIBLE/collections; ls'
 alias :common='cd $BIBLE/common; ls'
 alias     cdd='cd $BIBLE'
+alias  :notes='cd $BIBLE/hebrew; ls'
 
 alias :fra='cd $BIBLE/books/fractals'
 
