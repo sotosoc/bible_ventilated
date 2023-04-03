@@ -1,0 +1,21 @@
+------------------------------------------------------------
+י֔וֹם (yom)
+------------------------------------------------------------
+
+(yom) is a Hebrew noun which means "day". It is used
+throughout the Hebrew Bible to refer to a 24-hour period,
+the daylight portion of a day, or a more general period of
+time.
+
+In the context of Genesis 1, the word is used to refer to
+the six days of creation, during which God created the
+heavens and the earth and all that is in them. The seventh
+day is also referred to as "י֔וֹם" and is the day of rest that
+God sanctified after completing his work of creation.
+
+The word "י֔וֹם" is spelled with the Hebrew letters yod (י),
+vav (ו), and mem (ם), and is pronounced "yom". It is
+commonly used in modern Hebrew to refer to a day, just as it
+is used in the Bible.
+
+vim: tw=60
