@@ -29,8 +29,11 @@ File.open("./#{bookname}.bible").each_with_index do |line, index|
   line.gsub!(/^ +--- /, '')
 
   line.gsub!('[?]', '\textsubscript ?') # plural
+  line.gsub!('[E]', '\textsubscript E') # plural
   line.gsub!('[p]', '\textsubscript p') # plural
   line.gsub!('[u]', '\textsubscript u') # plural
+  line.gsub!('[x]', '\textsubscript x') # plural
+  line.gsub!('[w]', '\textsubscript w') # plural
   line.gsub!(' [Elohim]', '\textsubscript E') # plural
 
   line.gsub!(/<([^>]+)>/, '\1\textsubscript x') # inferred
