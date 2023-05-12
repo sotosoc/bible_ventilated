@@ -1,4 +1,5 @@
 # Book: Matthew
+# Version: MYWEB
 
 # Section: \hfill{}$\geqq$01.01
 # Matthew 01:01
@@ -1364,8 +1365,7 @@ saying,
   who will give him a serpent?
 
   # Matthew 07:11
-  If you then,
-  being evil,
+  If you then, being evil,
   know how to give good gifts to your children,
   how much more will your Father who is in heaven give good things to those who ask him!
 
@@ -4028,17 +4028,14 @@ and said,
   is the greatest in the Kingdom of Heaven.
 
   # Matthew 18:05
-  Whoever receives one such little child
-  in my name
+  Whoever receives one such little child in my name,
   receives me,
   # Matthew 18:06
   but whoever causes one of these little ones
-  who believe in me
-  to stumble,
+  who believe in me to stumble,
   it would be better for him
   if a huge millstone were hung around his neck
-  and that he were sunk
-  in the depths of the sea.
+  and that he were sunk in the depths of the sea.
 
   # Matthew 18:07
   Woe to the world because of occasions of stumbling!
@@ -5432,33 +5429,34 @@ saying,
   # Matthew 23:12
   Whoever exalts himself will be humbled,
   and whoever humbles himself will be exalted.
+}
 
+# Section: \hfill{}$\geqq$23.13
+{
   # Matthew 23:13
   Woe to you, scribes and Pharisees, hypocrites!
 
-  For you devour widows' houses,
-  and as a pretense you make long prayers.
+    For you devour widows' houses,
+    and as a pretense you make long prayers.
 
-  Therefore you will receive greater condemnation.
+    Therefore you will receive greater condemnation.
 
   # Matthew 23:14
   But woe to you, scribes and Pharisees, hypocrites!
 
-  Because you shut up the Kingdom of Heaven against men;
-  for you don't enter in yourselves,
-  neither do you allow those who are entering in to enter.
+    Because you shut up the Kingdom of Heaven against men;
+    for you don't enter in yourselves,
+    neither do you allow those who are entering in to enter.
 
   # Matthew 23:15
   Woe to you, scribes and Pharisees, hypocrites!
 
-  For you travel around by sea and land to make one proselyte;
-  and when he becomes one,
-  you make him twice as much a son of Gehenna as yourselves.
+    For you travel around by sea and land to make one proselyte;
+    and when he becomes one,
+    you make him twice as much a son of Gehenna as yourselves.
 
   # Matthew 23:16
-  Woe to you,
-  you blind guides,
-  who say,
+  Woe to you, you blind guides, who say,
   {
     Whoever swears by the temple,
     it is nothing;
@@ -5483,10 +5481,13 @@ saying,
 
   # Matthew 23:19
   You blind fools!
+}
 
+# Section: \hfill{}$\geqq$23.19b
+{
+  # Matthew 23:19b
   For which is greater,
-  the gift,
-  or the altar that sanctifies the gift?
+  the gift, or the altar that sanctifies the gift?
 
   # Matthew 23:20
   He therefore who swears by the altar,
@@ -5501,9 +5502,7 @@ saying,
   swears by the throne of God and by him who sits on it.
 
   # Matthew 23:23
-  Woe to you,
-  scribes and Pharisees,
-  hypocrites!
+  Woe to you, scribes and Pharisees, hypocrites!
 
   For you tithe mint, dill, and cumin,
   and have left undone the weightier matters of the law:
@@ -5518,9 +5517,7 @@ saying,
   and swallow a camel!
 
   # Matthew 23:25
-  Woe to you,
-  scribes and Pharisees,
-  hypocrites!
+  Woe to you, scribes and Pharisees, hypocrites!
 
   For you clean the outside of the cup and of the platter,
   but within they are full of extortion and unrighteousness.
@@ -5531,9 +5528,7 @@ saying,
   that its outside may become clean also.
 
   # Matthew 23:27
-  Woe to you,
-  scribes and Pharisees,
-  hypocrites!
+  Woe to you, scribes and Pharisees, hypocrites!
 
   For you are like whitened tombs,
   which outwardly appear beautiful,

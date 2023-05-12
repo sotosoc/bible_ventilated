@@ -6677,11 +6677,13 @@ but they didn't see him.''
 
 # Luke 24:25
 He said to them,
-``Foolish people,
-and slow of heart to believe in all that the prophets have spoken!
+{
+  Foolish people,
+  and slow of heart to believe in all that the prophets have spoken!
 
-# Luke 24:26
-Didn't the Christ have to suffer these things and to enter into his glory?''
+  # Luke 24:26
+  Didn't the Christ have to suffer these things and to enter into his glory?
+}
 
 # Luke 24:27
 Beginning from Moses and from all the prophets,

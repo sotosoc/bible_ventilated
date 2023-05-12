@@ -1318,7 +1318,10 @@ Then Job answered,
   # Job 12:10
   in whose hand is the life of every living thing,
   and the breath of all mankind?
+}
 
+# Section: \hfill{}$\geqq$12.11
+{
   # Job 12:11
   Doesn't the ear try words,
   even as the palate tastes its food?
@@ -1388,17 +1391,19 @@ Then Job answered,
   and he leads them captive.
 
   # Job 12:24
-  He takes away understanding from the chiefs of the people of the earth,
-  and causes them to wander in a wilderness where there is no way.
+  He takes away understanding
+    from the chiefs of the people of the earth,
+  and causes them to wander
+    in a wilderness where there is no way.
 
   # Job 12:25
   They grope in the dark without light.
 
   He makes them stagger like a drunken man.
+}
 
-  # Job 12:26
-  Job.
-
+# Section: \hfill{}$\geqq$13.01
+{
   # Job 13:01
   Behold!
   My eye has seen all this.
@@ -1831,12 +1836,14 @@ Then Eliphaz the Temanite answered,
 
 # Section: Job's Fifth Speech\hfill{}$\geqq$16.01
 # Job 16:01
-Then Job answered,
+DMC: And Job answered and said,
 # Job 16:02
 {
   I have heard many such things.
 
   You are all miserable comforters!
+
+  DMC: Miserable comforters <are> you all.
 
   # Job 16:03
   Shall vain words have an end?
@@ -2579,7 +2586,8 @@ Then Job answered,
   The worm covers them.
 
   # Job 21:27
-  Behold!
+  Look!
+
   I know your thoughts,
   the plans with which you would wrong me.
 

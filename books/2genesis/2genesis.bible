@@ -1,153 +1,481 @@
 ﻿# Book: Genesis
 
-# Section: \hfill{}$\geqq$04.01
-# Genesis 04:01
-And Adam** /the man/ knew Eve /living/ his wife.
+# Section: \hfill{}[MERE]\tab{}$\geqq$04.01
+# Genesis 004:001
+And the man [adam] knew his wife [ishah], Living [Eve].
 
-And she conceived and birthed Cain and said,
+And she conceived.
+
+And she gave birth to Cain [Acquire].
+
+And she said,
 {
-  I have gotten /acquired/ a man from YHWH.
+  I have acquired a man [ish] from YHWH.
 }
 
-# Genesis 04:02
-And again she birthed ---
-<this time> his brother Abel.
+# Genesis 004:002
+And she continued and[x] gave birth to his brother Abel [Breath].
 
-And Abel was a keeper of sheep,
-but Cain was a tiller of the ground.
+And it came to pass that[x] Abel was shepherding a flock.
 
-# Section: \hfill{}$\geqq$04.03
-# Genesis 04:03
-And it came to pass
-in the course of time
-that Cain brought of the fruit of the ground
-an offering to YHWH.
+And Cain was[x] working the[x] ground.
 
-# Genesis 04:04
-And Abel also brought
-#he
-of the firstborn of his flock
+# Section: \hfill{}[MERE]\tab{}$\geqq$04.03
+# Genesis 004:003
+And it came to pass at[?] the end of days
+that[x] Cain brought from the[x] fruit of the ground an offering to YHWH.
+
+# Genesis 004:004
+And Abel --- he also brought of the[x] firstborns of his flock
 and of their fat.
 
-And YHWH looked favorably upon Abel
-and his offering.
+And YHWH looked favorably upon Abel and his offering.
 
-# Genesis 04:05
-But Cain and his offering
-He did not respect.
+__END__
+# Genesis 004:005
+# ----,----,----,------,-------------------,----------------------,---------------------------------------,---------------------------------------
+# gen , 4  , 5  , 413  , וְאֶל־              , ve_el                , And to                                , Conj-w ; Prep
+# gen , 4  , 5  , 7014 , קַ֥יִן               , Kayin                , Cain                                  , N-proper-ms
+# gen , 4  , 5  , 413  , וְאֶל־              , ve_el                , and to                                , Conj-w ; Prep
+# gen , 4  , 5  , 4503 , מִנְחָת֖וֹ             , min_chato            , his offering                          , N-fsc ; 3ms
+# gen , 4  , 5  , 3808 , לֹ֣א                , lo                   , not                                   , Adv-NegPrt
+# gen , 4  , 5  , 8159 , שָׁעָ֑ה               , shaah                , He did respect                        , V-Qal-Perf-3ms
+# gen , 4  , 5  ,      ,                   ,                      , ;                                     , Punc
+# ----,----,----,------,-------------------,----------------------,---------------------------------------,---------------------------------------
+But Cain and his offering,
+He did not regard.
 
-And Cain was very angry
-and his face /countenance|expression/ fell.
+# ----,----,----,------,-------------------,----------------------,---------------------------------------,---------------------------------------
+# gen , 4  , 5  , 2734 , וַיִּ֤חַר              , va_yichar            , And to burn/be hot                    , Conj-w ; V-Qal-ConsecImperf-3ms
+# gen , 4  , 5  , 7014 , לְקַ֙יִן֙              , le-Kayin             , for/to Cain                           , Prep-l ; N-proper-ms
+# gen , 4  , 5  , 3966 , מְאֹ֔ד               , me_od                , very/exceedingly                      , Adv
+# gen , 4  , 5  , 5307 , וַֽיִּפְּל֖וּ             , way-yip-pə-lū        , and fell                              , Conj-w ; V-Qal-ConsecImperf-3mp
+# gen , 4  , 5  , 6440 , פָּנָֽיו׃             , panav                , his face                              , N-cpc ; 3ms
+# ----,----,----,------,-------------------,----------------------,---------------------------------------,---------------------------------------
+And Cain burned with anger
+and his face fell.
 
-# PresentationSection: \hfill{}$\geqq$04.06
-# Genesis 04:06
-So YHWH said
-to Cain,
+# PresentationSection: \hfill{}[MERE]\tab{}$\geqq$04.06
+# Genesis 004:006
+# ----,----,----,------,-------------------,----------------------,---------------------------------------,---------------------------------------
+# gen , 4  , 6  , 559  , וַיֹּ֥אמֶר             , va_yomer             , So said                               , Conj-w ; V-Qal-ConsecImperf-3ms
+# gen , 4  , 6  , 3068 , יְהוָ֖ה              , Yah-weh              , Yahweh                                , N-proper-ms
+# gen , 4  , 6  , 413  , אֶל־               , ’el-                 , to                                    , Prep
+# gen , 4  , 6  , 7014 , קָ֑יִן               , qā-yin               , Cain                                  , N-proper-ms
+# gen , 4  , 6  ,      ,                   ,                      , ;                                     , Punc
+# gen , 4  , 6  , 4100 , לָ֚מָּה               , lamah                , why                                   , Prep-l ; Interrog
+# gen , 4  , 6  , 2734 , חָ֣רָה               , charah               , are angry                             , V-Qal-Perf-3ms
+# gen , 4  , 6  , 0    , לָ֔ךְ                , lach                 , you                                   , Prep ; 2fs
+# gen , 4  , 6  , 4100 , וְלָ֖מָּה              , ve_lamah             , and why                               , Conj-w ; Interrog
+# gen , 4  , 6  , 5307 , נָפְל֥וּ              , nafelu               , has fallen                            , V-Qal-Perf-3cp
+# gen , 4  , 6  , 6440 , פָנֶֽיךָ׃             , panecha              , your countenance                      , N-cpc ; 2ms
+# ----,----,----,------,-------------------,----------------------,---------------------------------------,---------------------------------------
+# וַיֹּ֥אמֶר   , vayomer         , And he said       , This is a conjugated form of the verb אָמַר (amar),
+#         ,                 ,                   , which means "to say" or "to speak."
+#         ,                 ,                   , The form יֹּ֥ (yo) indicates third-person singular, past tense.
+#         ,                 ,                   , The prefix וַ (vav) is a conjunction that means "and".
+#
+# יְהוָ֖ה    , YHWH            , YHWH              , This is the divine name of God in the Hebrew Bible.
+#
+# אֶל־קַ֔יִן  , el-Qayin        , to Cain           , The preposition אֶל (el) indicates direction,
+#         ,                 ,                   , and קַיִן (Qayin) is the name of the first son of Adam and Eve.
+#
+# לָמָּה־חָרָ֥ה , lamah-charah    , Why hot (angry)   , This is a question.
+#         ,                 ,                   , לָמָּה (lamah) means "why" or "for what purpose"
+#         ,                 ,                   , חָרָה (charah) means "to be hot," which can be used metaphorically to mean "to be angry."
+#
+# לָֽךְ      , lach            , to you            , This is the preposition "to you,"
+#         ,                 ,                   , which is the second-person feminine singular form.
+#         ,                 ,                   , The pronoun is in the feminine form because Cain is being addressed.
+#
+# וְלָמָ֣ה    , ve_lamah         , and why           , The prefix וְ (ve) is a conjunction that means "and"
+#         ,                 ,                   , לָמָ֣ה (lamah) means "why" or "for what purpose."
+#
+# נָפְל֥וּ    , nafalu          , has fallen        , This is a conjugated form of the verb נָפַל (nafal), which means "to fall."
+#         ,                 ,                   , The prefix נָ (na) is the past tense, third-person plural form.
+#
+# פָּנֶֽיךָ׃   , panecha         , your face         , This is the noun פָּנִים (panim), which means "face,"
+#         ,                 ,                   , in the second-person masculine singular possessive form.
+#         ,                 ,                   , The suffix ךָ (cha) means "your."
+#
+And YHWH said to Cain,
 {
-  Why are you angry
-  and why has your face /countenance|expression/ fallen?
+  Why are you burning with anger?
 
-  # Genesis 04:07
-  If you do not <do> well,
-  you will not be accepted.
+  And why has your face fallen?
 
-  And if you do not <do> well
-  sin lies at the door
-  and its desire <is> for you,
-  but you should rule over it.
+  # Genesis 004:007
+# ----,----,----,------,-------------------,----------------------,---------------------------------------,---------------------------------------
+# gen , 4  , 7  , 3808 , הֲל֤וֹא              , hă-lō-w              , will not                              , Adv-NegPrt
+# gen , 4  , 7  , 518  , אִם־               , ’im-                 , if                                    , Conj
+# gen , 4  , 7  , 3190 , תֵּיטִיב֙             , tê-ṭîḇ               , you do well                           , V-Hifil-Imperf-2ms
+# gen , 4  , 7  , 7613 , שְׂאֵ֔ת               , śə-’êṯ               , you be accepted                       , V-Qal-Inf
+# ----,----,----,------,-------------------,----------------------,---------------------------------------,---------------------------------------
+# Hebrew  , Transliterated , Hebrew Root , Strong's , English            , Explanation
+# הֲלֹוא    , haloh          , הלא         , H3808    , will not           , interrogative particle indicating a negative expectation
+# אִם      , im             , אם          , H518     , if                 , conditional particle
+# תֵּיטִיב   , teitiv         , יטב         , H3190    , you do well        , Qal imperfect 2nd person masculine singular from the root טוֹב (tov) meaning "good"
+# שְׂאֵת     , se_et          , אם          , H518     , you lift up        , Qal imperfect 2nd person masculine singular from the root נָשָׂא (nasa) meaning "lift up"
+
+  If you do well,
+  will not <your countenance> be lifted up? \hfill [accepted]
+
+# ----,----,----,------,-------------------,----------------------,---------------------------------------,---------------------------------------
+# gen , 4  , 7  , 518  , וְאִם֙               , wə-’im               , and if                                , Conj-w ; Conj
+# gen , 4  , 7  , 3808 , לֹ֣א                , lō                   , not                                   , Adv-NegPrt
+# gen , 4  , 7  , 3190 , תֵיטִ֔יב             , ṯê-ṭîḇ               , you do well                           , V-Hifil-Imperf-2ms
+# gen , 4  , 7  , 6607 , לַפֶּ֖תַח              , lap-pe-ṯaḥ           , at the door                           , Prep-l , Art ; N-ms
+# gen , 4  , 7  , 2403 , חַטָּ֣את              , ḥaṭ-ṭāṯ              , sin                                   , N-fs
+# gen , 4  , 7  , 7257 , רֹבֵ֑ץ               , rō-ḇêṣ               , lies                                  , V-Qal-Prtcpl-ms
+# gen , 4  , 7  ,      ,                   ,                      , ;                                     , Punc
+# gen , 4  , 7  , 413  , וְאֵלֶ֙יךָ֙             , wə-’ê-le-ḵā          , and for you                           , Conj-w ; Prep ; 2ms
+# gen , 4  , 7  , 8669 , תְּשׁ֣וּקָת֔וֹ            , tə-šū-qā-ṯōw         , its desire [is]                       , N-fsc ; 3ms
+# gen , 4  , 7  , 859  , וְאַתָּ֖ה              , wə-’at-tāh           , but you                               , Conj-w ; Pro-2ms
+# gen , 4  , 7  , 4910 , תִּמְשָׁל־             , tim-šāl-             , should rule                           , V-Qal-Imperf-2ms
+# gen , 4  , 7  , 0    , בּֽוֹ׃               , bōw.                 , over it                               , Prep ; 3ms
+# ----,----,----,------,-------------------,----------------------,---------------------------------------,---------------------------------------
+# וְאִם     , ve'im          , לא          , H3808    , but if             , conditional particle
+# לֹא      , lo             , יטב         , H3190    , not                , negation particle
+# תֵיטִיב   , teitiv         , הלא         , H3808    , you do well        , Qal imperfect 2nd person masculine singular from the root טוֹב (tov) meaning "good"
+# לַפֶּתַח    , lape'tach      , פתח         , H6607    , to the door        , preposition "to" with the feminine noun פֶּתַח (petach) meaning "door"
+# חַטָּאת    , chatat         , חטאת        , H2403    , sin offering       , feminine noun from the root חָטָא (chata) meaning "to sin"
+# רֹבֵץ     , robez          , רבץ         , H7257    , crouching          , Qal participle masculine singular from the root רָבַץ (ravats) meaning "to crouch"
+# וְאֵלֶיךָ   , ve'elecha      , אל          , H413     , and to you         , conjunction "and" with the 2nd person masculine singular suffix meaning "to you"
+# תְּשׁוּקָתֹו  , teshukato      , תשׁוקה       , H8669    , his desire         , feminine noun with the 3rd person masculine singular suffix from the root שׁוּק (shuk) meaning "to desire"
+# וְאַתָּה    , ve'ata         , אתה         , H859     , and you            , conjunction "and" with the 2nd person masculine singular pronoun meaning "you"
+# תִּמְשָׁל־בֹּו , timshal-bo     , משׁל         , H4910    , will rule over him , Qal imperfect 2nd person masculine singular with the 3rd person masculine singular suffix from the root מָשַׁל (mashal) meaning "to rule over"
+  And if you do not do well,
+  Sin crouches at the door \hfill [personification]
+  and his desire <is> for you,
+  but you must rule over him.
 }
 
-# PresentationSection: \hfill{}$\geqq$04.08
-# Genesis 04:08
-And Cain talked with Abel, his brother,
-and it came to pass when they were in the field
+# Section: \hfill{}[MERE]\tab{}$\geqq$04.08
+# Genesis 004:008
+# ----,----,----,------,-------------------,----------------------,---------------------------------------,---------------------------------------
+# gen , 4  , 8  , 559  , וַיֹּ֥אמֶר             , va_yomer             , And talked                            , Conj-w ; V-Qal-ConsecImperf-3ms
+# gen , 4  , 8  , 7014 , קַ֖יִן               , Qayin                , Cain                                  , N-proper-ms
+# gen , 4  , 8  , 413  , אֶל־               , el-                  , with                                  , Prep
+# gen , 4  , 8  , 1893 , הֶ֣בֶל               , Hebel                , Abel                                  , N-proper-ms
+# gen , 4  , 8  , 251  , אָחִ֑יו              , ’ā-ḥîw               , his brother                           , N-msc ; 3ms
+# gen , 4  , 8  ,      ,                   ,                      , ;                                     , Punc
+# ----,----,----,------,-------------------,----------------------,---------------------------------------,---------------------------------------
+And Cain talked with Abel, his brother.
+
+# ----,----,----,------,-------------------,----------------------,---------------------------------------,---------------------------------------
+# gen , 4  , 8  , 1961 , וַֽיְהִי֙              , va_yehi              , and it came to pass                   , Conj-w ; V-Qal-ConsecImperf-3ms
+# gen , 4  , 8  , 1961 , בִּהְיוֹתָ֣ם            , bih-yō-w-ṯām         , when they were                        , Prep-b ; V-Qal-Inf ; 3mp
+# gen , 4  , 8  , 7704 , בַּשָּׂדֶ֔ה              , baś-śā-ḏeh           , in the field                          , Prep-b , Art ; N-ms
+# gen , 4  , 8  , 6965 , וַיָּ֥קָם              , way-yā-qām           , that rose up                          , Conj-w ; V-Qal-ConsecImperf-3ms
+# gen , 4  , 8  , 7014 , קַ֛יִן               , Qayin                , Cain                                  , N-proper-ms
+# gen , 4  , 8  , 413  , אֶל־               , el-                  , against                               , Prep
+# gen , 4  , 8  , 1893 , הֶ֥בֶל               , Hebel                , Abel                                  , N-proper-ms
+# gen , 4  , 8  , 251  , אָחִ֖יו              , ’ā-ḥîw               , his brother                           , N-msc ; 3ms
+# gen , 4  , 8  , 2026 , וַיַּהַרְגֵֽהוּ׃          , va_ya_hrgehu          , and killed him                        , Conj-w ; V-Qal-ConsecImperf-3ms ; 3ms
+# ----,----,----,------,-------------------,----------------------,---------------------------------------,---------------------------------------
+And it came to pass,
+when they were in the field
 that Cain rose up against Abel, his brother,
 and killed him.
 
-# Section: \hfill{}$\geqq$04.09
-# Genesis 04:09
+# Section: \hfill{}[MERE]\tab{}$\geqq$04.09
+# Genesis 004:009
+# ----,----,----,------,-------------------,----------------------,---------------------------------------,---------------------------------------
+# gen , 4  , 9  , 559  , וַיֹּ֤אמֶר             , va_yomer             , And said                              , Conj-w ; V-Qal-ConsecImperf-3ms
+# gen , 4  , 9  , 3068 , יְהוָה֙              , YHWH                 , Yahweh                                , N-proper-ms
+# gen , 4  , 9  , 413  , אֶל־               , el-                  , to                                    , Prep
+# gen , 4  , 9  , 7014 , קַ֔יִן               , Qayin                , Cain                                  , N-proper-ms
+# gen , 4  , 9  , 335  , אֵ֖י                , ’ê                   , where [is]                            , Interrog
+# gen , 4  , 9  , 1893 , הֶ֣בֶל               , Hebel                , Abel                                  , N-proper-ms
+# gen , 4  , 9  , 251  , אָחִ֑יךָ              , ’ā-ḥî-ḵā             , your brother                          , N-msc ; 2ms
+# gen , 4  , 9  ,      ,                   ,                      , ;                                     , Punc
+# ----,----,----,------,-------------------,----------------------,---------------------------------------,---------------------------------------
 And YHWH said to Cain,
 {
   Where <is> Abel, your brother?
 }
 
+# ----,----,----,------,-------------------,----------------------,---------------------------------------,---------------------------------------
+# gen , 4  , 9  , 559  , וַיֹּ֙אמֶר֙             , va_yomer             , and He said                           , Conj-w ; V-Qal-ConsecImperf-3ms
+# gen , 4  , 9  , 3808 , לֹ֣א                , lo                   , not                                   , Adv-NegPrt
+# gen , 4  , 9  , 3045 , יָדַ֔עְתִּי             , yā-ḏa‘-tî            , I do know                             , V-Qal-Perf-1cs
+# ----,----,----,------,-------------------,----------------------,---------------------------------------,---------------------------------------
 And he said,
 {
   I do not know.
 
-  <Am> I <the> keeper of my brother?
+# ----,----,----,------,-------------------,----------------------,---------------------------------------,---------------------------------------
+# gen , 4  , 9  , 8104 , הֲשֹׁמֵ֥ר              , hă-šō-mêr            , Keeper                                , V-Qal-Prtcpl-ms
+# gen , 4  , 9  , 251  , אָחִ֖י               , ’ā-ḥî                , of my brother                         , N-msc ; 1cs
+# gen , 4  , 9  , 595  , אָנֹֽכִי׃             , anoki                , [am] I                                , Pro-1cs
+# ----,----,----,------,-------------------,----------------------,---------------------------------------,---------------------------------------
+  <Am> I my brother's protector?
 }
 
-# Section: \hfill{}$\geqq$04.10
-# Genesis 04:10
+# Section: \hfill{}[MERE]\tab{}$\geqq$04.10
+# Genesis 004:010
+# ----,----,----,------,-------------------,----------------------,---------------------------------------,---------------------------------------
+# gen , 4  , 10 , 559  , וַיֹּ֖אמֶר             , va_yomer             , and He said                           , Conj-w ; V-Qal-ConsecImperf-3ms
+# gen , 4  , 10 , 4100 , מֶ֣ה                , meh                  , what                                  , Interrog
+# gen , 4  , 10 , 6213 , עָשִׂ֑יתָ              , ‘ā-śî-ṯā             , have you done                         , V-Qal-Perf-2ms
+# gen , 4  , 10 ,      ,                   ,                      , ;                                     , Punc
+# ----,----,----,------,-------------------,----------------------,---------------------------------------,---------------------------------------
 And He said,
 {
   What have you done?
 
+# ----,----,----,------,-------------------,----------------------,---------------------------------------,---------------------------------------
+# gen , 4  , 10 , 6963 , ק֚וֹל               , kol                  , the voice                             , N-msc
+# gen , 4  , 10 , 1818 , דְּמֵ֣י               , demei                , of the blood                          , N-mpc
+# gen , 4  , 10 , 251  , אָחִ֔יךָ              , ’ā-ḥî-ḵā             , of your brother                       , N-msc ; 2ms
+# gen , 4  , 10 , 6817 , צֹעֲקִ֥ים             , ṣō-‘ă-qîm            , cries out                             , V-Qal-Prtcpl-mp
+# gen , 4  , 10 , 413  , אֵלַ֖י               , ’ê-lay               , to Me                                 , Prep ; 1cs
+# gen , 4  , 10 , 4480 , מִן־               , min-                 , from                                  , Prep
+# gen , 4  , 10 , 127  , הָֽאֲדָמָֽה׃            , ha_adamah            , the ground                            , Art ; N-fs
+# ----,----,----,------,-------------------,----------------------,---------------------------------------,---------------------------------------
   The voice of the blood
   of your brother
   cries out to Me
-  from the ground.
+  from the ground. \hfill [adamah] [personification]
 
-  # Genesis 04:11
+  # Genesis 004:011
+# ----,----,----,------,-------------------,----------------------,---------------------------------------,---------------------------------------
+# gen , 4  , 11 , 6258 , וְעַתָּ֖ה              , va_attah              , so now                                , Conj-w ; Adv
+# gen , 4  , 11 , 779  , אָר֣וּר              , ’ā-rūr               , [are] cursed                          , V-Qal-QalPassPrtcpl-ms
+# gen , 4  , 11 , 859  , אָ֑תָּה               , ’āt-tāh              , you                                   , Pro-2ms
+# gen , 4  , 11 ,      ,                   ,                      , ;                                     , Punc
+# gen , 4  , 11 , 4480 , מִן־               , min-                 , from                                  , Prep
+# gen , 4  , 11 , 127  , הָֽאֲדָמָה֙             , ha_adamah            , the earth                             , Art ; N-fs
+# gen , 4  , 11 , 834  , אֲשֶׁ֣ר               , ’ă-šer               , which                                 , Pro-r
+# gen , 4  , 11 , 6475 , פָּצְתָ֣ה              , pā-ṣə-ṯāh            , has opened                            , V-Qal-Perf-3fs
+# gen , 4  , 11 , 853  , אֶת־               , et-                  , -                                     , DirObjM
+# gen , 4  , 11 , 6310 , פִּ֔יהָ               , pî-hā                , its mouth                             , N-msc ; 3fs
+# gen , 4  , 11 , 3947 , לָקַ֛חַת              , lā-qa-ḥaṯ            , to receive                            , Prep-l ; V-Qal-Inf
+# gen , 4  , 11 , 853  , אֶת־               , ’eṯ-                 , -                                     , DirObjM
+# gen , 4  , 11 , 1818 , דְּמֵ֥י               , demei                , the blood                             , N-mpc
+# gen , 4  , 11 , 251  , אָחִ֖יךָ              , ’ā-ḥî-ḵā             , of your brother                       , N-msc ; 2ms
+# gen , 4  , 11 , 3027 , מִיָּדֶֽךָ׃             , mî-yā-ḏe-ḵā.         , from your hand                        , Prep-m ; N-fsc ; 2ms
+# ----,----,----,------,-------------------,----------------------,---------------------------------------,---------------------------------------
   So now you <are> cursed from the earth
   which has opened its mouth
-  to receive the blood of your brother
-  from your hand.
+  to receive/take/seize the blood of your brother
+  from your hand. \hfill [personification]
 
-  # Genesis 04:12
-  When you till the ground
+  # Genesis 004:012
+# ----,----,----,------,-------------------,----------------------,---------------------------------------,---------------------------------------
+# gen , 4  , 12 , 3588 , כִּ֤י                , ki                   , When                                  , Conj
+# gen , 4  , 12 , 5647 , תַֽעֲבֹד֙              , ta_avod              , you till                              , V-Qal-Imperf-2ms
+# gen , 4  , 12 , 853  , אֶת־               , ’eṯ-                 , -                                     , DirObjM
+# gen , 4  , 12 , 127  , הָ֣אֲדָמָ֔ה             , hā-’ă-ḏā-māh         , the ground                            , Art ; N-fs
+# gen , 4  , 12 , 3808 , לֹֽא־               , lō-                  , no                                    , Adv-NegPrt
+# gen , 4  , 12 , 3254 , תֹסֵ֥ף               , ṯō-sêp̄               , it shall longer                       , V-Hifil-Imperf.Jus-3fs
+# gen , 4  , 12 , 5414 , תֵּת־               , têṯ-                 , yield                                 , V-Qal-Inf
+# gen , 4  , 12 , 3581 , כֹּחָ֖הּ               , kō-ḥāh               , its strength                          , N-msc ; 3fs
+# gen , 4  , 12 , 0    , לָ֑ךְ                , lāḵ                  , to you                                , Prep ; 2fs
+# gen , 4  , 12 ,      ,                   ,                      , ;                                     , Punc
+# gen , 4  , 12 , 5128 , נָ֥ע                , nā‘                  , a fugitive                            , V-Qal-Prtcpl-ms
+# gen , 4  , 12 , 5110 , וָנָ֖ד               , wā-nāḏ               , and a wanderer                        , Conj-w ; V-Qal-Prtcpl-ms
+# gen , 4  , 12 , 1961 , תִּֽהְיֶ֥ה              , tih-yeh              , you shall be                          , V-Qal-Imperf-2ms
+# gen , 4  , 12 , 776  , בָאָֽרֶץ׃             , ḇā-’ā-reṣ.           , on the earth                          , Prep-b , Art ; N-fs
+# ----,----,----,------,-------------------,----------------------,---------------------------------------,---------------------------------------
+  When [L] you till the ground
   it shall no longer yield its strength to you ---
-  a fugitive and a wanderer you shall be on the earth.
+  you shall be a wandering wanderer on the earth. \hfill [promise \myrightarrow shall]
 }
 
-# PresentationSection: \hfill{}$\geqq$04.13
-# Genesis 04:13
+# PresentationSection: \hfill{}[MERE]\tab{}$\geqq$04.13
+# Genesis 004:013
+# ----,----,----,------,-------------------,----------------------,---------------------------------------,---------------------------------------
+# gen , 4  , 13 , 559  , וַיֹּ֥אמֶר             , way-yō-mer           , And said                              , Conj-w ; V-Qal-ConsecImperf-3ms
+# gen , 4  , 13 , 7014 , קַ֖יִן               , qa-yin               , Cain                                  , N-proper-ms
+# gen , 4  , 13 , 413  , אֶל־               , ’el-                 , to                                    , Prep
+# gen , 4  , 13 , 3068 , יְהוָ֑ה              , Yah-weh              , Yahweh                                , N-proper-ms
+# gen , 4  , 13 ,      ,                   ,                      , ;                                     , Punc
+# gen , 4  , 13 , 1419 , גָּד֥וֹל              , gā-ḏō-wl             , greater [is]                          , Adj-ms
+# gen , 4  , 13 , 5771 , עֲוֺנִ֖י              , ‘ă-wō-nî             , my punishment                         , N-csc ; 1cs
+# gen , 4  , 13 , 5375 , מִנְּשֹֽׂא׃             , min-nə-śō.           , than I can bear                       , Prep-m ; V-Qal-Inf
+# ----,----,----,------,-------------------,----------------------,---------------------------------------,---------------------------------------
 And Cain said to YHWH,
 {
-  My punishment <is> greater than I can bear.
+  <The consequences> of my iniquity <are> greater than I can bear.
 
-  # Genesis 04:14
-  Surely, You have driven me out, today,
-  from the face of the ground.
+  # Genesis 004:014
+  # ----,----,----,------,-------------------,----------------------,---------------------------------------,---------------------------------------
+  # gen , 4  , 14 , 2005 , הֵן֩                , hên                  , surely                                , Interjection
+  # gen , 4  , 14 , 1644 , גֵּרַ֨שְׁתָּ              , gê-raš-tā            , You have driven out                   , V-Piel-Perf-2ms
+  # gen , 4  , 14 , 853  , אֹתִ֜י               , ’ō-ṯî                , me                                    , DirObjM ; 1cs
+  # gen , 4  , 14 , 3117 , הַיּ֗וֹם              , hay-yō-wm            , today                                 , Art ; N-ms
+  # gen , 4  , 14 , 5921 , מֵעַל֙               , mê-‘al               , from                                  , Prep-m
+  # gen , 4  , 14 , 6440 , פְּנֵ֣י               , pə-nê                , the face                              , N-cpc
+  # gen , 4  , 14 , 127  , הָֽאֲדָמָ֔ה             , hā-’ă-ḏā-māh         , of the ground                         , Art ; N-fs
+  # gen , 4  , 14 , 6440 , וּמִפָּנֶ֖יךָ            , ū-mip-pā-ne-ḵā       , and from Your face                    , Conj-w , Prep-m ; N-cpc ; 2ms
+  # gen , 4  , 14 , 5641 , אֶסָּתֵ֑ר              , ’es-sā-ṯêr           , I shall be hidden                     , V-Nifal-Imperf-1cs
+  # gen , 4  , 14 ,      ,                   ,                      , ;                                     , Punc
+  # ----,----,----,------,-------------------,----------------------,---------------------------------------,---------------------------------------
+  # Hebrew  	 Transliteration 	 English             	 Explanation
+  # הֵן      	 hen             	 Behold              	 Particle indicating surprise or emphasis.
+  # גֵּרַשְׁתָּ    	 gerashta        	 you have driven out 	 Second person singular, masculine, past tense form of the verb גָּרַשׁ (garash), meaning "to drive out" or "to expel."
+  # אֹתִי     	 oti             	 me                  	 First person singular, direct object pronoun, indicating that the subject of the verb is receiving the action.
+  # הַיֹּום    	 hayyom          	 today               	 The word יּוֹם (yom) means "day," and the prefix הַ (ha) means "the," so together they mean "the day."
+  # מֵעַל     	 me'al           	 from upon           	 Preposition meaning "from upon" or "from above."
+  # פְּנֵי     	 penei           	 face of             	 Noun meaning "face" or "surface," with the suffix י (i) indicating the possessive "of."
+  # הָאֲדָמָה   	 ha'adamah       	 the ground          	 The definite article prefix הַ (ha) meaning "the," with the noun אֲדָמָה (adamah) meaning "ground" or "earth."
+  # וּמִפָּנֶיךָ  	 umipanecha      	 and from your face  	 Conjunction meaning "and," followed by the preposition מִן (min), meaning "from," and the noun פָּנִים (panim) meaning "face," with the suffix ךָ (cha) indicating the possessive "your."
+  # אֶסָּתֵר    	 Esther          	 Esther              	 Proper noun, the name of the queen of Persia and the heroine of the Book of Esther.
+  Behold, You have driven <me> out, today,
+  from the face of the ground
+  and from your face I will be hidden.
 
-  And I shall be hidden from Your face.
-
-  And I shall be a fugitive and a wanderer on the earth
-  and it will come to pass <that>
-  anyone who finds me will kill me.
+# ----,----,----,------,-------------------,----------------------,---------------------------------------,---------------------------------------
+# gen , 4  , 14 , 1961 , וְהָיִ֜יתִי            , wə-hā-yî-ṯî          , and I shall be                        , Conj-w ; V-Qal-ConjPerf-1cs
+# gen , 4  , 14 , 5128 , נָ֤ע                , nā‘                  , a fugitive                            , V-Qal-Prtcpl-ms
+# gen , 4  , 14 , 5110 , וָנָד֙               , wā-nāḏ               , and a wanderer                        , Conj-w ; V-Qal-Prtcpl-ms
+# gen , 4  , 14 , 776  , בָּאָ֔רֶץ              , bā-’ā-reṣ            , on the earth                          , Prep-b , Art ; N-fs
+# gen , 4  , 14 , 1961 , וְהָיָ֥ה              , wə-hā-yāh            , and it will come to pass [that]       , Conj-w ; V-Qal-ConjPerf-3ms
+# gen , 4  , 14 , 3605 , כָל־               , kal                  , anyone                                , N-msc
+# gen , 4  , 14 , 4672 , מֹצְאִ֖י              , mō-ṣə-’î             , who finds me                          , V-Qal-Prtcpl-msc ; 1cs
+# gen , 4  , 14 , 2026 , יַֽהַרְגֵֽנִי׃           , ya-har-ḡê-nî.        , will kill me                          , V-Qal-Imperf-3ms ; 1cs
+# ----,----,----,------,-------------------,----------------------,---------------------------------------,---------------------------------------
+# Hebrew  	 Transliteration 	 English             	 Explanation
+# וְהָיִיתִי  	 vehayiti        	 and I will be       	 First person singular, future tense form of the verb הָיָה (hayah), meaning "to be."
+# נָע      	 na              	 a wanderer          	 Noun meaning "wandering" or "vagabond," with the prefix נָ (na) indicating "a" or "one who is."
+# וָנָד     	 vanad           	 and a fugitive      	 Noun meaning "fugitive," with the conjunction וְ (ve) meaning "and," and the prefix נָ (na) indicating "a" or "one who is."
+# בָּאָרֶץ    	 ba'aretz        	 in the land         	 Preposition meaning "in," followed by the noun אֶרֶץ (eretz), meaning "land" or "earth."
+# וְהָיָה    	 vehayah         	 and it will be      	 Third person singular, future tense form of the verb הָיָה (hayah), meaning "to be."
+# כָל־מֹצְאִי 	 kol-motzei      	 all my finder       	 Noun meaning "finder" or "what is found," with the prefix כֹּל (kol) meaning "all," and the suffix
+  And I will be a wandering wanderer on the earth
+  and it will be <that> all who find me will kill me.
 }
 
-# Section: \hfill{}$\geqq$04.15
-# Genesis 04:15
-And YHWH said to him,
+################################################################################
+# SEPARATOR
+SLOWHERE :: ROAD\_GRADER AHEAD
+# SEPARATOR
+################################################################################
+
+# Section: \hfill{}[MERE]\tab{}$\geqq$04.15
+# Genesis 004:015
+# ----,----,----,------,-------------------,----------------------,---------------------------------------,---------------------------------------
+# gen , 4  , 15 , 559  , וַיֹּ֧אמֶר             , va_yomer             , And said                              , Conj-w ; V-Qal-ConsecImperf-3ms
+# gen , 4  , 15 , 0    , ל֣וֹ                , low                  , to him                                , Prep ; 3ms
+# gen , 4  , 15 , 3068 , יְהוָ֗ה              , YHWH                 , Yahweh                                , N-proper-ms
+# gen , 4  , 15 , 3651 , לָכֵן֙               , lā-ḵên               , therefore                             , Adv
+# gen , 4  , 15 , 3605 , כָּל־               , kal-                 , whoever                               , N-msc
+# gen , 4  , 15 , 2026 , הֹרֵ֣ג               , hō-rêḡ               , kills                                 , V-Qal-Prtcpl-msc
+# gen , 4  , 15 , 7014 , קַ֔יִן               , qa-yin               , Cain                                  , N-proper-ms
+# gen , 4  , 15 , 7659 , שִׁבְעָתַ֖יִם            , šiḇ-‘ā-ṯa-yim        , sevenfold                             , Number-fd
+# gen , 4  , 15 , 5358 , יֻקָּ֑ם               , yuq-qām              , vengeance shall be taken on him       , V-Hofal-Imperf-3ms
+# gen , 4  , 15 ,      ,                   ,                      , ;                                     , Punc
+# ----,----,----,------,-------------------,----------------------,---------------------------------------,---------------------------------------
+And YHWH said to <him>,
 {
-  Therefore whoever kills Cain,
+  Therefore, anyone who kills Cain, \hfill [all]
   sevenfold-vengeance shall be taken on him.
 }
 
-And YHWH put a mark on Cain
-lest anyone finding him should kill him.
+# ----,----,----,------,-------------------,----------------------,---------------------------------------,---------------------------------------
+# gen , 4  , 15 , 7760 , וַיָּ֨שֶׂם              , vayyasem             , And set                               , Conj-w ; V-Qal-ConsecImperf-3ms
+# gen , 4  , 15 , 3068 , יְהוָ֤ה              , YHWH                 , Yahweh                                , N-proper-ms
+# gen , 4  , 15 , 7014 , לְקַ֙יִן֙              , lə-qa-yin            , on Cain                               , Prep-l ; N-proper-ms
+# gen , 4  , 15 , 226  , א֔וֹת               , ’ō-wṯ                , a mark                                , N-cs
+# gen , 4  , 15 , 1115 , לְבִלְתִּ֥י             , lə-ḇil-tî            , lest                                  , Prep-l
+# gen , 4  , 15 , 5221 , הַכּוֹת־             , hak-kō-wṯ-           , should kill                           , V-Hifil-Inf
+# gen , 4  , 15 , 853  , אֹת֖וֹ               , ’ō-ṯōw               , him                                   , DirObjM ; 3ms
+# gen , 4  , 15 , 3605 , כָּל־               , kal-                 , anyone                                , N-msc
+# gen , 4  , 15 , 4672 , מֹצְאֽוֹ׃             , mō-ṣə-’ōw.           , finding him                           , V-Qal-Prtcpl-msc ; 3ms
+# ----,----,----,------,-------------------,----------------------,---------------------------------------,---------------------------------------
+And YHWH put a sign on Cain \hfill [mark]
+that all <who> find him should not kill him.
 
-# Section: \hfill{}$\geqq$04.16
-# Genesis 04:16
-And Cain went out
-from the presence of YHWH
-and lived /dwelt/ in the land of Nod,
-east of Eden.
+# Section: \hfill{}[MERE]\tab{}$\geqq$04.16
+# Genesis 004:016
+# ----,----,----,------,-------------------,----------------------,---------------------------------------,---------------------------------------
+# gen , 4  , 16 , 3318 , וַיֵּ֥צֵא              , way-yê-ṣê            , And went out                          , Conj-w ; V-Qal-ConsecImperf-3ms
+# gen , 4  , 16 , 7014 , קַ֖יִן               , qa-yin               , Cain                                  , N-proper-ms
+# gen , 4  , 16 , 6440 , מִלִּפְנֵ֣י             , mil-lip̄-nê           , from the presence                     , Prep-m , Prep-l ; N-cpc
+# gen , 4  , 16 , 3068 , יְהוָ֑ה              , Yah-weh              , of Yahweh                             , N-proper-ms
+# gen , 4  , 16 ,      ,                   ,                      , ;                                     , Punc
+# gen , 4  , 16 , 3427 , וַיֵּ֥שֶׁב              , way-yê-šeḇ           , and dwelt                             , Conj-w ; V-Qal-ConsecImperf-3ms
+# gen , 4  , 16 , 776  , בְּאֶֽרֶץ־             , bə-’e-reṣ-           , in the land                           , Prep-b ; N-fsc
+# gen , 4  , 16 , 5113 , נ֖וֹד               , nō-wḏ                , of Nod                                , N-proper-fs
+# gen , 4  , 16 , 6926 , קִדְמַת־             , qiḏ-maṯ-             , east                                  , N-fsc
+# gen , 4  , 16 , 5731 , עֵֽדֶן׃              , ‘ê-ḏen.              , of Eden                               , N-proper-fs
+# ----,----,----,------,-------------------,----------------------,---------------------------------------,---------------------------------------
+# Hebrew   	 Transliteration 	 Hebrew Root 	 Strongs     	 English translation 	 Explanation
+# וַיֵּצֵא     	 vayyetze        	 יצא         	 3318        	 and he went out     	 Conjunction "vav" meaning "and" + 3rd person masculine singular, Qal perfect of the verb "yatsa" meaning "to go out"
+# קַיִן      	 Qayin           	 קַיִן         	 7014        	 Cain                	 Proper noun, the name of the first son of Adam and Eve
+# מִלִּפְנֵי    	 millifnei       	 פָּנֶה         	 6440        	 from before         	 Preposition "mi" meaning "from" + plural construct form of "panim" meaning "face" with 1st person singular suffix meaning "my" or "me"
+# יְהוָה     	 YHWH            	 היה         	 3068        	 the LORD            	 Proper noun, the name of God in the Hebrew Bible
+# וַיֵּשֶׁב     	 vayyeshev       	 ישׁב         	 3427        	 and he settled      	 Conjunction "vav" meaning "and" + 3rd person masculine singular,
+#                                                                                Qal perfect of the verb "yashav" meaning "to sit, dwell, settle"
+# בְּ        	 be              	 ב           	 9002        	 in, with            	 Preposition meaning "in, with"
+# אֶרֶץ      	 erets           	 אֶרֶץ         	 776         	 land, earth         	 Noun meaning "land, earth"
+# נֹוד      	 nod             	 נוֹד         	 5113        	 of Nod              	 Proper noun, the name of a place, possibly located east of Eden
+# קִדְמַת־עֵדֶן 	 kidmat-eden     	 קֶדֶם, עֵדֶן    	 6924, 5731  	 east of Eden        	 Noun "kidmat" meaning "east" + proper noun "Eden" meaning "delight"
+#------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+And Cain went out from the face of YHWH
+and he settled in the land of wandering, \hfill [Nod == exile/wandering]
+east of Eden. \hfill [in front of Eden]
 
-# Genesis 04:17
+# Genesis 004:017
+# ----,----,----,------,-------------------,----------------------,---------------------------------------,---------------------------------------
+# gen , 4  , 17 , 3045 , וַיֵּ֤דַע              , vayeda               , And knew                              , Conj-w ; V-Qal-ConsecImperf-3ms
+# gen , 4  , 17 , 7014 , קַ֙יִן֙               , Qayin                , Cain                                  , N-proper-ms
+# gen , 4  , 17 , 853  , אֶת־               , et-                  , -                                     , DirObjM
+# gen , 4  , 17 , 802  , אִשְׁתּ֔וֹ              , ishtow               , his wife                              , N-fsc ; 3ms
+# ----,----,----,------,-------------------,----------------------,---------------------------------------,---------------------------------------
 And Cain knew his wife.
 
+# ----,----,----,------,-------------------,----------------------,---------------------------------------,---------------------------------------
+# gen , 4  , 17 , 2029 , וַתַּ֖הַר              , vataharar            , and she conceived                     , Conj-w ; V-Qal-ConsecImperf-3fs
+# gen , 4  , 17 , 3205 , וַתֵּ֣לֶד              , wat-tê-leḏ           , and bore                              , Conj-w ; V-Qal-ConsecImperf-3fs
+# gen , 4  , 17 , 853  , אֶת־               , ’eṯ-                 , -                                     , DirObjM
+# gen , 4  , 17 , 2585 , חֲנ֑וֹךְ              , ḥă-nō-wḵ             , Enoch                                 , N-proper-ms
+# gen , 4  , 17 ,      ,                   ,                      , ;                                     , Punc
+# ----,----,----,------,-------------------,----------------------,---------------------------------------,---------------------------------------
 And she conceived and birthed Enoch.
 
-And he built a city
-and called the name of the city
+# ----,----,----,------,-------------------,----------------------,---------------------------------------,---------------------------------------
+# gen , 4  , 17 , 1961 , וַֽיְהִי֙              , va_yehi              , and                                   , Conj-w ; V-Qal-ConsecImperf-3ms
+# gen , 4  , 17 , 1129 , בֹּ֣נֶה               , boneh                , he built                              , V-Qal-Prtcpl-ms
+# gen , 4  , 17 , 5892 , עִ֔יר               , ir                   , a city                                , N-fs
+
+# gen , 4  , 17 , 7121 , וַיִּקְרָא֙             , way-yiq-rā           , and called                            , Conj-w ; V-Qal-ConsecImperf-3ms
+# gen , 4  , 17 , 8034 , שֵׁ֣ם                , šêm                  , the name                              , N-msc
+# gen , 4  , 17 , 5892 , הָעִ֔יר              , hā-‘îr               , of the city                           , Art ; N-fs
+# gen , 4  , 17 , 8034 , כְּשֵׁ֖ם               , keshem               , after the name                        , Prep-k ; N-msc
+# gen , 4  , 17 , 1121 , בְּנ֥וֹ               , bə-nōw               , of his son                            , N-msc ; 3ms
+# gen , 4  , 17 , 2585 , חֲנֽוֹךְ׃             , ḥă-nō-wḵ.            , Enoch                                 , N-proper-ms
+# ----,----,----,------,-------------------,----------------------,---------------------------------------,---------------------------------------
+And he built a city \hfill [And it came to pass...]
+and he called <the> name of the city
 after the name of his son, Enoch.
 
-# Section: \hfill{}$\geqq$04.18
-# Genesis 04:18
-And Enoch      fathered Irad.
+# Section: \hfill{}[MERE]\tab{}$\geqq$04.18
+# Genesis 004:018
+# ----,----,----,------,-------------------,----------------------,---------------------------------------,---------------------------------------
+# gen , 4  , 18 , 3205 , וַיִּוָּלֵ֤ד             , way-yiw-wā-lêḏ       , And was born                          , Conj-w ; V-Nifal-ConsecImperf-3ms
+# gen , 4  , 18 , 2585 , לַֽחֲנוֹךְ֙             , la-ḥă-nō-wḵ          , to Enoch                              , Prep-l ; N-proper-ms
+# gen , 4  , 18 , 853  , אֶת־               , ’eṯ-                 , -                                     , DirObjM
+# gen , 4  , 18 , 5897 , עִירָ֔ד              , ‘î-rāḏ               , Irad                                  , N-proper-ms
+# ----,----,----,------,-------------------,----------------------,---------------------------------------,---------------------------------------
+# gen , 4  , 18 , 5897 , וְעִירָ֕ד             , wə-‘î-rāḏ            , and Irad                              , Conj-w ; N-proper-ms
+# gen , 4  , 18 , 3205 , יָלַ֖ד               , yā-laḏ               , begat                                 , V-Qal-Perf-3ms
+# gen , 4  , 18 , 853  , אֶת־               , ’eṯ-                 , -                                     , DirObjM
+# gen , 4  , 18 , 4232 , מְחֽוּיָאֵ֑ל            , mə-ḥū-yā-’êl         , Mehujael                              , N-proper-ms
+# gen , 4  , 18 ,      ,                   ,                      , ;                                     , Punc
+# ----,----,----,------,-------------------,----------------------,---------------------------------------,---------------------------------------
+# gen , 4  , 18 , 4232 , וּמְחִיּיָאֵ֗ל           , ū-mə-ḥî-y-yā-’êl     , and Mehujael                          , Conj-w ; N-proper-ms
+# gen , 4  , 18 , 3205 , יָלַד֙               , yā-laḏ               , begat                                 , V-Qal-Perf-3ms
+# gen , 4  , 18 , 853  , אֶת־               , ’eṯ-                 , -                                     , DirObjM
+# gen , 4  , 18 , 4967 , מְת֣וּשָׁאֵ֔ל            , mə-ṯū-šā-’êl         , Methushael                            , N-proper-ms
+# ----,----,----,------,-------------------,----------------------,---------------------------------------,---------------------------------------
+# gen , 4  , 18 , 4967 , וּמְתוּשָׁאֵ֖ל           , ū-mə-ṯū-šā-’êl       , and Methushael                        , Conj-w ; N-proper-ms
+# gen , 4  , 18 , 3205 , יָלַ֥ד               , yā-laḏ               , begat                                 , V-Qal-Perf-3ms
+# gen , 4  , 18 , 853  , אֶת־               , ’eṯ-                 , -                                     , DirObjM
+# gen , 4  , 18 , 3929 , לָֽמֶךְ׃              , lā-meḵ.              , Lamech                                , N-proper-ms
+# ----,----,----,------,-------------------,----------------------,---------------------------------------,---------------------------------------
+And to Enoch   was born Irad.
 
 And Irad       fathered Mehujael.
 
@@ -155,33 +483,64 @@ And Mehujael   fathered Methushael.
 
 And Methushael fathered Lamech.
 
-# Section: \hfill{}$\geqq$04.19
-# Genesis 04:19
+# Section: \hfill{}[MERE]\tab{}$\geqq$04.19
+# Genesis 004:019
+# ----,----,----,------,-------------------,----------------------,---------------------------------------,---------------------------------------
+# gen , 4  , 19 , 3947 , וַיִּֽקַּֽח־             , way-yiq-qaḥ-         , And took                              , Conj-w ; V-Qal-ConsecImperf-3ms
+# gen , 4  , 19 , 0    , ל֥וֹ                , lōw                  , for himself                           , Prep ; 3ms
+# gen , 4  , 19 , 3929 , לֶ֖מֶךְ               , le-meḵ               , Lamech                                , N-proper-ms
+# gen , 4  , 19 , 8147 , שְׁתֵּ֣י               , šə-tê                , two                                   , Number-fdc
+# gen , 4  , 19 , 802  , נָשִׁ֑ים              , nā-šîm               , wives                                 , N-fp
+# gen , 4  , 19 ,      ,                   ,                      , ;                                     , Punc
+# ----,----,----,------,-------------------,----------------------,---------------------------------------,---------------------------------------
 And Lamech took for himself two wives:
-the name of the one <was> Adah;
-and the name of the second <was> Zillah.
+# ----,----,----,------,-------------------,----------------------,---------------------------------------,---------------------------------------
+# gen , 4  , 19 , 8034 , שֵׁ֤ם                , šêm                  , the name                              , N-msc
+# gen , 4  , 19 , 259  , הָֽאַחַת֙              , hā-’a-ḥaṯ            , of one [was]                          , Art ; Number-fs
+# gen , 4  , 19 , 5711 , עָדָ֔ה               , ‘ā-ḏāh               , Adah                                  , N-proper-fs
+# gen , 4  , 19 , 8034 , וְשֵׁ֥ם               , wə-šêm               , and the name                          , Conj-w ; N-msc
+# gen , 4  , 19 , 8145 , הַשֵּׁנִ֖ית             , haš-šê-nîṯ           , of the second [was]                   , Art ; Number-ofs
+# gen , 4  , 19 , 6741 , צִלָּֽה׃              , ṣil-lāh.             , Zillah                                , N-proper-fs
+# ----,----,----,------,-------------------,----------------------,---------------------------------------,---------------------------------------
+  the name of the one <was> Adah;
+  and the name of the second <was> Zillah.
 
-# Genesis 04:20
+# Genesis 004:020
+# ----,----,----,------,-------------------,----------------------,---------------------------------------,---------------------------------------
+# gen , 4  , 20 , 3205 , וַתֵּ֥לֶד              , wat-tê-leḏ           , And bore                              , Conj-w ; V-Qal-ConsecImperf-3fs
+# gen , 4  , 20 , 5711 , עָדָ֖ה               , ‘ā-ḏāh               , Adah                                  , N-proper-fs
+# gen , 4  , 20 , 853  , אֶת־               , et-                  , -                                     , DirObjM
+# gen , 4  , 20 , 2989 , יָבָ֑ל               , yā-ḇāl               , Jabal                                 , N-proper-ms
+# gen , 4  , 20 ,      ,                   ,                      , ;                                     , Punc
+# ----,----,----,------,-------------------,----------------------,---------------------------------------,---------------------------------------
 And Adah birthed Jabal.
 
-He was the father
+# ----,----,----,------,-------------------,----------------------,---------------------------------------,---------------------------------------
+# gen , 4  , 20 , 1931 , ה֣וּא               , hu                   , He                                    , Pro-3ms
+# gen , 4  , 20 , 1961 , הָיָ֔ה               , hayah                , was                                   , V-Qal-Perf-3ms
+# gen , 4  , 20 , 1    , אֲבִ֕י               , ’ă-ḇî                , the father                            , N-msc
+# gen , 4  , 20 , 3427 , יֹשֵׁ֥ב               , yō-šêḇ               , of those who dwell                    , V-Qal-Prtcpl-msc
+# gen , 4  , 20 , 168  , אֹ֖הֶל               , ’ō-hel               , in tents                              , N-ms
+# gen , 4  , 20 , 4735 , וּמִקְנֶֽה׃            , ū-miq-neh.           , and [raise] livestock                 , Conj-w ; N-ms
+# ----,----,----,------,-------------------,----------------------,---------------------------------------,---------------------------------------
+He was <the> father
   of those who dwell in tents and <have> livestock.
 
-# Genesis 04:21
+# Genesis 004:021
 And the name of his brother <was> Jubal.
 
 He was the father
   of all who play the lyre /harp/ and pipe /flute/.
 
-# Genesis 04:22
+# Genesis 004:022
 And Zillah,
 she also birthed Tubal-cain ---
   an instructor of every craftsman in bronze and iron.
 
 And the sister of Tubal-cain <was> Naamah.
 
-# PresentationSection: \hfill{}$\geqq$04.23
-# Genesis 04:23
+# PresentationSection: \hfill{}[MERE]\tab{}$\geqq$04.23
+# Genesis 004:023
 And Lamech said
 to his wives,
 {
@@ -192,13 +551,13 @@ to his wives,
   I have killed for a man for wounding me,
   and even a young man for wounding me.
 
-  # Genesis 04:24
+  # Genesis 004:024
   If Cain shall be avenged sevenfold,
   then Lamech seven-and-seventy-<fold>.
 }
 
-# Section: \hfill{}$\geqq$04.25
-# Genesis 04:25
+# Section: \hfill{}[MERE]\tab{}$\geqq$04.25
+# Genesis 004:025
 And Adam** knew again his wife
 and she birthed a son
 and named him Seth**.
@@ -206,380 +565,435 @@ and named him Seth**.
 For God /Elohim/ has given me another seed instead of Abel,
 whom Cain killed.
 
-# Genesis 04:26
-And <as for> Seth**,
+# Genesis 004:026
+And <as for> Seth**, \hfill [<to>]
 to him also was born a son.
 
 And he named him Enosh**.
 
 At that time, <men> began to call on the name of YHWH.
 
-# Section: \hfill{}$\geqq$05.01
-# Genesis 05:01
+# Section: \hfill{}[MERE]\tab{}$\geqq$05.01
+# Genesis 005:001
 This <is> the book of the generations of Adam**.
 
 In the day that God created man,
 He made him in the likeness of God.
 
-# Genesis 05:02
+# Genesis 005:002
 He created them male and female.
 
 And He blessed them
 and called them man /Adam**/
 in the day they were created.
 
-
-# Section: \hfill{}$\geqq$05.03
-# Genesis 05:03
+# Section: \hfill{}[MERE]\tab{}$\geqq$05.03
+# Genesis 005:003
 And Adam** lived 130 years
-and fathered <a son>
+and <then> he fathered <a son>
 in his own likeness after his image,
 and he called his name Seth**.
 
+  # Genesis 005:004
+  And the days of Adam**
+  after he had fathered Seth were 800 years,
+  and he fathered <other> sons and daughters.
 
+  # Genesis 005:005
+  And all the days
+  that Adam** lived were 930 years,
+  and <then> he died.
 
+# PresentationSection: \hfill{}[MERE]\tab{}$\geqq$05.06
+# Genesis 005:006
+And Seth** lived 500 years
+and <then> he fathered Enosh**.
 
+  # Genesis 005:007
+  And Seth** lived 807 years
+  after he fathered Enosh**,
+  and he fathered <other> sons and daughters.
 
+  # Genesis 005:008
+  And all the days of Seth were 912 years,
+  and <then> he died.
 
-Adam** lived 130 years,
-  and became the father of a son in his own likeness,
-  after his image,
-  and named him Seth**.
+# PresentationSection: \hfill{}[MERE]\tab{}$\geqq$05.09
+# Genesis 005:009
+And Enosh** lived 90 years,
+and <then> he fathered Kenan** /Cainan/.
 
-  # Genesis 05:04
-  The days of Adam**
-  after he became the father of Seth** were 800,
-  and he became the father of other sons and daughters.
+  # Genesis 005:010
+  And Enosh** lived 815 years,
+  after he fathered Kenan** /Cainan/,
+  and he fathered <other> sons and daughters.
 
-  # Genesis 05:05
-  All the days that Adam** lived were 930 years,
-  then he died.
+  # Genesis 005:011
+  And all the days of Enosh** were 905 years,
+  and <then> he died.
 
-# Genesis 05:06
-Seth** lived 105 years,
-  then became the father of Enosh**.
+# PresentationSection: \hfill{}[MERE]\tab{}$\geqq$05.12
+# Genesis 005:012
+And Kenan** /Cainan/ lived 70 years
+and <then> he fathered Mahalalel**.
 
-  # Genesis 05:07
-  Seth** lived
-    after he became the father of Enosh** 807 years,
-  and became the father of other sons and daughters.
+  # Genesis 005:013
+  And Kenan** /Cainan/ lived 840 years
+  after he fathered Mahalalel**,
+  and he fathered <other> sons and daughters.
 
-  # Genesis 05:08
-  All of the days of Seth** were 912 years,
-  then he died.
+  # Genesis 005:014
+  And all the days of Kenan** /Cainan/ were 910 years
+  and <then> he died.
 
-# Genesis 05:09
-Enosh** lived 90 years,
-  and became the father of Kenan**.
+# Section: \hfill{}[MERE]\tab{}$\geqq$05.15
+# Genesis 005:015
+And Mahalalel** lived 65 years,
+and <then> he fathered Jared**.
 
-  # Genesis 05:10
-  Enosh** lived
-    after he became the father of Kenan** 815 years,
-  and became the father of other sons and daughters.
+  # Genesis 005:016
+  And Mahalalel** lived 830 years
+  after he fathered Jared**,
+  and he fathered <other> sons and daughters.
 
-  # Genesis 05:11
-  All of the days of Enosh** were 905 years,
-  then he died.
+  # Genesis 005:017
+  And all the days of Mahalalel** were 895 years,
+  and <then> he died.
 
-# Genesis 05:12
-Kenan** lived 70 years,
-  then became the father of Mahalalel**.
+# PresentationSection: \hfill{}[MERE]\tab{}$\geqq$05.18
+# Genesis 005:018
+And Jared** lived 162 years
+and <then> he fathered Enoch**.
 
-  # Genesis 05:13
-  Kenan** lived
-    after he became the father of Mahalalel** 840 years,
-  and became the father of other sons and daughters
-  # Genesis 05:14
-  and all of the days of Kenan** were 910 years,
-  then he died.
+  # Genesis 005:019
+  And Jared** lived 800 years
+  after he fathered Enoch**,
+  and he fathered <other> sons and daughters.
 
-# Section: \hfill{}$\geqq$05.15
-# Genesis 05:15
-Mahalalel** lived 65 years,
-  then became the father of Jared**.
+  # Genesis 005:020
+  And all the days of Jared** were 962 years,
+  and <then> he died.
 
-  # Genesis 05:16
-  Mahalalel** lived
-    after he became the father of Jared** 830 years,
-  and became the father of other sons and daughters.
+# PresentationSection: \hfill{}[MERE]\tab{}$\geqq$05.21
+# Genesis 005:021
+And Enoch** lived 65 years
+and <then> he fathered Methuselah**.
 
-  # Genesis 05:17
-  All of the days of Mahalalel** were 895 years,
-  then he died.
+  # Genesis 005:022
+  And Enoch** walked with God <for> 300 years
+  after he fathered Methuselah**,
+  and he fathered <other> sons and daughters.
 
-# Genesis 05:18
-Jared** lived 162 years,
-  then became the father of Enoch**.
+  # Genesis 005:023
+  And all the days of Enoch** were 365 years.
 
-  # Genesis 05:19
-  Jared** lived
-    after he became the father of Enoch** 800 years,
-  and became the father of other sons and daughters.
+  # Genesis 005:024
+  And Enoch** walked with God
+  and <then> he <was> not,
+  for God /Elohim/ took him.
 
-  # Genesis 05:20
-  All of the days of Jared** were 962 years,
-  then he died.
+# PresentationSection: \hfill{}[MERE]\tab{}$\geqq$05.25
+# Genesis 005:025
+And Methuselah** lived 187 years
+and <then> he fathered Lamech**,
+and he fathered <other> sons and daughters.
 
-# Genesis 05:21
-Enoch** lived 65 years,
-  then became the father of Methuselah**.
+  # Genesis 005:026
+  And Methuselah** lived 782 years
+  after he fathered Lamech**,
+  and he fathered <other> sons and daughters.
 
-  # Genesis 05:22
-  After Methuselah's** birth,
-  Enoch** walked with God for 300 years,
-  and became the father of more sons and daughters.
+  # Genesis 005:027
+  And all the days of Methuselah** were 966 years,
+  and he died.
 
-  # Genesis 05:23
-  All the days of Enoch** were 365 years.
+# Section: \hfill{}[MERE]\tab{}$\geqq$05.28
+# Genesis 005:028
+And Lamech** lived 182 years
+and he fathered a son.
 
-  # Genesis 05:24
-  Enoch** walked with God,
-  and he was not found,
-  for God took him.
-
-# Genesis 05:25
-Methuselah** lived 187 years,
-  then became the father of Lamech**.
-
-  # Genesis 05:26
-  Methuselah** lived
-    after he became the father of Lamech** 782 years,
-  and became the father of other sons and daughters.
-
-  # Genesis 05:27
-  All the days of Methuselah** were 969 years,
-  then he died.
-
-# Section: \hfill{}$\geqq$05.28
-# Genesis 05:28
-Lamech** lived 182 years,
-  then became the father of a son.
-
-  # Genesis 05:29
-  He named him Noah**,
-  saying,
+  # Genesis 005:029
+  And he called his name Noah** /rest/, saying,
   {
-    This one will comfort us in our work
-      and in the toil of our hands,
-    caused by the ground
-      which YHWH has cursed.
+    This <one> shall comfort us
+    in our work and the toil of our hands
+    because of the ground
+    which YHWH has cursed.
   }
 
-  # Genesis 05:30
-  Lamech** lived
-    after he became the father of Noah** 595 years,
-  and became the father of other sons and daughters.
+  # Genesis 005:030
+  And Lamech** lived 595 years,
+  after he fathered Noah**
+  and he fathered <other> sons and daughters.
 
-  # Genesis 05:31
-  All the days of Lamech** were 777 years,
-  then he died.
+  # Genesis 005:031
+  And all the days of Lamech** were 777 years,
+  and he died.
 
-# Genesis 05:32
-Noah** was 500 years old,
-then Noah** became the father
-of Shem**, Ham, and Japheth.
+# Genesis 005:032
+And Noah** was 500 years old
+and Noah** fathered Shem, Ham, and Japheth.
 
-# Section: \hfill{}$\geqq$06.01
-# Genesis 06:01
-When men began to multiply
-on the surface of the ground,
-and daughters were born to them,
-# Genesis 06:02
-God's sons saw that men's daughters were beautiful,
-and they took any that they wanted
-for themselves
-as wives.
+# Section: \hfill{}[MERE]\tab{}$\geqq$06.01
+# Genesis 006:001
+And it came to pass [DMC: Think]
+when man /Adam|mankind/ began to multiply
+on the face
+of the earth
+and daughters were born to them.
 
-# Section: \hfill{}$\geqq$06.03
-# Genesis 06:03
-YHWH said,
+# Genesis 006:002
+The sons of God saw the daughters of men ---
+that they <were> beautiful.
+
+And they took wives for themselves ---
+of all <the daughters> ---
+whomever they chose.
+
+# Section: \hfill{}[MERE]\tab{}$\geqq$06.03
+# Genesis 006:003
+And YHWH said,
 {
-  My Spirit will not strive with man forever,
-  because he also is flesh;
-  so his days will be 120 years.
+  My Spirit shall not strive with man forever.
+
+  For, indeed, he <is> flesh
+  and yet his days shall be 120 years.
 }
 
-# Section: \hfill{}$\geqq$06.04
-# Genesis 06:04
-The Nephilim were in the earth in those days,
+# Section: \hfill{}[MERE]\tab{}$\geqq$06.04
+# Genesis 006:004
+The Nephilim were on the earth in those days,
 and also after that,
-when God's sons came in to men's daughters
-and had children with them.
+when the sons of God came in to the daughters of men
+they birthed <children> to them.
 
-Those were the mighty men who were of old,
+Those <were> the mighty men who <were> of old,
 men of renown.
 
-# Section: {~--- REFERENCE --- Nephilim}\hfill{}$\geqq$Numbers 13.31
-# TEX: \begin{leftbar}
-# Numbers 13:31
-But the men who went up with him said,
-{
-  We aren't able to go up against the people;
-  for they are stronger than we.
-}
+# # Section: {~--- REFERENCE --- Nephilim}\hfill{}[MERE]\tab{}$\geqq$Numbers 13.31
+# # TEX: \begin{leftbar}
+# # Numbers 13:31
+# But the men who went up with him said,
+# {
+#   We aren't able to go up against the people;
+#   for they are stronger than we.
+# }
+#
+# # Numbers 13:32
+# They brought up an evil report of the land
+# which they had spied out
+# to the children of Israel,
+# saying,
+# {
+#   The land,
+#   through which we have gone to spy it out,
+#   is a land that eats up its inhabitants;
+#   and all the people who we saw in it are men of great stature.
+#
+#   # Numbers 13:33
+#   There we saw the Nephilim,
+#   the sons of Anak,
+#   who come from the Nephilim.
+#
+#   We were in our own sight as grasshoppers,
+#   and so we were in their sight.
+# }
+# # TEX: \end{leftbar}
 
-# Numbers 13:32
-They brought up an evil report of the land
-which they had spied out
-to the children of Israel,
-saying,
-{
-  The land,
-  through which we have gone to spy it out,
-  is a land that eats up its inhabitants;
-  and all the people who we saw in it are men of great stature.
-
-  # Numbers 13:33
-  There we saw the Nephilim,
-  the sons of Anak,
-  who come from the Nephilim.
-
-  We were in our own sight as grasshoppers,
-  and so we were in their sight.
-}
-# TEX: \end{leftbar}
-
-# Section: \hfill{}$\geqq$06.05
-# Genesis 06:05
-YHWH saw that the wickedness
-  of man
-  was great in the earth,
-and that every imagination
+# Section: \hfill{}[MERE]\tab{}$\geqq$06.05
+# Genesis 006:005
+And YHWH saw that the wickedness of man
+  <was> great in the earth
+and <that> every intent
   of the thoughts
-  of man's heart
-  was continually only evil.
+  of his heart
+<was> altogether evil ---
+all the time.
 
-# Genesis 06:06
-YHWH was sorry that he had made man on the earth,
-and it grieved him in his heart.
+# Genesis 006:006
+And YHWH was sorry that He had made man on the earth,
+and He <was> grieved him in His heart.
 
-# Genesis 06:07
-YHWH said,
+# PresentationSection: \hfill{}[MERE]\tab{}$\geqq$06.07
+# Genesis 006:007
+And YHWH said,
 {
-  I will destroy man
-  whom I have created
-  from the surface of the ground ---
-    man,
-    along with animals,
-    creeping things,
+  I will destroy man whom I have created
+  from the face of the earth ---
+  from man and beast
+    to creeping thing
     and birds of the sky ---
   for I am sorry that I have made them.
 }
 
-# Genesis 06:08
-But Noah** found favor in YHWH's eyes.
+# Genesis 006:008
+But Noah** found grace in the eyes of YHWH.
 
-# Section: \hfill{}$\geqq$06.09
-# Genesis 06:09
-This is the history of the generations of Noah**:
+# Section: \hfill{}[MERE]\tab{}$\geqq$06.09
+# Genesis 006:009
+These <are> the generations <of> Noah**.
 
-Noah** was a righteous man,
-  blameless among the people of his time.
+Noah**, a righteous man,
+was blameless in his generations. [DMC: generations/age?]
 
 Noah** walked with God.
 
-# Genesis 06:10
-Noah** became the father of three sons:
+# Genesis 006:010
+And Noah** fathered three sons:
   Shem**,
   Ham,
   and Japheth.
 
-# Section: \hfill{}$\geqq$06.11
-# Genesis 06:11
-The earth was corrupt before God,
+# Section: \hfill{}[MERE]\tab{}$\geqq$06.11
+# Genesis 006:011
+And the earth was corrupt before God /Elohim/ [DMC: before the face of]
 and the earth was filled with violence.
 
-# Genesis 06:12
-God saw the earth,
-and saw that it was corrupt,
+# Genesis 006:012
+And God /Elohim/ saw the earth
+and, indeed, it was corrupt,
 for all flesh had corrupted their way on the earth.
 
-# Section: \hfill{}$\geqq$06.13
-# Genesis 06:13
-God said to Noah**,
+# Section: \hfill{}[MERE]\tab{}$\geqq$06.13
+# Genesis 006:013
+And God said to Noah**,
 {
-  I will bring an end to all flesh,
+  The end of all flesh has come before Me,
   for the earth is filled with violence through them.
 
   Behold!
-  I will destroy them and the earth.
+  I will destroy them [together] with the earth.
 
-  # Genesis 06:14
-  Make a ship of gopher wood.
+  # Genesis 006:014
+  Make for yourself an ark of gopher wood.
 
-  You shall make rooms in the ship,
-  and shall seal it inside and outside with pitch.
-
-  # Genesis 06:15
-  This is how you shall make it.
-
-  The length of the ship shall be 300 cubits,
-  its width 50 cubits,
-  and its height 30 cubits.
-
-  # Genesis 06:16
-  You shall make a roof in the ship,
-  and you shall finish it to a cubit upward.
-
-  You shall set the door of the ship in its side.
-
-  You shall make it with lower, second, and third levels.
-
-  # Genesis 06:17
-  I, even I,
-  will bring the flood of waters on this earth,
-  to destroy all flesh having the breath of life from under the sky.
-
-  Everything that is in the earth will die.
-
-  # Genesis 06:18
-  But I will establish my covenant with you.
+  Make rooms in the ark
+  and cover it inside and outside with pitch.
 }
 
-# Section: \hfill{}$\geqq$06.18b
+# PresentationSection: \hfill{}[MERE]\tab{}$\geqq$06.15
 {
-  # Genesis 06:18b
-  You shall come into the ship,
-    you,
-    your sons,
-    your wife,
-    and your sons' wives with you.
+  # Genesis 006:015
+  And this <is> how you shall make it:
+    300 cubits <shall be> the length,
+    50 cubits the width,
+    and 30 cubits the height.
 
-  # Genesis 06:19
-  Of every living thing of all flesh,
-  you shall bring two of every sort into the ship,
-  to keep them alive with you.
+  # Genesis 006:016
+  You shall make a window /roof/ for the ark.
 
-  They shall be male and female.
+  And you shall finish <the walls> to a cubit from above.
 
-  # Genesis 06:20
-  Of the birds after their kind,
-  of the livestock after their kind,
-  of every creeping thing of the ground after its kind,
-  two of every sort will come to you,
-  to keep them alive.
+  And the door of the ark set in its side.
 
-  # Genesis 06:21
-  Take with you some of all food that is eaten,
-  and gather it to yourself;
-  and it will be for food for you,
-  and for them.
+  You shall make it <with> lower, second, and third <decks>.
 }
 
-# Section: \hfill{}$\geqq$06.22
-# Genesis 06:22
-Thus Noah** did.
+# PresentationSection: \hfill{}[MERE]\tab{}$\geqq$06.17
+{
+  # Genesis 006:017
+  And I, behold,
+  am bringing a flood of waters on the earth
+  to destroy all flesh which <is> in it ---
+  the breath of life
+  from under heaven.
 
-He did all that God commanded him.
+  Everything that <is>
+  on the earth shall die.
 
-# Section: \hfill{}$\geqq$07.01
-# Genesis 07:01
+  # Genesis 006:018
+  But I will establish
+  My covenant with you
+  and you shall go
+  into the ark
+  you and your sons
+  and your wife
+  and the wives of your sons with you.
+}
+
+# PresentationSection: \hfill{}[MERE]\tab{}$\geqq$06.19
+{
+  # Genesis 006:019
+  And of every living thing of all flesh,
+  two of every <kind>
+  you shall bring into the ark
+  to keep <them> alive with you ---
+  they shall be male and female.
+
+  # Genesis 006:020
+  Of the birds
+    according to /after/ their kind.
+
+  And of animals
+    according to /after/ their kind.
+
+  And of the creeping things of the earth
+    according to /after/ its kind.
+
+  Two of ever <kind> will come to you
+    to be kept alive.
+}
+
+# PresentationSection: \hfill{}[MERE]\tab{}$\geqq$06.21
+{
+  # Genesis 006:021
+  And you shall take for yourself
+  of all food that is eaten
+  and you shall gather <it> to yourself
+  and it shall be --- for you and for them --- food.
+}
+
+# Section: \hfill{}[MERE]\tab{}$\geqq$06.22
+# Genesis 006:022
+And Noah** did.
+
+According to all
+that God /Elohim/ commanded him,
+so he did.
+
+# Section: \hfill{}[MERE]\tab{}$\geqq$07.01
+# Genesis 007:001
+And YHWH said to Noah**,
+{
+  Come,
+  you and all your household into the ark,
+  because I have seen
+  <that> you <are> righteous
+  before Me
+  in this generation.
+}
+
+{
+  # Genesis 007:002
+  Of every clean animal,
+  you shall take with you
+  seven pairs ---
+    a male and his female ---
+  and two <pairs> of animals that are not clean ---
+    a male and his female.
+
+  # Genesis 007:003
+  Also?
+  of birds of the sky ---
+  seven by seven ---
+  male and female ---
+  to keep alive their seed
+  on the face of all the earth.
+
+}
+
+################################################################################
+STOPHERE :: ROAD\_GRADER
+################################################################################
+
+# Section: \hfill{}[MERE]\tab{}$\geqq$07.01
+# Genesis 007:001
 YHWH said to Noah**,
 {
   Come with all of your household into the ship,
   for I have seen your righteousness before me in this generation.
 
-  # Genesis 07:02
+  # Genesis 007:002
   You shall take seven pairs of every clean animal with you,
   the male and his female.
 
@@ -587,13 +1001,13 @@ YHWH said to Noah**,
   take two,
   the male and his female.
 
-  # Genesis 07:03
+  # Genesis 007:003
   Also of the birds of the sky,
   seven and seven,
   male and female,
   to keep seed alive on the surface of all the earth.
 
-  # Genesis 07:04
+  # Genesis 007:004
   In seven days,
   I will cause it to rain on the earth
   for 40 days and 40 nights.
@@ -602,37 +1016,37 @@ YHWH said to Noah**,
   from the surface of the ground.
 }
 
-# Section: \hfill{}$\geqq$07.05
-# Genesis 07:05
+# Section: \hfill{}[MERE]\tab{}$\geqq$07.05
+# Genesis 007:005
 Noah** did everything that YHWH commanded him.
 
-# Genesis 07:06
+# Genesis 007:006
 Noah** was 600 old
   when the flood of waters came on the earth.
 
-# Genesis 07:07
+# Genesis 007:007
 Noah** went into the ship
   with his sons,
   his wife,
   and his sons' wives,
 because of the floodwaters.
 
-# Genesis 07:08
+# Genesis 007:008
 Clean animals,
   unclean animals,
   birds,
   and everything that creeps on the ground
-# Genesis 07:09
+# Genesis 007:009
 went by pairs to Noah** into the ship,
 male and female,
 as God commanded Noah**.
 
-# Section: \hfill{}$\geqq$07.10
-# Genesis 07:10
+# Section: \hfill{}[MERE]\tab{}$\geqq$07.10
+# Genesis 007:010
 After the seven days,
 the floodwaters came on the earth.
 
-# Genesis 07:11
+# Genesis 007:011
 In the 600th year of Noah's** life,
   in the second month,
   on the seventeenth day of the month,
@@ -640,18 +1054,18 @@ In the 600th year of Noah's** life,
 all the fountains of the great deep burst open,
 and the sky's windows opened.
 
-# Genesis 07:12
+# Genesis 007:012
 It rained on the earth 40 days and 40 nights.
 
-# Section: \hfill{}$\geqq$07.13
-# Genesis 07:13
+# Section: \hfill{}[MERE]\tab{}$\geqq$07.13
+# Genesis 007:013
 In the same day Noah**,
   and Shem**, Ham, and Japheth ---
   the sons of Noah** ---
   and Noah's** wife
   and the three wives of his sons with them,
 entered into the ship ---
-# Genesis 07:14
+# Genesis 007:014
 they,
   and every animal after its kind,
   all the livestock after their kind,
@@ -659,41 +1073,41 @@ they,
   and every bird after its kind,
   every bird of every sort.
 
-# Genesis 07:15
+# Genesis 007:015
 Pairs from all flesh
   with the breath of life in them
 went into the ship to Noah**.
 
-# Genesis 07:16
+# Genesis 007:016
 Those who went in,
 went in male and female of all flesh,
 as God commanded him;
 then YHWH shut him in.
 
-# Section: \hfill{}$\geqq$07.17
-# Genesis 07:17
+# Section: \hfill{}[MERE]\tab{}$\geqq$07.17
+# Genesis 007:017
 The flood was 40 days on the earth.
 
 The waters increased,
 and lifted up the ship,
 and it was lifted up above the earth.
 
-# Genesis 07:18
+# Genesis 007:018
 The waters rose,
 and increased greatly on the earth;
 and the ship floated on the surface of the waters.
 
-# Genesis 07:19
+# Genesis 007:019
 The waters rose very high on the earth.
 
 All the high mountains that were under the whole sky were covered.
 
-# Genesis 07:20
+# Genesis 007:020
 The waters rose 15 cubits higher,
 and the mountains were covered.
 
-# Section: \hfill{}$\geqq$07.21
-# Genesis 07:21
+# Section: \hfill{}[MERE]\tab{}$\geqq$07.21
+# Genesis 007:021
 All flesh died that moved on the earth,
   including birds,
   livestock,
@@ -701,12 +1115,12 @@ All flesh died that moved on the earth,
   every creeping thing that creeps on the earth,
   and every man.
 
-# Genesis 07:22
+# Genesis 007:022
 All on the dry land,
 in whose nostrils was the breath of the spirit of life,
 died.
 
-# Genesis 07:23
+# Genesis 007:023
 Every living thing was destroyed
   that was on the surface of the ground,
   including man,
@@ -719,11 +1133,11 @@ They were destroyed from the earth.
 Only Noah** was left,
 and those who were with him in the ship.
 
-# Section: \hfill{}$\geqq$07.24
-# Genesis 07:24
+# Section: \hfill{}[MERE]\tab{}$\geqq$07.24
+# Genesis 007:024
 The waters flooded the earth 150 days.
 
-# Genesis 08:01
+# Genesis 008:001
 God remembered Noah**,
   all the animals,
   and all the livestock that were with him in the ship;
@@ -731,43 +1145,43 @@ and God made a wind to pass over the earth.
 
 The waters subsided.
 
-# Genesis 08:02
+# Genesis 008:002
 The deep's fountains and the sky's windows were also stopped,
 and the rain from the sky was restrained.
 
-# Genesis 08:03
+# Genesis 008:003
 The waters continually receded from the earth.
 
 After the end of 150 days the waters receded.
 
-# Genesis 08:04
+# Genesis 008:004
 The ship rested in the seventh month,
 on the seventeenth day of the month,
 on Ararat's mountains.
 
-# Section: \hfill{}$\geqq$08.05
-# Genesis 08:05
+# Section: \hfill{}[MERE]\tab{}$\geqq$08.05
+# Genesis 008:005
 The waters receded continually until the tenth month.
 
 In the tenth month,
 on the first day of the month,
 the tops of the mountains were visible.
 
-# Section: \hfill{}$\geqq$08.06
-# Genesis 08:06
+# Section: \hfill{}[MERE]\tab{}$\geqq$08.06
+# Genesis 008:006
 At the end of 40 days,
 Noah** opened the window of the ship which he had made,
-# Genesis 08:07
+# Genesis 008:007
 and he sent out a raven.
 
 It went back and forth,
 until the waters were dried up from the earth.
 
-# Genesis 08:08
+# Genesis 008:008
 He himself sent out a dove
 to see if the waters were abated
 from the surface of the ground,
-# Genesis 08:09
+# Genesis 008:009
 but the dove found no place to rest her foot,
 and she returned into the ship to him,
 for the waters were on the surface of the whole earth.
@@ -776,25 +1190,25 @@ He put out his hand,
 and took her,
 and brought her to him into the ship.
 
-# Section: \hfill{}$\geqq$08.10
-# Genesis 08:10
+# Section: \hfill{}[MERE]\tab{}$\geqq$08.10
+# Genesis 008:010
 He waited yet another seven days;
 and again he sent the dove out of the ship.
 
-# Genesis 08:11
+# Genesis 008:011
 The dove came back to him at evening and,
 behold,
 in her mouth was a freshly plucked olive leaf.
 
 So Noah** knew that the waters were abated from the earth.
 
-# Genesis 08:12
+# Genesis 008:012
 He waited yet another seven days,
 and sent out the dove;
 and she didn't return to him any more.
 
-# Section: \hfill{}$\geqq$08.13
-# Genesis 08:13
+# Section: \hfill{}[MERE]\tab{}$\geqq$08.13
+# Genesis 008:013
 In the six hundred first year,
   in the first month,
   the first day of the month,
@@ -805,16 +1219,16 @@ and looked.
 
 He saw that the surface of the ground was dry.
 
-# Section: \hfill{}$\geqq$08.14
-# Genesis 08:14
+# Section: \hfill{}[MERE]\tab{}$\geqq$08.14
+# Genesis 008:014
 In the second month,
 on the twenty-seventh day of the month,
 the earth was dry.
 
-# Genesis 08:15
+# Genesis 008:015
 God spoke to Noah**,
 saying,
-# Genesis 08:16
+# Genesis 008:016
 {
   Go out of the ship,
   you,
@@ -822,7 +1236,7 @@ saying,
   your sons,
   and your sons' wives with you.
 
-  # Genesis 08:17
+  # Genesis 008:017
   Bring out with you every living thing that is with you
   of all flesh,
     including birds,
@@ -833,14 +1247,14 @@ saying,
   and multiply on the earth.
 }
 
-# Section: \hfill{}$\geqq$08.18
-# Genesis 08:18
+# Section: \hfill{}[MERE]\tab{}$\geqq$08.18
+# Genesis 008:018
 Noah** went out,
   with his sons,
   his wife,
   and his sons' wives with him.
 
-# Genesis 08:19
+# Genesis 008:019
 Every animal,
   every creeping thing,
   and every bird,
@@ -848,14 +1262,14 @@ Every animal,
     after their families,
 went out of the ship.
 
-# Section: \hfill{}$\geqq$08.20
-# Genesis 08:20
+# Section: \hfill{}[MERE]\tab{}$\geqq$08.20
+# Genesis 008:020
 Noah** built an altar to YHWH,
 and took of every clean animal,
 and of every clean bird,
 and offered burnt offerings on the altar.
 
-# Genesis 08:21
+# Genesis 008:021
 YHWH smelled the pleasant aroma.
 
 YHWH said in his heart,
@@ -868,7 +1282,7 @@ YHWH said in his heart,
   I will never again strike every living thing,
   as I have done.
 
-  # Genesis 08:22
+  # Genesis 008:022
   While the earth remains,
   seed time and harvest,
   and cold and heat,
@@ -876,8 +1290,8 @@ YHWH said in his heart,
   and day and night will not cease.
 }
 
-# Section: \hfill{}$\geqq$09.01
-# Genesis 09:01
+# Section: \hfill{}[MERE]\tab{}$\geqq$09.01
+# Genesis 009:001
 God blessed Noah** and his sons,
 and said to them,
 {
@@ -885,7 +1299,7 @@ and said to them,
   multiply,
   and replenish the earth.
 
-  # Genesis 09:02
+  # Genesis 009:002
   The fear of you and the dread of you
   will be on every animal of the earth,
   and on every bird of the sky.
@@ -894,18 +1308,21 @@ and said to them,
   and all the fish of the sea,
   are delivered into your hand.
 
-  # Genesis 09:03
+  # Genesis 009:003
   Every moving thing that lives will be food for you.
 
   As I gave you the green herb,
   I have given everything to you.
+}
 
-  # Genesis 09:04
+# Section: \hfill{}$\geqq$009.004
+{
+  # Genesis 009:004
   But flesh with its life,
   that is, its blood,
   you shall not eat.
 
-  # Genesis 09:05
+  # Genesis 009:005
   I will surely require accounting for your life's blood.
 
   At the hand of every animal I will require it.
@@ -914,29 +1331,29 @@ and said to them,
   even at the hand of every man's brother,
   I will require the life of man.
 
-  # Genesis 09:06
+  # Genesis 009:006
   Whoever sheds man's blood,
   his blood will be shed by man,
   for God made man in his own image.
 
-  # Genesis 09:07
+  # Genesis 009:007
   Be fruitful and multiply.
 
   Increase abundantly in the earth,
   and multiply in it.
 }
 
-# Section: \hfill{}$\geqq$09.08
-# Genesis 09:08
+# Section: \hfill{}[MERE]\tab{}$\geqq$09.08
+# Genesis 009:008
 God spoke to Noah**
   and to his sons with him,
 saying,
-# Genesis 09:09
+# Genesis 009:009
 {
   As for me, behold!
   I establish my covenant with you,
   and with your offspring after you,
-  # Genesis 09:10
+  # Genesis 009:010
   and with every living creature that is with you:
     the birds,
     the livestock,
@@ -944,7 +1361,7 @@ saying,
   of all that go out of the ship,
   even every animal of the earth.
 
-  # Genesis 09:11
+  # Genesis 009:011
   I will establish my covenant with you:
   All flesh will not be cut off any more
   by the waters of the flood.
@@ -953,8 +1370,8 @@ saying,
   to destroy the earth.
 }
 
-# Section: \hfill{}$\geqq$09.12
-# Genesis 09:12
+# Section: \hfill{}[MERE]\tab{}$\geqq$09.12
+# Genesis 009:012
 God said,
 {
   This is the token of the covenant
@@ -963,22 +1380,22 @@ God said,
     and every living creature that is with you,
   for perpetual generations:
 
-  # Genesis 09:13
+  # Genesis 009:013
   I set my rainbow in the cloud,
   and it will be a sign of a covenant
   between me and the earth.
 
-  # Genesis 09:14
+  # Genesis 009:014
   When I bring a cloud over the earth,
   that the rainbow will be seen in the cloud,
-  # Genesis 09:15
+  # Genesis 009:015
   I will remember my covenant,
   which is between me and you
   and every living creature of all flesh,
   and the waters will no more become a flood
   to destroy all flesh.
 
-  # Genesis 09:16
+  # Genesis 009:016
   The rainbow will be in the cloud.
 
   I will look at it,
@@ -987,8 +1404,8 @@ God said,
   that is on the earth.
 }
 
-# Section: \hfill{}$\geqq$09.17
-# Genesis 09:17
+# Section: \hfill{}[MERE]\tab{}$\geqq$09.17
+# Genesis 009:017
 God said to Noah**,
 {
   This is the token of the covenant
@@ -997,33 +1414,33 @@ God said to Noah**,
   that is on the earth.
 }
 
-# Section: \hfill{}$\geqq$09.18
-# Genesis 09:18
+# Section: \hfill{}[MERE]\tab{}$\geqq$09.18
+# Genesis 009:018
 The sons of Noah** who went out from the ship
 were Shem**, Ham, and Japheth.
 
 Ham is the father of Canaan.
 
-# Genesis 09:19
+# Genesis 009:019
 These three were the sons of Noah**,
 and from these the whole earth was populated.
 
-# Section: \hfill{}$\geqq$09.20
-# Genesis 09:20
+# Section: \hfill{}[MERE]\tab{}$\geqq$09.20
+# Genesis 009:020
 Noah** began to be a farmer,
 and planted a vineyard.
 
-# Genesis 09:21
+# Genesis 009:021
 He drank of the wine and got drunk.
 
 He was uncovered within his tent.
 
-# Genesis 09:22
+# Genesis 009:022
 Ham, the father of Canaan,
 saw the nakedness of his father,
 and told his two brothers outside.
 
-# Genesis 09:23
+# Genesis 009:023
 Shem** and Japheth took a garment,
 and laid it on both their shoulders,
 went in backwards,
@@ -1032,12 +1449,12 @@ and covered the nakedness of their father.
 Their faces were backwards,
 and they didn't see their father's nakedness.
 
-# Section: \hfill{}$\geqq$09.24
-# Genesis 09:24
+# Section: \hfill{}[MERE]\tab{}$\geqq$09.24
+# Genesis 009:024
 Noah** awoke from his wine,
 and knew what his youngest son had done to him.
 
-# Genesis 09:25
+# Genesis 009:025
 He said,
 {
   Canaan is cursed.
@@ -1045,7 +1462,7 @@ He said,
   He will be a servant of servants to his brothers.
 }
 
-# Genesis 09:26
+# Genesis 009:026
 He said,
 {
   Blessed be YHWH,
@@ -1053,7 +1470,7 @@ He said,
 
   Let Canaan be his servant.
 
-  # Genesis 09:27
+  # Genesis 009:027
   May God enlarge Japheth.
 
   Let him dwell in the tents of Shem**.
@@ -1061,15 +1478,15 @@ He said,
   Let Canaan be his servant.
 }
 
-# Genesis 09:28
+# Genesis 009:028
 Noah** lived three hundred 50 years after the flood.
 
-# Genesis 09:29
+# Genesis 009:029
 All the days of Noah** were nine hundred 50 years,
 and then he died.
 
-# Section: \hfill{}$\geqq$10.01
-# Genesis 10:01
+# Section: \hfill{}[MERE]\tab{}$\geqq$10.01
+# Genesis 010:001
 Now this is the history
   of the generations
     of the sons of Noah**
@@ -1079,8 +1496,8 @@ Now this is the history
 
 Sons were born to them after the flood.
 
-# Section: \hfill{}$\geqq$10.02
-# Genesis 10:02
+# Section: \hfill{}[MERE]\tab{}$\geqq$10.02
+# Genesis 010:002
 The sons of Japheth were:
   Gomer,
   Magog,
@@ -1090,34 +1507,34 @@ The sons of Japheth were:
   Meshech,
   and Tiras.
 
-# Genesis 10:03
+# Genesis 010:003
 The sons of Gomer were:
   Ashkenaz,
   Riphath,
   and Togarmah.
 
-# Genesis 10:04
+# Genesis 010:004
 The sons of Javan were:
   Elishah,
   Tarshish,
   Kittim,
   and Dodanim.
 
-# Genesis 10:05
+# Genesis 010:005
 Of these were the islands of the nations divided in their lands,
 everyone after his language,
 after their families,
 in their nations.
 
-# Section: \hfill{}$\geqq$10.06
-# Genesis 10:06
+# Section: \hfill{}[MERE]\tab{}$\geqq$10.06
+# Genesis 010:006
 The sons of Ham were:
   Cush,
   Mizraim,
   Put,
   and Canaan.
 
-# Genesis 10:07
+# Genesis 010:007
 The sons of Cush were:
   Seba,
   Havilah,
@@ -1128,13 +1545,13 @@ The sons of Cush were:
 The sons of Raamah were:
   Sheba and Dedan.
 
-# Section: \hfill{}$\geqq$10.08
-# Genesis 10:08
+# Section: \hfill{}[MERE]\tab{}$\geqq$10.08
+# Genesis 010:008
 Cush became the father of Nimrod.
 
 He began to be a mighty one in the earth.
 
-# Genesis 10:09
+# Genesis 010:009
 He was a mighty hunter before YHWH.
 
 Therefore it is said,
@@ -1143,52 +1560,52 @@ Therefore it is said,
   a mighty hunter before YHWH
 }
 
-# Genesis 10:10
+# Genesis 010:010
 The beginning of his kingdom was Babel,
   Erech, Accad, and Calneh,
   in the land of Shinar.
 
-# Genesis 10:11
+# Genesis 010:011
 Out of that land he went into Assyria,
   and built Nineveh,
   Rehoboth Ir,
   Calah,
-  # Genesis 10:12
+  # Genesis 010:012
   and Resen
     between Nineveh and the great city Calah.
 
-# Section: \hfill{}$\geqq$10.13
-# Genesis 10:13
+# Section: \hfill{}[MERE]\tab{}$\geqq$10.13
+# Genesis 010:013
 Mizraim became the father
   of Ludim,
   Anamim,
   Lehabim,
   Naphtuhim,
-  # Genesis 10:14
+  # Genesis 010:014
   Pathrusim,
   Casluhim (which the Philistines descended from),
   and Caphtorim.
 
-# Genesis 10:15
+# Genesis 010:015
 Canaan became the father of Sidon (his firstborn),
 Heth,
-  # Genesis 10:16
+  # Genesis 010:016
   the Jebusites,
   the Amorites,
   the Girgashites,
-  # Genesis 10:17
+  # Genesis 010:017
   the Hivites,
   the Arkites,
   the Sinites,
-  # Genesis 10:18
+  # Genesis 010:018
   the Arvadites,
   the Zemarites,
   and the Hamathites.
 
 Afterward the families of the Canaanites were spread abroad.
 
-# Section: \hfill{}$\geqq$10.19
-# Genesis 10:19
+# Section: \hfill{}[MERE]\tab{}$\geqq$10.19
+# Genesis 010:019
 The border of the Canaanites was
   from Sidon ---
     as you go toward Gerar ---
@@ -1196,19 +1613,19 @@ The border of the Canaanites was
     as you go toward Sodom, Gomorrah, Admah, and Zeboiim ---
   to Lasha.
 
-# Genesis 10:20
+# Genesis 010:020
 These are the sons of Ham,
 after their families,
 according to their languages,
 in their lands and their nations.
 
-# Section: \hfill{}$\geqq$10.21
-# Genesis 10:21
+# Section: \hfill{}[MERE]\tab{}$\geqq$10.21
+# Genesis 010:021
 Children were also born to Shem**
 (the elder brother of Japheth),
 the father of all the children of Eber**.
 
-# Genesis 10:22
+# Genesis 010:022
 The sons of Shem** were:
   Elam,
   Asshur,
@@ -1216,16 +1633,16 @@ The sons of Shem** were:
   Lud,
   and Aram.
 
-# Genesis 10:23
+# Genesis 010:023
 The sons of Aram were:
   Uz, Hul, Gether, and Mash.
 
-# Genesis 10:24
+# Genesis 010:024
 Arpachshad** became the father of Shelah**.
 
 Shelah** became the father of Eber**.
 
-# Genesis 10:25
+# Genesis 010:025
 To Eber** were born two sons.
 
 The name of the one was Peleg**,
@@ -1233,46 +1650,46 @@ for in his days the earth was divided.
 
 His brother's name was Joktan.
 
-# Genesis 10:26
+# Genesis 010:026
 Joktan became the father of
   Almodad, Sheleph, Hazarmaveth, Jerah,
-  # Genesis 10:27
+  # Genesis 010:027
   Hadoram, Uzal, Diklah,
-  # Genesis 10:28
+  # Genesis 010:028
   Obal, Abimael, Sheba,
-  # Genesis 10:29
+  # Genesis 010:029
   Ophir, Havilah, and Jobab.
 
 All these were the sons of Joktan.
 
-# Genesis 10:30
+# Genesis 010:030
 Their dwelling extended from Mesha,
 as you go toward Sephar,
 the mountain of the east.
 
-# Genesis 10:31
+# Genesis 010:031
 These are the sons of Shem**,
   by their families,
   according to their languages, lands, and nations.
 
-# Section: \hfill{}$\geqq$10.32
-# Genesis 10:32
+# Section: \hfill{}[MERE]\tab{}$\geqq$10.32
+# Genesis 010:032
 These are the families of the sons of Noah**,
 by their generations,
 according to their nations.
 
 The nations divided from these in the earth after the flood.
 
-# Section: \hfill{}$\geqq$11.01
-# Genesis 11:01
+# Section: \hfill{}[MERE]\tab{}$\geqq$11.01
+# Genesis 011:001
 The whole earth was of one language and of one speech.
 
-# Genesis 11:02
+# Genesis 011:002
 As they traveled east,
 they found a plain in the land of Shinar,
 and they lived there.
 
-# Genesis 11:03
+# Genesis 011:003
 They said to one another,
 {
   Come,
@@ -1283,7 +1700,7 @@ They said to one another,
 They had brick for stone,
 and they used tar for mortar.
 
-# Genesis 11:04
+# Genesis 011:004
 They said,
 {
   Come,
@@ -1294,12 +1711,12 @@ They said,
   on the surface of the whole earth.
 }
 
-# Section: \hfill{}$\geqq$11.05
-# Genesis 11:05
+# Section: \hfill{}[MERE]\tab{}$\geqq$11.05
+# Genesis 011:005
 YHWH came down to see the city and the tower,
 which the children of men built.
 
-# Genesis 11:06
+# Genesis 011:006
 YHWH said,
 {
   Behold!
@@ -1310,22 +1727,22 @@ YHWH said,
   Now nothing will be withheld from them,
   which they intend to do.
 
-  # Genesis 11:07
+  # Genesis 011:007
   Come,
   let's go down,
   and there confuse their language,
   that they may not understand one another's speech.
 }
 
-# Genesis 11:08
+# Genesis 011:008
 So YHWH scattered them abroad from there
 on the surface of all the earth.
 
-# Section: \hfill{}$\geqq$11.08b
-# Genesis 11:08b
+# Section: \hfill{}[MERE]\tab{}$\geqq$11.08b
+# Genesis 011:008b
 They stopped building the city.
 
-# Genesis 11:09
+# Genesis 011:009
 Therefore its name was called Babel,
 because there YHWH confused the language of all the earth.
 
@@ -1333,101 +1750,101 @@ From there,
 YHWH scattered them abroad
 on the surface of all the earth.
 
-# Section: \hfill{}$\geqq$11.10
-# Genesis 11:10
+# Section: \hfill{}[MERE]\tab{}$\geqq$11.10
+# Genesis 011:010
 This is the history of the generations of Shem**:
   Shem** was one hundred years old
   when he became the father of Arpachshad**
   two years after the flood.
 
-  # Genesis 11:11
+  # Genesis 011:011
   Shem** lived 500 years
     after he became the father of Arpachshad**,
     and became the father of more sons and daughters.
 
-# Genesis 11:12
+# Genesis 011:012
 Arpachshad** lived 35 years
   and became the father of Shelah**.
 
-  # Genesis 11:13
+  # Genesis 011:013
   Arpachshad** lived 403 years
     after he became the father of Shelah**,
     and became the father of more sons and daughters.
 
-# Genesis 11:14
+# Genesis 011:014
 Shelah** lived 30 years,
   and became the father of Eber**.
 
-  # Genesis 11:15
+  # Genesis 011:015
   Shelah** lived 403 years
     after he became the father of Eber**,
     and became the father of more sons and daughters.
 
-# Genesis 11:16
+# Genesis 011:016
 Eber** lived 34 years,
   and became the father of Peleg**.
 
-  # Genesis 11:17
+  # Genesis 011:017
   Eber** lived 430 years
     after he became the father of Peleg**,
     and became the father of more sons and daughters.
 
-# Genesis 11:18
+# Genesis 011:018
 Peleg** lived 30 years,
 and became the father of Reu**.
 
-  # Genesis 11:19
+  # Genesis 011:019
   Peleg** lived 209 years
     after he became the father of Reu**,
     and became the father of more sons and daughters.
 
-# Section: \hfill{}$\geqq$11.20
-# Genesis 11:20
+# Section: \hfill{}[MERE]\tab{}$\geqq$11.20
+# Genesis 011:020
 Reu** lived 32 years,
   and became the father of Serug**.
 
-  # Genesis 11:21
+  # Genesis 011:021
   Reu** lived 207 years
     after he became the father of Serug**,
     and became the father of more sons and daughters.
 
-# Genesis 11:22
+# Genesis 011:022
 Serug** lived 30 years,
   and became the father of Nahor**.
 
-  # Genesis 11:23
+  # Genesis 011:023
   Serug** lived 200 years
     after he became the father of Nahor**,
     and became the father of more sons and daughters.
 
-# Genesis 11:24
+# Genesis 011:024
 Nahor** lived 29 years,
   and became the father of Terah**.
 
-  # Genesis 11:25
+  # Genesis 011:025
   Nahor** lived 119 years
     after he became the father of Terah**,
     and became the father of more sons and daughters.
 
-# Genesis 11:26
+# Genesis 011:026
 Terah** lived 70 years,
   and became the father of Abram**, Nahor, and Haran.
 
-# Section: \hfill{}$\geqq$11.27
-# Genesis 11:27
+# Section: \hfill{}[MERE]\tab{}$\geqq$11.27
+# Genesis 011:027
 Now this is the history of the generations of Terah**.
 
 Terah** became the father of Abram**, Nahor, and Haran.
 
 Haran became the father of Lot.
 
-# Genesis 11:28
+# Genesis 011:028
 Haran died in the land of his birth,
 in Ur of the Chaldees,
 while his father Terah** was still alive.
 
-# Section: \hfill{}$\geqq$11.29
-# Genesis 11:29
+# Section: \hfill{}[MERE]\tab{}$\geqq$11.29
+# Genesis 011:029
 Abram** and Nahor married wives.
 
 The name of Abram's** wife was Sarai,
@@ -1435,13 +1852,13 @@ and the name of Nahor's wife was Milcah,
   the daughter of Haran,
 who was also the father of Iscah.
 
-# Genesis 11:30
+# Genesis 011:030
 Sarai was barren.
 
 She had no child.
 
-# Section: \hfill{}$\geqq$11.31
-# Genesis 11:31
+# Section: \hfill{}[MERE]\tab{}$\geqq$11.31
+# Genesis 011:031
 Terah** took
   Abram** his son,
   Lot the son of Haran,
@@ -1454,7 +1871,7 @@ to go into the land of Canaan.
 
 They came to Haran and lived there.
 
-# Genesis 11:32
+# Genesis 011:032
 The days of Terah** were 205 years.
 
 Terah** died in Haran.

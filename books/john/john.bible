@@ -1,6 +1,7 @@
-# Book: John
+# Book:    John
+# Version: MYWEB
 
-# Section: \hfill{}$\geqq$01.01
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$01.01
 # John 01:01
 In the beginning was the Word,
 and the Word was with God,
@@ -23,7 +24,7 @@ and the life was the light of men.
 The light shines in the darkness,
 and the darkness hasn't overcome it.
 
-# Section: \hfill{}$\geqq$01.06
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$01.06
 # John 01:06
 There came a man sent from God
 whose name was John.
@@ -37,7 +38,7 @@ that all might believe through him.
 He was not the light,
 but was sent that he might testify about the light.
 
-# Section: \hfill{}$\geqq$01.09
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$01.09
 # John 01:09
 The true light that enlightens everyone
 was coming into the world.
@@ -62,7 +63,7 @@ who were born,
   nor of the will of man,
   but of God.
 
-# Section: \hfill{}$\geqq$01.14
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$01.14
 # John 01:14
 The Word became flesh and lived among us.
 
@@ -70,7 +71,7 @@ We saw his glory,
 such glory as of the only born Son of the Father,
 full of grace and truth.
 
-# Section: \hfill{}$\geqq$01.15
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$01.15
 # John 01:15
 John testified about him.
 
@@ -84,7 +85,7 @@ saying,
   }
 }
 
-# Section: \hfill{}$\geqq$01.16
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$01.16
 # John 01:16
 From his fullness we all received grace upon grace.
 
@@ -93,6 +94,7 @@ For the law was given through Moses.
 
 Grace and truth were realized through Jesus Christ.
 
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$01.18
 # John 01:18
 No one has seen God at any time.
 
@@ -100,7 +102,7 @@ The only born Son,
 who is in the bosom of the Father,
 has declared him.
 
-# Section: \hfill{}$\geqq$01.19
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$01.19
 # John 01:19
 This is John's testimony,
 when the Jews sent priests and Levites from Jerusalem
@@ -117,7 +119,7 @@ but he declared,
   I am not the Christ.
 }
 
-# PresentationSection: \hfill{}$\geqq$01.21
+# PresentationSection: \hfill{}[MYWEB]\tab{}$\geqq$01.21
 # John 01:21
 They asked him,
 {
@@ -131,7 +133,8 @@ He said,
   I am not.
 }
 
-# PresentationSection: \hfill{}$\geqq$01.21b
+---
+
 # John 01:21b
 {
   Are you the prophet?
@@ -142,7 +145,7 @@ He answered,
   No.
 }
 
-# Section: \hfill{}$\geqq$01.22
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$01.22
 # John 01:22
 They said therefore to him,
 {
@@ -164,7 +167,7 @@ He said,
   as Isaiah the prophet said.
 }
 
-# Section: \hfill{}$\geqq$01.24
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$01.24
 # John 01:24
 The ones who had been sent were from the Pharisees.
 
@@ -193,7 +196,7 @@ John answered them,
 These things were done in Bethany beyond the Jordan,
 where John was baptizing.
 
-# Section: \hfill{}$\geqq$01.29
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$01.29
 # John 01:29
 The next day,
 he saw Jesus coming to him,
@@ -217,7 +220,7 @@ and said,
   that he would be revealed to Israel.
 }
 
-# Section: \hfill{}$\geqq$01.32
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$01.32
 # John 01:32
 John testified, saying,
 {
@@ -242,7 +245,7 @@ John testified, saying,
   that this is the Son of God.
 }
 
-# Section: \hfill{}$\geqq$01.35
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$01.35
 # John 01:35
 Again, the next day,
 John was standing with two of his disciples,
@@ -258,7 +261,7 @@ and said,
 The two disciples heard him speak,
 and they followed Jesus.
 
-# PresentationSection: \hfill{}$\geqq$01.38
+# PresentationSection: \hfill{}[MYWEB]\tab{}$\geqq$01.38
 # John 01:38
 Jesus turned and saw them following,
 and said to them,
@@ -283,7 +286,7 @@ and they stayed with him that day.
 
 It was about the tenth hour.
 
-# Section: \hfill{}$\geqq$01.40
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$01.40
 # John 01:40
 One of the two
 who heard John and followed him
@@ -310,7 +313,7 @@ Jesus looked at him and said,
 
   (which is by interpretation, Peter).
 
-# Section: \hfill{}$\geqq$01.43
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$01.43
 # John 01:43
 On the next day,
 he was determined to go out into Galilee,
@@ -321,7 +324,7 @@ Jesus said to him,
   Follow me.
 }
 
-# Section: \hfill{}$\geqq$01.44
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$01.44
 # John 01:44
 Now Philip was from Bethsaida,
 the city of Andrew and Peter.
@@ -350,7 +353,7 @@ Philip said to him,
   Come and see.
 }
 
-# Section: \hfill{}$\geqq$01.47
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$01.47
 # John 01:47
 Jesus saw Nathanael coming to him,
 and said about him,
@@ -360,7 +363,7 @@ and said about him,
   in whom is no deceit!
 }
 
-# PresentationSection: \hfill{}$\geqq$01.48
+# PresentationSection: \hfill{}[MYWEB]\tab{}$\geqq$01.48
 # John 01:48
 Nathanael said to him,
 {
@@ -374,7 +377,7 @@ Jesus answered him,
   I saw you.
 }
 
-# PresentationSection: \hfill{}$\geqq$01.49
+# PresentationSection: \hfill{}[MYWEB]\tab{}$\geqq$01.49
 # John 01:49
 Nathanael answered him,
 {
@@ -397,7 +400,7 @@ Jesus answered him,
   You will see greater things than these!
 }
 
-# PresentationSection: \hfill{}$\geqq$01.51
+# PresentationSection: \hfill{}[MYWEB]\tab{}$\geqq$01.51
 # John 01:51
 He said to him,
 {
@@ -407,7 +410,7 @@ He said to him,
   ascending and descending on the Son of Man.
 }
 
-# Section: \hfill{}$\geqq$02.01
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$02.01
 # John 02:01
 The third day,
 there was a wedding in Cana of Galilee.
@@ -419,7 +422,7 @@ Jesus also was invited,
   with his disciples,
 to the wedding.
 
-# PresentationSection: \hfill{}$\geqq$02.03
+# PresentationSection: \hfill{}[MYWEB]\tab{}$\geqq$02.03
 # John 02:03
 When the wine ran out,
 Jesus' mother said to him,
@@ -443,7 +446,7 @@ His mother said to the servants,
   do it.
 }
 
-# Section: \hfill{}$\geqq$02.06
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$02.06
 # John 02:06
 Now there were six water pots of stone
 set there after the Jews' way of purifying,
@@ -459,7 +462,7 @@ Jesus said to them,
 
 So they filled them up to the brim.
 
-# PresentationSection: \hfill{}$\geqq$02.08
+# PresentationSection: \hfill{}[MYWEB]\tab{}$\geqq$02.08
 # John 02:08
 He said to them,
 {
@@ -484,14 +487,14 @@ and said to him,
   You have kept the good wine until now!
 }
 
-# PresentationSection: \hfill{}$\geqq$02.11
+# PresentationSection: \hfill{}[MYWEB]\tab{}$\geqq$02.11
 # John 02:11
 This beginning of his signs
 Jesus did in Cana of Galilee,
 and revealed his glory;
 and his disciples believed in him.
 
-# Section: \hfill{}$\geqq$02.12
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$02.12
 # John 02:12
 After this,
 he went down to Capernaum,
@@ -501,7 +504,7 @@ he went down to Capernaum,
   and his disciples;
 and they stayed there a few days.
 
-# Section: \hfill{}$\geqq$02.13
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$02.13
 # John 02:13
 The Passover of the Jews was at hand,
 and Jesus went up to Jerusalem.
@@ -535,7 +538,7 @@ His disciples remembered that it was written,
   Zeal for your house will eat me up.
 }
 
-# Section: \hfill{}$\geqq$02.18
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$02.18
 # John 02:18
 The Jews therefore answered him,
 {
@@ -567,7 +570,7 @@ his disciples remembered that he said this,
 and they believed the Scripture
 and the word which Jesus had said.
 
-# Section: \hfill{}$\geqq$02.23
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$02.23
 # John 02:23
 Now when he was in Jerusalem at the Passover,
 during the feast,
@@ -581,7 +584,7 @@ because he knew everyone,
 and because he didn't need for anyone to testify concerning man;
 for he himself knew what was in man.
 
-# Section: \hfill{}$\geqq$03.01
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$03.01
 # John 03:01
 Now there was a man of the Pharisees named Nicodemus,
 a ruler of the Jews.
@@ -603,7 +606,7 @@ Jesus answered him,
   he can't see God's Kingdom.
 }
 
-# Section: \hfill{}$\geqq$03.04
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$03.04
 # John 03:04
 Nicodemus said to him,
 {
@@ -638,7 +641,7 @@ Jesus answered,
   So is everyone who is born of the Spirit.
 }
 
-# Section: \hfill{}$\geqq$03.09
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$03.09
 # John 03:09
 Nicodemus answered him,
 {
@@ -693,7 +696,7 @@ Jesus answered him,
   in the name of the only born Son of God.
 }
 
-# Section: \hfill{}$\geqq$03.19
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$03.19
 {
   # John 03:19
   This is the judgment,
@@ -712,7 +715,7 @@ Jesus answered him,
   that they have been done in God.
 }
 
-# Section: \hfill{}$\geqq$03.22
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$03.22
 # John 03:22
 After these things,
 Jesus came with his disciples
@@ -728,7 +731,7 @@ They came and were baptized;
 # John 03:24
 for John was not yet thrown into prison.
 
-# Section: \hfill{}$\geqq$03.25
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$03.25
 # John 03:25
 Therefore a dispute arose on the part of John's disciples
 with some Jews about purification.
@@ -774,7 +777,7 @@ John answered,
   but I must decrease.
 }
 
-# Section: \hfill{}$\geqq$03.31
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$03.31
 {
   # John 03:31
   He who comes from above is above all.
@@ -806,7 +809,7 @@ John answered,
   but the wrath of God remains on him.
 }
 
-# Section: \hfill{}$\geqq$04.01
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$04.01
 # John 04:01
 Therefore when the Lord knew
 that the Pharisees had heard
@@ -816,7 +819,7 @@ that Jesus was making and baptizing more disciples than John
 # John 04:03
 he left Judea and departed into Galilee.
 
-# Section: \hfill{}$\geqq$04.04
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$04.04
 # John 04:04
 He needed to pass through Samaria.
 
@@ -833,7 +836,7 @@ sat down by the well.
 
 It was about the sixth hour.
 
-# Section: \hfill{}$\geqq$04.07
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$04.07
 # John 04:07
 A woman of Samaria came to draw water.
 
@@ -845,7 +848,7 @@ Jesus said to her,
 # John 04:08
 For his disciples had gone away into the city to buy food.
 
-# Section: \hfill{}$\geqq$04.09
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$04.09
 # John 04:09
 The Samaritan woman therefore said to him,
 {
@@ -870,7 +873,7 @@ Jesus answered her,
   and he would have given you living water.
 }
 
-# Section: \hfill{}$\geqq$04.11
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$04.11
 # John 04:11
 The woman said to him,
 {
@@ -898,7 +901,7 @@ Jesus answered her,
     will become in him a well of water springing up to eternal life.
 }
 
-# Section: \hfill{}$\geqq$04.15
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$04.15
 # John 04:15
 The woman said to him,
 {
@@ -936,7 +939,7 @@ Jesus said to her,
   This you have said truly.
 }
 
-# Section: \hfill{}$\geqq$04.19
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$04.19
 # John 04:19
 The woman said to him,
 {
@@ -975,7 +978,7 @@ Jesus said to her,
   and those who worship him must worship in spirit and truth.
 }
 
-# Section: \hfill{}$\geqq$04.25
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$04.25
 # John 04:25
 The woman said to him,
 {
@@ -993,7 +996,7 @@ Jesus said to her,
   the one who speaks to you.
 }
 
-# Section: \hfill{}$\geqq$04.27
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$04.27
 # John 04:27
 Just then, his disciples came.
 
@@ -1008,7 +1011,7 @@ or,
   Why do you speak with her?
 }
 
-# Section: \hfill{}$\geqq$04.28
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$04.28
 # John 04:28
 So the woman left her water pot,
 went away into the city,
@@ -1026,7 +1029,7 @@ and said to the people,
 They went out of the city,
 and were coming to him.
 
-# Section: \hfill{}$\geqq$04.31
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$04.31
 # John 04:31
 In the meanwhile,
 the disciples urged him,
@@ -1081,7 +1084,7 @@ Jesus said to them,
   and you have entered into their labor.
 }
 
-# Section: \hfill{}$\geqq$04.39
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$04.39
 # John 04:39
 From that city many of the Samaritans believed in him
 because of the word of the woman,
@@ -1109,7 +1112,7 @@ They said to the woman,
   the Savior of the world.
 }
 
-# Section: \hfill{}$\geqq$04.43
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$04.43
 # John 04:43
 After the two days
 he went out from there
@@ -1127,7 +1130,7 @@ having seen all the things
   at the feast,
 for they also went to the feast.
 
-# Section: \hfill{}$\geqq$04.46
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$04.46
 # John 04:46
 Jesus came therefore again to Cana of Galilee,
 where he made the water into wine.
@@ -1166,7 +1169,7 @@ Jesus said to him,
 The man believed the word that Jesus spoke to him,
 and he went his way.
 
-# Section: \hfill{}$\geqq$04.51
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$04.51
 # John 04:51
 As he was going down,
 his servants met him and reported,
@@ -1198,7 +1201,7 @@ in which Jesus said to him,
 This is again the second sign that Jesus did,
 having come out of Judea into Galilee.
 
-# Section: \hfill{}$\geqq$05.01
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$05.01
 # John 05:01
 After these things,
 there was a feast of the Jews,
@@ -1231,7 +1234,7 @@ Whoever stepped in first
 after the stirring of the water
 was healed of whatever disease he had.
 
-# Section: \hfill{}$\geqq$05.05
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$05.05
 # John 05:05
 A certain man was there
 who had been sick for thirty-eight years.
@@ -1267,7 +1270,7 @@ Immediately,
 the man was made well,
 and took up his mat and walked.
 
-# Section: \hfill{}$\geqq$05.10
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$05.10
 Now that day was a Sabbath.
 
 # John 05:10
@@ -1303,7 +1306,7 @@ But he who was healed didn't know who it was,
 for Jesus had withdrawn,
 a crowd being in the place.
 
-# Section: \hfill{}$\geqq$05.14
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$05.14
 # John 05:14
 Afterward Jesus found him in the temple and said to him,
 {
@@ -1336,7 +1339,7 @@ because he not only broke the Sabbath,
 but also called God his own Father,
 making himself equal with God.
 
-# Section: \hfill{}$\geqq$05.19
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$05.19
 # John 05:19
 Jesus therefore answered them,
 {
@@ -1369,7 +1372,7 @@ Jesus therefore answered them,
   doesn't honor the Father who sent him.
 }
 
-# Section: \hfill{}$\geqq$05.24
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$05.24
 {
   # John 05:24
   Most certainly I tell you,
@@ -1379,7 +1382,7 @@ Jesus therefore answered them,
   but has passed out of death into life.
 }
 
-# Section: \hfill{}$\geqq$05.25
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$05.25
 {
   # John 05:25
   Most certainly I tell you,
@@ -1397,7 +1400,7 @@ Jesus therefore answered them,
   because he is a son of man.
 }
 
-# Section: \hfill{}$\geqq$05.28
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$05.28
 {
   # John 05:28
   Don't marvel at this,
@@ -1412,7 +1415,7 @@ Jesus therefore answered them,
     to the resurrection of judgment.
 }
 
-# Section: \hfill{}$\geqq$05.30
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$05.30
 {
   # John 05:30
   I can of myself do nothing.
@@ -1434,7 +1437,7 @@ Jesus therefore answered them,
   is true.
 }
 
-# Section: \hfill{}$\geqq$05.33
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$05.33
 {
   # John 05:33
   You have sent to John,
@@ -1458,7 +1461,7 @@ Jesus therefore answered them,
   that the Father has sent me.
 }
 
-# Section: \hfill{}$\geqq$05.37
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$05.37
 {
   # John 05:37
   The Father himself,
@@ -1473,7 +1476,7 @@ Jesus therefore answered them,
   because you don't believe him whom he sent.
 }
 
-# Section: \hfill{}$\geqq$05.39
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$05.39
 {
   # John 05:39
   You search the Scriptures,
@@ -1485,7 +1488,7 @@ Jesus therefore answered them,
   that you may have life.
 }
 
-# Section: \hfill{}$\geqq$05.41
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$05.41
 {
   # John 05:41
   I don't receive glory from men.
@@ -1507,7 +1510,7 @@ Jesus therefore answered them,
   and you don't seek the glory that comes from the only God?
 }
 
-# Section: \hfill{}$\geqq$05.45
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$05.45
 {
   # John 05:45
   Don't think that I will accuse you to the Father.
@@ -1526,7 +1529,7 @@ Jesus therefore answered them,
   how will you believe my words?
 }
 
-# Section: \hfill{}$\geqq$06.01
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$06.01
 # John 06:01
 After these things,
 Jesus went away to the other side of the sea of Galilee,
@@ -1546,7 +1549,7 @@ Now the Passover,
 the feast of the Jews,
 was at hand.
 
-# Section: \hfill{}$\geqq$06.05
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$06.05
 # John 06:05
 Jesus therefore,
 lifting up his eyes
@@ -1579,7 +1582,7 @@ said to him,
   but what are these among so many?
 }
 
-# Section: \hfill{}$\geqq$06.10
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$06.10
 # John 06:10
 Jesus said,
 {
@@ -1611,7 +1614,7 @@ So they gathered them up,
 and filled twelve baskets with broken pieces from the five barley loaves,
 which were left over by those who had eaten.
 
-# Section: \hfill{}$\geqq$06.14
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$06.14
 # John 06:14
 When therefore the people saw the sign which Jesus did,
 they said,
@@ -1626,7 +1629,7 @@ and take him by force
 to make him king,
 withdrew again to the mountain by himself.
 
-# Section: \hfill{}$\geqq$06.16
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$06.16
 # John 06:16
 When evening came,
 his disciples went down to the sea.
@@ -1659,7 +1662,7 @@ They were willing therefore to receive him into the boat.
 
 Immediately the boat was at the land where they were going.
 
-# Section: \hfill{}$\geqq$06.22
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$06.22
 # John 06:22
 On the next day,
 the multitude that stood on the other side of the sea
@@ -1680,7 +1683,7 @@ nor his disciples,
 they themselves got into the boats and came to Capernaum,
 seeking Jesus.
 
-# Section: \hfill{}$\geqq$06.25
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$06.25
 # John 06:25
 When they found him on the other side of the sea,
 they asked him,
@@ -1705,7 +1708,7 @@ Jesus answered them,
   For God the Father has sealed him.
 }
 
-# Section: \hfill{}$\geqq$06.28
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$06.28
 # John 06:28
 They said therefore to him,
 {
@@ -1720,7 +1723,7 @@ Jesus answered them,
   that you believe in him whom he has sent.
 }
 
-# Section: \hfill{}$\geqq$06.30
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$06.30
 # John 06:30
 They said therefore to him,
 {
@@ -1750,7 +1753,7 @@ Jesus therefore said to them,
   and gives life to the world.
 }
 
-# Section: \hfill{}$\geqq$06.34
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$06.34
 # John 06:34
 They said therefore to him,
 {
@@ -1796,7 +1799,7 @@ Jesus said to them,
   and I will raise him up at the last day.
 }
 
-# Section: \hfill{}$\geqq$06.41
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$06.41
 # John 06:41
 The Jews therefore murmured concerning him,
 because he said,
@@ -1843,7 +1846,7 @@ Therefore Jesus answered them,
   He has seen the Father.
 }
 
-# Section: \hfill{}$\geqq$06.47
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$06.47
 {
   # John 06:47
   Most certainly, I tell you,
@@ -1870,7 +1873,7 @@ Therefore Jesus answered them,
   is my flesh.
 }
 
-# Section: \hfill{}$\geqq$06.52
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$06.52
 # John 06:52
 The Jews therefore contended with one another,
 saying,
@@ -1909,12 +1912,12 @@ Jesus therefore said to them,
   He who eats this bread will live forever.
 }
 
-# Section: \hfill{}$\geqq$06.59
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$06.59
 # John 06:59
 He said these things in the synagogue,
 as he taught in Capernaum.
 
-# Section: \hfill{}$\geqq$06.60
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$06.60
 # John 06:60
 Therefore many of his disciples,
 when they heard this,
@@ -1948,7 +1951,7 @@ said to them,
   But there are some of you who don't believe.
 }
 
-# Section: \hfill{}$\geqq$06.65
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$06.65
 For Jesus knew from the beginning who they were who didn't believe,
 and who it was who would betray him.
 
@@ -1960,12 +1963,12 @@ He said,
   unless it is given to him by my Father.
 }
 
-# Section: \hfill{}$\geqq$06.66
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$06.66
 # John 06:66
 At this,
 many of his disciples went back and walked no more with him.
 
-# Section: \hfill{}$\geqq$06.67
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$06.67
 # John 06:67
 Jesus said therefore to the twelve,
 {
@@ -1998,14 +2001,14 @@ the son of Simon Iscariot,
 for it was he who would betray him,
 being one of the twelve.
 
-# Section: \hfill{}$\geqq$07.01
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$07.01
 # John 07:01
 After these things,
 Jesus was walking in Galilee,
 for he wouldn't walk in Judea,
 because the Jews sought to kill him.
 
-# Section: \hfill{}$\geqq$07.02
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$07.02
 # John 07:02
 Now the feast of the Jews,
 the Feast of Booths,
@@ -2056,7 +2059,7 @@ then he also went up,
 not publicly,
 but as it were in secret.
 
-# Section: \hfill{}$\geqq$07.11
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$07.11
 # John 07:11
 The Jews therefore sought him at the feast,
 and said,
@@ -2083,12 +2086,12 @@ Others said,
 # John 07:13
 Yet no one spoke openly of him for fear of the Jews.
 
-# Section: \hfill{}$\geqq$07.14
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$07.14
 # John 07:14
 But when it was now the middle of the feast,
 Jesus went up into the temple and taught.
 
-# Section: \hfill{}$\geqq$07.15
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$07.15
 # John 07:15
 The Jews therefore marveled,
 saying,
@@ -2120,7 +2123,7 @@ Jesus therefore answered them,
   Why do you seek to kill me?
 }
 
-# Section: \hfill{}$\geqq$07.20
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$07.20
 # John 07:20
 The multitude answered,
 {
@@ -2150,7 +2153,7 @@ Jesus answered them,
   but judge righteous judgment.
 }
 
-# Section: \hfill{}$\geqq$07.25
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$07.25
 # John 07:25
 Therefore some of them of Jerusalem said,
 {
@@ -2188,7 +2191,7 @@ teaching and saying,
   and he sent me.
 }
 
-# Section: \hfill{}$\geqq$07.30
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$07.30
 # John 07:30
 They sought therefore to take him;
 but no one laid a hand on him,
@@ -2205,7 +2208,7 @@ They said,
   will he?
 }
 
-# Section: \hfill{}$\geqq$07.32
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$07.32
 # John 07:32
 The Pharisees heard the multitude
 murmuring these things concerning him,
@@ -2246,7 +2249,7 @@ The Jews therefore said among themselves,
   ?
 }
 
-# Section: \hfill{}$\geqq$07.37
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$07.37
 # John 07:37
 Now on the last and greatest day of the feast,
 Jesus stood and cried out,
@@ -2267,7 +2270,7 @@ which those believing in him were to receive.
 For the Holy Spirit was not yet given,
 because Jesus wasn't yet glorified.
 
-# Section: \hfill{}$\geqq$07.40
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$07.40
 # John 07:40
 Many of the multitude therefore,
 when they heard these words,
@@ -2302,7 +2305,7 @@ So a division arose in the multitude because of him.
 Some of them would have arrested him,
 but no one laid hands on him.
 
-# Section: \hfill{}$\geqq$07.45
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$07.45
 # John 07:45
 The officers therefore came to the chief priests and Pharisees;
 and they said to them,
@@ -2332,7 +2335,6 @@ The Pharisees therefore answered them,
 # John 07:50
 Nicodemus (he who came to him by night,
 being one of them) said to them,
-
 # John 07:51
 {
   Does our law judge a man
@@ -2348,7 +2350,7 @@ They answered him,
   Search and see that no prophet has arisen out of Galilee.
 }
 
-# Section: \hfill{}$\geqq$07.53
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$07.53
 # John 07:53
 Everyone went to his own house,
 # John 08:01
@@ -2361,7 +2363,7 @@ and all the people came to him.
 
 He sat down and taught them.
 
-# Section: \hfill{}$\geqq$08.03
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$08.03
 # John 08:03
 The scribes and the Pharisees brought a woman taken in adultery.
 
@@ -2406,7 +2408,7 @@ went out one by one,
 beginning from the oldest,
 even to the last.
 
-# Section: \hfill{}$\geqq$08.10
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$08.10
 Jesus was left alone with the woman where she was,
 in the middle.
 
@@ -2437,7 +2439,7 @@ Jesus said,
   sin no more.
 }
 
-# Section: \hfill{}$\geqq$08.12
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$08.12
 # John 08:12
 Again, therefore,
 Jesus spoke to them,
@@ -2449,7 +2451,7 @@ saying,
   but will have the light of life.
 }
 
-# Section: \hfill{}$\geqq$08.13
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$08.13
 # John 08:13
 The Pharisees therefore said to him,
 {
@@ -2488,7 +2490,7 @@ Jesus answered them,
   and the Father who sent me testifies about me.
 }
 
-# Section: \hfill{}$\geqq$08.19
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$08.19
 # John 08:19
 They said therefore to him,
 {
@@ -2510,7 +2512,7 @@ as he taught in the temple.
 Yet no one arrested him,
 because his hour had not yet come.
 
-# Section: \hfill{}$\geqq$08.21
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$08.21
 # John 08:21
 Jesus said therefore again to them,
 {
@@ -2535,7 +2537,7 @@ The Jews therefore said,
   ?
 }
 
-# Section: \hfill{}$\geqq$08.23
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$08.23
 # John 08:23
 He said to them,
 {
@@ -2553,7 +2555,7 @@ He said to them,
   you will die in your sins.
 }
 
-# Section: \hfill{}$\geqq$08.25
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$08.25
 # John 08:25
 They said therefore to him,
 {
@@ -2593,7 +2595,7 @@ Jesus therefore said to them,
   for I always do the things that are pleasing to him.
 }
 
-# Section: \hfill{}$\geqq$08.30
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$08.30
 # John 08:30
 As he spoke these things,
 many believed in him.
@@ -2648,7 +2650,7 @@ Jesus answered them,
   and you also do the things which you have seen with your father.
 }
 
-# Section: \hfill{}$\geqq$08.39
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$08.39
 # John 08:39
 They answered him,
 {
@@ -2670,7 +2672,7 @@ Jesus said to them,
   You do the works of your father.
 }
 
-# Section: \hfill{}$\geqq$08.41
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$08.41
 They said to him,
 {
   We were not born of sexual immorality.
@@ -2723,7 +2725,7 @@ Therefore Jesus said to them,
   because you are not of God.
 }
 
-# Section: \hfill{}$\geqq$08.48
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$08.48
 # John 08:48
 Then the Jews answered him,
 {
@@ -2748,7 +2750,7 @@ Jesus answered,
   he will never see death.
 }
 
-# Section: \hfill{}$\geqq$08.52
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$08.52
 # John 08:52
 Then the Jews said to him,
 {
@@ -2799,7 +2801,7 @@ Jesus answered,
   He saw it and was glad.
 }
 
-# Section: \hfill{}$\geqq$08.57
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$08.57
 # John 08:57
 The Jews therefore said to him,
 {
@@ -2822,7 +2824,7 @@ but Jesus hid himself and went out of the temple,
 having gone through the middle of them,
 and so passed by.
 
-# Section: \hfill{}$\geqq$09.01
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$09.01
 # John 09:01
 As he passed by,
 he saw a man blind from birth.
@@ -2855,7 +2857,7 @@ Jesus answered,
   I am the light of the world.
 }
 
-# Section: \hfill{}$\geqq$09.06
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$09.06
 # John 09:06
 When he had said this,
 he spat on the ground,
@@ -2874,7 +2876,7 @@ So he went away,
 washed,
 and came back seeing.
 
-# Section: \hfill{}$\geqq$09.08
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$09.08
 # John 09:08
 Therefore the neighbors
 and those who saw that he was blind before
@@ -2899,7 +2901,7 @@ He said,
   I am he.
 }
 
-# Section: \hfill{}$\geqq$09.10
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$09.10
 # John 09:10
 They therefore were asking him,
 {
@@ -2934,7 +2936,7 @@ He said,
 # John 09:13
 They brought him who had been blind to the Pharisees.
 
-# Section: \hfill{}$\geqq$09.14
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$09.14
 # John 09:14
 It was a Sabbath
 when Jesus made the mud and opened his eyes.
@@ -2964,7 +2966,7 @@ Others said,
 
 So there was division among them.
 
-# Section: \hfill{}$\geqq$09.17
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$09.17
 # John 09:17
 Therefore they asked the blind man again,
 {
@@ -2977,7 +2979,7 @@ He said,
   He is a prophet.
 }
 
-# Section: \hfill{}$\geqq$09.18
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$09.18
 # John 09:18
 The Jews therefore didn't believe concerning him,
 that he had been blind and had received his sight,
@@ -3023,7 +3025,7 @@ Therefore his parents said,
   Ask him.
 }
 
-# Section: \hfill{}$\geqq$09.24
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$09.24
 # John 09:24
 So they called the man who was blind a second time,
 and said to him,
@@ -3043,7 +3045,7 @@ He therefore answered,
   now I see.
 }
 
-# Section: \hfill{}$\geqq$09.26
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$09.26
 # John 09:26
 They said to him again,
 {
@@ -3064,7 +3066,7 @@ He answered them,
   do you?
 }
 
-# Section: \hfill{}$\geqq$09.28
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$09.28
 # John 09:28
 They insulted him and said,
 {
@@ -3101,7 +3103,7 @@ The man answered them,
   he could do nothing.
 }
 
-# Section: \hfill{}$\geqq$09.34
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$09.34
 # John 09:34
 They answered him,
 {
@@ -3111,7 +3113,7 @@ They answered him,
 
 Then they threw him out.
 
-# Section: \hfill{}$\geqq$09.35
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$09.35
 # John 09:35
 Jesus heard that they had thrown him out,
 and finding him,
@@ -3142,7 +3144,7 @@ He said,
 
 and he worshiped him.
 
-# Section: \hfill{}$\geqq$09.39
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$09.39
 # John 09:39
 Jesus said,
 {
@@ -3171,7 +3173,7 @@ Jesus said to them,
   Therefore your sin remains.
 }
 
-# Section: \hfill{}$\geqq$10.01
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$10.01
 {
   # John 10:01
   Most certainly, I tell you,
@@ -3204,7 +3206,7 @@ Jesus said to them,
 Jesus spoke this parable to them,
 but they didn't understand what he was telling them.
 
-# Section: \hfill{}$\geqq$10.07
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$10.07
 # John 10:07
 Jesus therefore said to them again,
 {
@@ -3216,7 +3218,7 @@ Jesus therefore said to them again,
   but the sheep didn't listen to them.
 }
 
-# Section: \hfill{}$\geqq$10.09
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$10.09
 {
   # John 10:09
   I am the door.
@@ -3233,7 +3235,7 @@ Jesus therefore said to them again,
   and may have it abundantly.
 }
 
-# Section: \hfill{}$\geqq$10.11
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$10.11
 {
   # John 10:11
   I am the good shepherd.
@@ -3255,7 +3257,7 @@ Jesus therefore said to them again,
   because he is a hired hand and doesn't care for the sheep.
 }
 
-# Section: \hfill{}$\geqq$10.14
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$10.14
 {
   # John 10:14
   I am the good shepherd.
@@ -3291,7 +3293,7 @@ Jesus therefore said to them again,
   I received this commandment from my Father.
 }
 
-# Section: \hfill{}$\geqq$10.19
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$10.19
 # John 10:19
 Therefore a division arose again among the Jews
 because of these words.
@@ -3314,7 +3316,7 @@ Others said,
   is it?
 }
 
-# Section: \hfill{}$\geqq$10.22
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$10.22
 # John 10:22
 It was the Feast of the Dedication at Jerusalem.
 
@@ -3366,7 +3368,7 @@ Jesus answered them,
   I and the Father are one.
 }
 
-# Section: \hfill{}$\geqq$10.31
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$10.31
 # John 10:31
 Therefore the Jews took up stones again to stone him.
 
@@ -3388,7 +3390,7 @@ The Jews answered him,
   make yourself God.
 }
 
-# Section: \hfill{}$\geqq$10.34
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$10.34
 # John 10:34
 Jesus answered them,
 {
@@ -3431,7 +3433,7 @@ Jesus answered them,
 They sought again to seize him,
 and he went out of their hand.
 
-# Section: \hfill{}$\geqq$10.40
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$10.40
 # John 10:40
 He went away again beyond the Jordan
 into the place where John was baptizing at first,
@@ -3449,7 +3451,7 @@ They said,
 # John 10:42
 Many believed in him there.
 
-# Section: \hfill{}$\geqq$11.01
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$11.01
 # John 11:01
 Now a certain man was sick,
 Lazarus from Bethany,
@@ -3469,7 +3471,7 @@ saying,
   he for whom you have great affection is sick.
 }
 
-# Section: \hfill{}$\geqq$11.04
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$11.04
 # John 11:04
 But when Jesus heard it,
 he said,
@@ -3488,7 +3490,7 @@ and Lazarus.
 When therefore he heard that he was sick,
 he stayed two days in the place where he was.
 
-# Section: \hfill{}$\geqq$11.07
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$11.07
 # John 11:07
 Then after this he said to the disciples,
 {
@@ -3519,7 +3521,7 @@ Jesus answered,
   because the light isn't in him.
 }
 
-# Section: \hfill{}$\geqq$11.11
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$11.11
 # John 11:11
 He said these things,
 and after that,
@@ -3563,7 +3565,7 @@ said to his fellow disciples,
   that we may die with him.
 }
 
-# Section: \hfill{}$\geqq$11.17
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$11.17
 # John 11:17
 So when Jesus came,
 he found that he had been in the tomb four days already.
@@ -3581,7 +3583,7 @@ Then when Martha heard that Jesus was coming,
 she went and met him,
 but Mary stayed in the house.
 
-# Section: \hfill{}$\geqq$11.21
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$11.21
 # John 11:21
 Therefore Martha said to Jesus,
 {
@@ -3631,7 +3633,7 @@ She said to him,
   he who comes into the world.
 }
 
-# Section: \hfill{}$\geqq$11.28
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$11.28
 # John 11:28
 When she had said this,
 she went away and called Mary, her sister,
@@ -3668,7 +3670,7 @@ saying to him,
   my brother wouldn't have died.
 }
 
-# Section: \hfill{}$\geqq$11.33
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$11.33
 # John 11:33
 When Jesus therefore saw her weeping,
 and the Jews weeping who came with her,
@@ -3687,7 +3689,7 @@ They told him,
 # John 11:35
 Jesus wept.
 
-# Section: \hfill{}$\geqq$11.36
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$11.36
 # John 11:36
 The Jews therefore said,
 {
@@ -3702,7 +3704,7 @@ Some of them said,
   have also kept this man from dying?
 }
 
-# Section: \hfill{}$\geqq$11.38
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$11.38
 # John 11:38
 Jesus therefore,
 again groaning in himself,
@@ -3738,7 +3740,7 @@ So they took away the stone
 from the place
 where the dead man was lying.
 
-# Section: \hfill{}$\geqq$11.41
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$11.41
 Jesus lifted up his eyes and said,
 {
   Father,
@@ -3774,7 +3776,7 @@ who came to Mary
 and saw what Jesus did
 believed in him.
 
-# Section: \hfill{}$\geqq$11.46
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$11.46
 # John 11:46
 But some of them went away to the Pharisees
 and told them the things which Jesus had done.
@@ -3815,7 +3817,7 @@ and not for the nation only,
 but that he might also gather together into one
 the children of God who are scattered abroad.
 
-# Section: \hfill{}$\geqq$11.53
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$11.53
 # John 11:53
 So from that day forward they took counsel
 that they might put him to death.
@@ -3827,7 +3829,7 @@ to a city called Ephraim.
 
 He stayed there with his disciples.
 
-# Section: \hfill{}$\geqq$11.55
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$11.55
 # John 11:55
 Now the Passover of the Jews was at hand.
 
@@ -3851,7 +3853,7 @@ that if anyone knew where he was,
 he should report it,
 that they might seize him.
 
-# Section: \hfill{}$\geqq$12.01
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$12.01
 # John 12:01
 Then,
 six days before the Passover,
@@ -3876,7 +3878,7 @@ and wiped his feet with her hair.
 
 The house was filled with the fragrance of the ointment.
 
-# Section: \hfill{}$\geqq$12.04
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$12.04
 # John 12:04
 Then Judas Iscariot, Simon's son,
 one of his disciples,
@@ -3908,7 +3910,7 @@ But Jesus said,
   but you don't always have me.
 }
 
-# Section: \hfill{}$\geqq$12.09
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$12.09
 # John 12:09
 A large crowd therefore of the Jews learned that he was there;
 and they came,
@@ -3922,7 +3924,7 @@ But the chief priests conspired to put Lazarus to death also,
 because on account of him
 many of the Jews went away and believed in Jesus.
 
-# Section: \hfill{}$\geqq$12.12
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$12.12
 # John 12:12
 On the next day
 a great multitude had come to the feast.
@@ -3939,7 +3941,7 @@ and cried out,
   the King of Israel!
 }
 
-# Section: \hfill{}$\geqq$12.14
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$12.14
 # John 12:14
 Jesus,
 having found a young donkey,
@@ -3955,7 +3957,7 @@ As it is written,
   sitting on a donkey's colt.
 }
 
-# Section: \hfill{}$\geqq$12.16
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$12.16
 # John 12:16
 His disciples didn't understand these things at first,
 but when Jesus was glorified,
@@ -3983,7 +3985,7 @@ The Pharisees therefore said among themselves,
   The world has gone after him.
 }
 
-# Section: \hfill{}$\geqq$12.20
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$12.20
 # John 12:20
 Now there were certain Greeks
 among those who went up to worship at the feast.
@@ -4004,7 +4006,7 @@ and in turn,
 Andrew came with Philip,
 and they told Jesus.
 
-# Section: \hfill{}$\geqq$12.23
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$12.23
 # John 12:23
 Jesus answered them,
 {
@@ -4056,7 +4058,7 @@ saying,
   I have both glorified it and will glorify it again.
 }
 
-# Section: \hfill{}$\geqq$12.29
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$12.29
 # John 12:29
 Therefore the multitude who stood by and heard it
 said that it had thundered.
@@ -4087,7 +4089,7 @@ Jesus answered,
 But he said this,
 signifying by what kind of death he should die.
 
-# Section: \hfill{}$\geqq$12.34
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$12.34
 # John 12:34
 The multitude answered him,
 {
@@ -4119,7 +4121,7 @@ Jesus therefore said to them,
   that you may become children of light.
 }
 
-# Section: \hfill{}$\geqq$12.37
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$12.37
 Jesus said these things,
 and he departed and hid himself from them.
 
@@ -4152,7 +4154,7 @@ for Isaiah said again:
 Isaiah said these things when he saw his glory,
 and spoke of him.
 
-# Section: \hfill{}$\geqq$12.42
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$12.42
 # John 12:42
 Nevertheless,
 even many of the rulers believed in him,
@@ -4161,7 +4163,7 @@ so that they wouldn't be put out of the synagogue,
 # John 12:43
 for they loved men's praise more than God's praise.
 
-# Section: \hfill{}$\geqq$12.44
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$12.44
 # John 12:44
 Jesus cried out and said,
 {
@@ -4205,7 +4207,7 @@ Jesus cried out and said,
   so I speak.
 }
 
-# Section: \hfill{}$\geqq$13.01
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$13.01
 # John 13:01
 Now before the feast of the Passover,
 Jesus,
@@ -4214,7 +4216,7 @@ that he would depart from this world to the Father,
 having loved his own who were in the world,
 he loved them to the end.
 
-# Section: \hfill{}$\geqq$13.02
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$13.02
 # John 13:02
 During supper,
 the devil having already put into the heart of Judas Iscariot,
@@ -4235,7 +4237,7 @@ Then he poured water into the basin,
 and began to wash the disciples' feet
 and to wipe them with the towel that was wrapped around him.
 
-# Section: \hfill{}$\geqq$13.06
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$13.06
 # John 13:06
 Then he came to Simon Peter.
 
@@ -4288,7 +4290,7 @@ therefore he said,
   You are not all clean.
 }
 
-# Section: \hfill{}$\geqq$13.12
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$13.12
 # John 13:12
 So when he had washed their feet,
 put his outer garment back on,
@@ -4331,7 +4333,7 @@ he said to them,
   blessed are you if you do them.
 }
 
-# Section: \hfill{}$\geqq$13.18
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$13.18
 {
   # John 13:18
   I don't speak concerning all of you.
@@ -4356,7 +4358,7 @@ he said to them,
   receives him who sent me.
 }
 
-# Section: \hfill{}$\geqq$13.21
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$13.21
 # John 13:21
 When Jesus had said this,
 he was troubled in spirit,
@@ -4412,7 +4414,7 @@ Then Jesus said to him,
   What you do, do quickly.
 }
 
-# Section: \hfill{}$\geqq$13.28
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$13.28
 # John 13:28
 Now nobody at the table knew why he said this to him.
 
@@ -4432,7 +4434,7 @@ he went out immediately.
 
 It was night.
 
-# Section: \hfill{}$\geqq$13.31
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$13.31
 # John 13:31
 When he had gone out,
 Jesus said,
@@ -4470,7 +4472,7 @@ Jesus said,
   if you have love for one another.
 }
 
-# Section: \hfill{}$\geqq$13.36
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$13.36
 # John 13:36
 Simon Peter said to him,
 {
@@ -4484,7 +4486,7 @@ Jesus answered,
   but you will follow afterwards.
 }
 
-# Section: \hfill{}$\geqq$13.37
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$13.37
 # John 13:37
 Peter said to him,
 {
@@ -4503,7 +4505,7 @@ Jesus answered him,
   until you have denied me three times.
 }
 
-# Section: \hfill{}$\geqq$14.01
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$14.01
 # John 14:01
 {
   Don't let your heart be troubled.
@@ -4531,7 +4533,7 @@ Jesus answered him,
   and you know the way.
 }
 
-# Section: \hfill{}$\geqq$14.05
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$14.05
 # John 14:05
 Thomas said to him,
 {
@@ -4560,7 +4562,7 @@ Jesus said to him,
   you know him and have seen him.
 }
 
-# Section: \hfill{}$\geqq$14.08
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$14.08
 # John 14:08
 Philip said to him,
 {
@@ -4597,7 +4599,7 @@ Jesus said to him,
   and the Father in me;
   or else believe me for the very works' sake.
 
-# Section: \hfill{}$\geqq$14.12
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$14.12
   # John 14:12
   Most certainly I tell you,
   he who believes in me,
@@ -4616,14 +4618,14 @@ Jesus said to him,
   I will do it.
 }
 
-# Section: \hfill{}$\geqq$14.15
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$14.15
 {
   # John 14:15
   If you love me,
   keep my commandments.
 }
 
-# Section: \hfill{}$\geqq$14.16
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$14.16
 {
   # John 14:16
   I will pray to the Father,
@@ -4638,7 +4640,7 @@ Jesus said to him,
   for he lives with you and will be in you.
 }
 
-# Section: \hfill{}$\geqq$14.18
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$14.18
 {
   # John 14:18
   I will not leave you orphans.
@@ -4646,7 +4648,7 @@ Jesus said to him,
   I will come to you.
 }
 
-# Section: \hfill{}$\geqq$14.19
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$14.19
 {
   # John 14:19
   Yet a little while,
@@ -4662,7 +4664,7 @@ Jesus said to him,
   and I in you.
 }
 
-# Section: \hfill{}$\geqq$14.21
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$14.21
 {
   # John 14:21
   One who has my commandments and keeps them,
@@ -4673,7 +4675,7 @@ Jesus said to him,
   and will reveal myself to him.
 }
 
-# Section: \hfill{}$\geqq$14.22
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$14.22
 # John 14:22
 Judas (not Iscariot) said to him,
 {
@@ -4682,7 +4684,7 @@ Judas (not Iscariot) said to him,
   and not to the world?
 }
 
-# Section: \hfill{}$\geqq$14.23
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$14.23
 # John 14:23
 Jesus answered him,
 {
@@ -4693,7 +4695,7 @@ Jesus answered him,
   and we will come to him and make our home with him.
 }
 
-# Section: \hfill{}$\geqq$14.24
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$14.24
 {
   # John 14:24
   He who doesn't love me
@@ -4703,7 +4705,7 @@ Jesus answered him,
   but the Father's who sent me.
 }
 
-# Section: \hfill{}$\geqq$14.25
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$14.25
 {
   # John 14:25
   I have said these things to you
@@ -4716,7 +4718,7 @@ Jesus answered him,
   and will remind you of all that I said to you.
 }
 
-# Section: \hfill{}$\geqq$14.27
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$14.27
 {
   # John 14:27
   Peace I leave with you.
@@ -4729,7 +4731,7 @@ Jesus answered him,
   neither let it be fearful.
 }
 
-# Section: \hfill{}$\geqq$14.28
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$14.28
 {
   # John 14:28
   You heard how I told you,
@@ -4762,7 +4764,7 @@ Jesus answered him,
   even so I do.
 }
 
-# Section: \hfill{}$\geqq$15.01
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$15.01
 {
   Arise,
   let's go from here.
@@ -4796,7 +4798,7 @@ Jesus answered him,
   unless you remain in me.
 }
 
-# Section: \hfill{}$\geqq$15.05
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$15.05
 {
   # John 15:05
   I am the vine.
@@ -4825,7 +4827,7 @@ Jesus answered him,
   and so you will be my disciples.
 }
 
-# Section: \hfill{}$\geqq$15.09
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$15.09
 {
   # John 15:09
   Even as the Father has loved me,
@@ -4845,7 +4847,7 @@ Jesus answered him,
   and that your joy may be made full.
 }
 
-# Section: \hfill{}$\geqq$15.12
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$15.12
 {
   # John 15:12
   This is my commandment,
@@ -4868,7 +4870,7 @@ Jesus answered him,
   I have made known to you.
 }
 
-# Section: \hfill{}$\geqq$15.16
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$15.16
 {
   # John 15:16
   You didn't choose me,
@@ -4883,7 +4885,7 @@ Jesus answered him,
   that you may love one another.
 }
 
-# Section: \hfill{}$\geqq$15.18
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$15.18
 {
   # John 15:18
   If the world hates you,
@@ -4938,7 +4940,7 @@ Jesus answered him,
   }
 }
 
-# Section: \hfill{}$\geqq$15.26
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$15.26
 {
   # John 15:26
   When the Counselor has come,
@@ -4952,7 +4954,7 @@ Jesus answered him,
   because you have been with me from the beginning.
 }
 
-# Section: \hfill{}$\geqq$16.01
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$16.01
 {
   # John 16:01
   I have said these things to you
@@ -4967,7 +4969,7 @@ Jesus answered him,
   will think that he offers service to God.
 }
 
-# Section: \hfill{}$\geqq$16.03
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$16.03
 {
   # John 16:03
   They will do these things
@@ -4988,7 +4990,7 @@ Jesus answered him,
   }
 }
 
-# Section: \hfill{}$\geqq$16.06
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$16.06
 {
   # John 16:06
   But because I have told you these things,
@@ -5021,7 +5023,7 @@ Jesus answered him,
     because the prince of this world has been judged.
 }
 
-# Section: \hfill{}$\geqq$16.12
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$16.12
 {
   # John 16:12
   I still have many things to tell you,
@@ -5049,7 +5051,7 @@ Jesus answered him,
   and will declare it to you.
 }
 
-# Section: \hfill{}$\geqq$16.16
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$16.16
 {
   # John 16:16
   A little while,
@@ -5059,7 +5061,7 @@ Jesus answered him,
   and you will see me.
 }
 
-# Section: \hfill{}$\geqq$16.17
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$16.17
 # John 16:17
 Some of his disciples therefore said to one another,
 {
@@ -5092,7 +5094,7 @@ They said therefore,
   We don't know what he is saying.
 }
 
-# Section: \hfill{}$\geqq$16.19
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$16.19
 # John 16:19
 Therefore Jesus perceived that they wanted to ask him,
 and he said to them,
@@ -5131,7 +5133,7 @@ and he said to them,
   and no one will take your joy away from you.
 }
 
-# Section: \hfill{}$\geqq$16.23
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$16.23
 {
   # John 16:23
   In that day you will ask me no questions.
@@ -5149,7 +5151,7 @@ and he said to them,
   that your joy may be made full.
 }
 
-# Section: \hfill{}$\geqq$16.25
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$16.25
 {
   # John 16:25
   I have spoken these things to you in figures of speech.
@@ -5159,7 +5161,7 @@ and he said to them,
   but will tell you plainly about the Father.
 }
 
-# Section: \hfill{}$\geqq$16.26
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$16.26
 {
   # John 16:26
   In that day you will ask in my name;
@@ -5178,7 +5180,7 @@ and he said to them,
   I leave the world and go to the Father.
 }
 
-# Section: \hfill{}$\geqq$16.29
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$16.29
 # John 16:29
 His disciples said to him,
 {
@@ -5193,7 +5195,7 @@ His disciples said to him,
   By this we believe that you came from God.
 }
 
-# Section: \hfill{}$\geqq$16.31
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$16.31
 # John 16:31
 Jesus answered them,
 {
@@ -5221,7 +5223,7 @@ Jesus answered them,
   I have overcome the world.
 }
 
-# Section: \hfill{}$\geqq$17.01
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$17.01
 # John 17:01
 Jesus said these things,
 then lifting up his eyes to heaven,
@@ -5237,7 +5239,7 @@ he said,
   to all whom you have given him.
 }
 
-# Section: \hfill{}$\geqq$17.03
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$17.03
 {
   # John 17:03
   This is eternal life,
@@ -5247,7 +5249,7 @@ he said,
   Jesus Christ.
 }
 
-# Section: \hfill{}$\geqq$17.04
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$17.04
 {
   # John 17:04
   I glorified you on the earth.
@@ -5262,7 +5264,7 @@ he said,
   before the world existed.
 }
 
-# Section: \hfill{}$\geqq$17.06
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$17.06
 {
   # John 17:06
   I revealed your name to the people
@@ -5284,7 +5286,7 @@ he said,
   They have believed that you sent me.
 }
 
-# Section: \hfill{}$\geqq$17.09
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$17.09
 {
   # John 17:09
   I pray for them.
@@ -5294,7 +5296,7 @@ he said,
   for they are yours.
 }
 
-# Section: \hfill{}$\geqq$17.10
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$17.10
 {
   # John 17:10
   All things that are mine are yours,
@@ -5307,7 +5309,7 @@ he said,
   and I am coming to you.
 }
 
-# Section: \hfill{}$\geqq$17.12
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$17.12
 {
   Holy Father,
   keep them through your name which you have given me,
@@ -5315,7 +5317,7 @@ he said,
   even as we are.
 }
 
-# Section: \hfill{}$\geqq$17.12
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$17.12
 {
   # John 17:12
   While I was with them in the world,
@@ -5332,13 +5334,13 @@ he said,
   that they may have my joy made full in themselves.
 }
 
-# Section: \hfill{}$\geqq$17.14
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$17.14
 {
   # John 17:14
   I have given them your word.
 }
 
-# Section: \hfill{}$\geqq$17.15
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$17.15
 {
   The world hated them because they are not of the world,
   even as I am not of the world.
@@ -5352,7 +5354,7 @@ he said,
   even as I am not of the world.
 }
 
-# Section: \hfill{}$\geqq$17.17
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$17.17
 {
   # John 17:17
   Sanctify them in your truth.
@@ -5360,21 +5362,21 @@ he said,
   Your word is truth.
 }
 
-# Section: \hfill{}$\geqq$17.18
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$17.18
 {
   # John 17:18
   As you sent me into the world,
   even so I have sent them into the world.
 }
 
-# Section: \hfill{}$\geqq$17.19
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$17.19
 {
   # John 17:19
   For their sakes I sanctify myself,
   that they themselves also may be sanctified in truth.
 }
 
-# Section: \hfill{}$\geqq$17.20
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$17.20
 {
   # John 17:20
   Not for these only do I pray,
@@ -5399,7 +5401,7 @@ he said,
   even as you loved me.
 }
 
-# Section: \hfill{}$\geqq$17.24
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$17.24
 {
   # John 17:24
   Father,
@@ -5421,7 +5423,7 @@ he said,
   and I in them.
 }
 
-# Section: \hfill{}$\geqq$18.01
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$18.01
 # John 18:01
 When Jesus had spoken these words,
 he went out with his disciples over the brook Kidron,
@@ -5440,7 +5442,7 @@ having taken a detachment of soldiers and officers
 from the chief priests and the Pharisees,
 came there with lanterns, torches, and weapons.
 
-# Section: \hfill{}$\geqq$18.04
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$18.04
 # John 18:04
 Jesus therefore,
 knowing all the things that were happening to him,
@@ -5472,7 +5474,7 @@ When therefore he said to them,
 
 they went backward and fell to the ground.
 
-# Section: \hfill{}$\geqq$18.07
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$18.07
 # John 18:07
 Again therefore he asked them,
 {
@@ -5500,7 +5502,7 @@ that the word might be fulfilled which he spoke,
   I have lost none.
 }
 
-# Section: \hfill{}$\geqq$18.10
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$18.10
 # John 18:10
 Simon Peter therefore,
 having a sword, drew it,
@@ -5518,7 +5520,7 @@ Jesus therefore said to Peter,
   shall I not surely drink it?
 }
 
-# Section: \hfill{}$\geqq$18.12
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$18.12
 # John 18:12
 So the detachment,
 the commanding officer,
@@ -5534,7 +5536,7 @@ Now it was Caiaphas who advised the Jews
 that it was expedient
 that one man should perish for the people.
 
-# Section: \hfill{}$\geqq$18.15
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$18.15
 # John 18:15
 Simon Peter followed Jesus,
 as did another disciple.
@@ -5550,7 +5552,7 @@ who was known to the high priest,
 went out and spoke to her who kept the door,
 and brought in Peter.
 
-# Section: \hfill{}$\geqq$18.17
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$18.17
 # John 18:17
 Then the maid who kept the door said to Peter,
 {
@@ -5562,7 +5564,7 @@ He said,
   I am not.
 }
 
-# Section: \hfill{}$\geqq$18.18
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$18.18
 # John 18:18
 Now the servants and the officers were standing there,
 having made a fire of coals,
@@ -5573,7 +5575,7 @@ They were warming themselves.
 Peter was with them,
 standing and warming himself.
 
-# Section: \hfill{}$\geqq$18.19
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$18.19
 # John 18:19
 The high priest therefore asked Jesus
 about his disciples and about his teaching.
@@ -5618,7 +5620,7 @@ Jesus answered him,
 Annas sent him bound to Caiaphas,
 the high priest.
 
-# Section: \hfill{}$\geqq$18.25
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$18.25
 # John 18:25
 Now Simon Peter was standing and warming himself.
 
@@ -5633,7 +5635,7 @@ He denied it and said,
   I am not.
 }
 
-# Section: \hfill{}$\geqq$18.26
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$18.26
 # John 18:26
 One of the servants of the high priest,
 being a relative of him whose ear Peter had cut off,
@@ -5646,7 +5648,7 @@ said,
 Peter therefore denied it again,
 and immediately the rooster crowed.
 
-# Section: \hfill{}$\geqq$18.28
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$18.28
 # John 18:28
 They led Jesus therefore from Caiaphas into the Praetorium.
 
@@ -5685,7 +5687,7 @@ that the word of Jesus might be fulfilled,
 which he spoke,
 signifying by what kind of death he should die.
 
-# Section: \hfill{}$\geqq$18.33
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$18.33
 # John 18:33
 Pilate therefore entered again into the Praetorium,
 called Jesus,
@@ -5723,7 +5725,7 @@ Jesus answered,
   But now my Kingdom is not from here.
 }
 
-# Section: \hfill{}$\geqq$18.37
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$18.37
 # John 18:37
 Pilate therefore said to him,
 {
@@ -5741,7 +5743,7 @@ Jesus answered,
   Everyone who is of the truth listens to my voice.
 }
 
-# Section: \hfill{}$\geqq$18.38
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$18.38
 # John 18:38
 Pilate said to him,
 {
@@ -5772,7 +5774,7 @@ saying,
 
 Now Barabbas was a robber.
 
-# Section: \hfill{}$\geqq$19.01
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$19.01
 # John 19:01
 So Pilate then took Jesus and flogged him.
 
@@ -5788,7 +5790,7 @@ They kept saying,
 
 and they kept slapping him.
 
-# Section: \hfill{}$\geqq$19.04
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$19.04
 # John 19:04
 Then Pilate went out again,
 and said to them,
@@ -5832,7 +5834,7 @@ The Jews answered him,
   because he made himself the Son of God.
 }
 
-# Section: \hfill{}$\geqq$19.08
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$19.08
 # John 19:08
 When therefore Pilate heard this saying,
 he was more afraid.
@@ -5846,7 +5848,7 @@ and said to Jesus,
 
 But Jesus gave him no answer.
 
-# Section: \hfill{}$\geqq$19.10
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$19.10
 # John 19:10
 Pilate therefore said to him,
 {
@@ -5867,7 +5869,7 @@ Jesus answered,
   he who delivered me to you has greater sin.
 }
 
-# Section: \hfill{}$\geqq$19.12
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$19.12
 # John 19:12
 At this,
 Pilate was seeking to release him,
@@ -5894,7 +5896,7 @@ but in Hebrew,
   Gabbatha.
 }
 
-# Section: \hfill{}$\geqq$19.14
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$19.14
 # John 19:14
 Now it was the Preparation Day of the Passover,
 at about the sixth hour.
@@ -5924,7 +5926,7 @@ The chief priests answered,
   We have no king but Caesar!
 }
 
-# Section: \hfill{}$\geqq$19.16
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$19.16
 # John 19:16
 So then he delivered him to them to be crucified.
 
@@ -5949,7 +5951,7 @@ and with him two others,
 on either side one,
 and Jesus in the middle.
 
-# Section: \hfill{}$\geqq$19.19
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$19.19
 # John 19:19
 Pilate wrote a title also,
 and put it on the cross.
@@ -5989,7 +5991,7 @@ Pilate answered,
   I have written.
 }
 
-# Section: \hfill{}$\geqq$19.23
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$19.23
 # John 19:23
 Then the soldiers,
 when they had crucified Jesus,
@@ -6017,7 +6019,7 @@ which says,
 
 Therefore the soldiers did these things.
 
-# Section: \hfill{}$\geqq$19.25
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$19.25
 # John 19:25
 But standing by Jesus' cross were
   his mother,
@@ -6041,7 +6043,7 @@ Then he said to the disciple,
 From that hour,
 the disciple took her to his own home.
 
-# Section: \hfill{}$\geqq$19.28
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$19.28
 # John 19:28
 After this, Jesus,
 seeing that all things were now finished,
@@ -6065,7 +6067,7 @@ he said,
 
 Then he bowed his head and gave up his spirit.
 
-# Section: \hfill{}$\geqq$19.31
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$19.31
 # John 19:31
 Therefore the Jews,
 because it was the Preparation Day,
@@ -6087,7 +6089,7 @@ However,
 one of the soldiers pierced his side with a spear,
 and immediately blood and water came out.
 
-# Section: \hfill{}$\geqq$19.35
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$19.35
 # John 19:35
 He who has seen has testified,
 and his testimony is true.
@@ -6108,7 +6110,7 @@ Again another Scripture says,
   They will look on him whom they pierced.
 }
 
-# Section: \hfill{}$\geqq$19.38
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$19.38
 # John 19:38
 After these things,
 Joseph of Arimathaea,
@@ -6144,7 +6146,7 @@ because of the Jews' Preparation Day
 (for the tomb was near at hand),
 they laid Jesus there.
 
-# Section: \hfill{}$\geqq$20.01
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$20.01
 # John 20:01
 Now on the first day of the week,
 Mary Magdalene went early,
@@ -6170,7 +6172,7 @@ and they went toward the tomb.
 # John 20:04
 They both ran together.
 
-# Section: \hfill{}$\geqq$20.05
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$20.05
 The other disciple outran Peter
 and came to the tomb first.
 
@@ -6199,7 +6201,7 @@ and he saw and believed.
 For as yet they didn't know the Scripture,
 that he must rise from the dead.
 
-# Section: \hfill{}$\geqq$20.10
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$20.10
 # John 20:10
 So the disciples went away again to their own homes.
 
@@ -6225,7 +6227,7 @@ She said to them,
   and I don't know where they have laid him.
 }
 
-# Section: \hfill{}$\geqq$20.14
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$20.14
 # John 20:14
 When she had said this,
 she turned around and saw Jesus standing,
@@ -6282,7 +6284,7 @@ Mary Magdalene came and told the disciples
 that she had seen the Lord,
 and that he had said these things to her.
 
-# Section: \hfill{}$\geqq$20.19
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$20.19
 # John 20:19
 When therefore it was evening on that day,
 the first day of the week,
@@ -6324,7 +6326,7 @@ and said to them,
   they have been retained.
 }
 
-# Section: \hfill{}$\geqq$20.24
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$20.24
 # John 20:24
 But Thomas,
 one of the twelve,
@@ -6345,7 +6347,7 @@ But he said to them,
   I will not believe.
 }
 
-# Section: \hfill{}$\geqq$20.26
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$20.26
 # John 20:26
 After eight days,
 again his disciples were inside
@@ -6387,7 +6389,7 @@ Jesus said to him,
   Blessed are those who have not seen and have believed.
 }
 
-# Section: \hfill{}$\geqq$20.30
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$20.30
 # John 20:30
 Therefore
 Jesus did many other signs
@@ -6400,7 +6402,7 @@ that Jesus is the Christ, the Son of God,
 and that believing
 you may have life in his name.
 
-# Section: \hfill{}$\geqq$21.01
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$21.01
 # John 21:01
 After these things,
 Jesus revealed himself again
@@ -6416,7 +6418,7 @@ Nathanael of Cana in Galilee,
 and the sons of Zebedee,
 and two others of his disciples were together.
 
-# Section: \hfill{}$\geqq$21.03
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$21.03
 # John 21:03
 Simon Peter said to them,
 {
@@ -6433,7 +6435,7 @@ They immediately went out and entered into the boat.
 That night,
 they caught nothing.
 
-# Section: \hfill{}$\geqq$21.04
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$21.04
 # John 21:04
 But when day had already come,
 Jesus stood on the beach;
@@ -6477,7 +6479,7 @@ But the other disciples came in the little boat
 but about two hundred cubits away),
 dragging the net full of fish.
 
-# Section: \hfill{}$\geqq$21.09
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$21.09
 # John 21:09
 So when they got out on the land,
 they saw a fire of coals there,
@@ -6520,7 +6522,7 @@ This is now the third time
 that Jesus was revealed to his disciples
 after he had risen from the dead.
 
-# Section: \hfill{}$\geqq$21.15
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$21.15
 # John 21:15
 So when they had eaten their breakfast,
 Jesus said to Simon Peter,
@@ -6540,7 +6542,7 @@ He said to him,
   Feed my lambs.
 }
 
-# Section: \hfill{}$\geqq$21.16
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$21.16
 # John 21:16
 He said to him again a second time,
 {
@@ -6559,7 +6561,7 @@ He said to him,
   Tend my sheep.
 }
 
-# Section: \hfill{}$\geqq$21.17
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$21.17
 # John 21:17
 He said to him the third time,
 {
@@ -6603,7 +6605,7 @@ he said to him,
   Follow me.
 }
 
-# Section: \hfill{}$\geqq$21.20
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$21.20
 # John 21:20
 Then Peter,
 turning around,
@@ -6643,7 +6645,7 @@ but,
   what is that to you?
 }
 
-# Section: \hfill{}$\geqq$21.24
+# Section: \hfill{}[MYWEB]\tab{}$\geqq$21.24
 # John 21:24
 This is the disciple who testifies about these things,
 and wrote these things.

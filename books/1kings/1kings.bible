@@ -3831,31 +3831,35 @@ which he spoke by Joshua the son of Nun.
 Elijah the Tishbite,
 who was one of the settlers of Gilead,
 said to Ahab,
-``As Yahweh,
-the God of Israel,
-lives,
-before whom I stand,
-there shall not be dew nor rain these years,
-but according to my word.''
+{
+  As Yahweh,
+  the God of Israel,
+  lives,
+  before whom I stand,
+  there shall not be dew nor rain these years,
+  but according to my word.
+}
 
 # 1Kings 17:02
 Then Yahweh's word came to him,
 saying,
-
 # 1Kings 17:03
-``Go away from here,
-turn eastward,
-and hide yourself by the brook Cherith,
-that is before the Jordan.
+{
+  Go away from here,
+  turn eastward,
+  and hide yourself by the brook Cherith,
+  that is before the Jordan.
 
-# 1Kings 17:04
-You shall drink from the brook.
+  # 1Kings 17:04
+  You shall drink from the brook.
 
-I have commanded the ravens to feed you there.''
+  I have commanded the ravens to feed you there.
+}
 
 # 1Kings 17:05
 So he went and did according to Yahweh's word,
-for he went and lived by the brook Cherith that is before the Jordan.
+for he went and lived by the brook Cherith
+that is before the Jordan.
 
 # 1Kings 17:06
 The ravens brought him bread and meat in the morning,
@@ -3870,15 +3874,16 @@ because there was no rain in the land.
 # 1Kings 17:08
 Yahweh's word came to him,
 saying,
-
 # 1Kings 17:09
-``Arise,
-go to Zarephath,
-which belongs to Sidon,
-and stay there.
+{
+  Arise,
+  go to Zarephath,
+  which belongs to Sidon,
+  and stay there.
 
-Behold,
-I have commanded a widow there to sustain you.''
+  Behold,
+  I have commanded a widow there to sustain you.
+}
 
 # 1Kings 17:10
 So he arose and went to Zarephath;
@@ -3887,8 +3892,10 @@ behold,
 a widow was there gathering sticks.
 
 He called to her and said,
-``Please get me a little water in a jar,
-that I may drink.''
+{
+  Please get me a little water in a jar,
+  that I may drink.
+}
 
 # 1Kings 17:11
 As she was going to get it,
@@ -3897,15 +3904,17 @@ he called to her and said,
 
 # 1Kings 17:12
 She said,
-``As Yahweh your God lives,
-I don't have anything baked,
-but only a handful of meal in a jar and a little oil in a jar.
+{
+  As Yahweh your God lives,
+  I don't have anything baked,
+  but only a handful of meal in a jar and a little oil in a jar.
 
-Behold,
-I am gathering two sticks,
-that I may go in and bake it for me and my son,
-that we may eat it,
-and die.''
+  Behold,
+  I am gathering two sticks,
+  that I may go in and bake it for me and my son,
+  that we may eat it,
+  and die.
+}
 
 # 1Kings 17:13
 Elijah said to her,
@@ -3995,9 +4004,11 @@ After many days,
 Yahweh's word came to Elijah,
 in the third year,
 saying,
-``Go,
-show yourself to Ahab;
-and I will send rain on the earth.''
+{
+  Go,
+  show yourself to Ahab;
+  and I will send rain on the earth.
+}
 
 # 1Kings 18:02
 Elijah went to show himself to Ahab.
@@ -4008,22 +4019,26 @@ The famine was severe in Samaria.
 Ahab called Obadiah,
 who was over the household.
 
-(Now Obadiah feared Yahweh greatly;
-
-# 1Kings 18:04
-for when Jezebel cut off Yahweh's prophets,
-Obadiah took one hundred prophets,
-and hid them fifty to a cave,
-and fed them with bread and water.)
+(
+  Now Obadiah feared Yahweh greatly;
+  # 1Kings 18:04
+  for when Jezebel cut off Yahweh's prophets,
+  Obadiah took one hundred prophets,
+  and hid them fifty to a cave,
+  and fed them with bread and water.
+)
 
 # 1Kings 18:05
 Ahab said to Obadiah,
-``Go through the land,
-to all the springs of water,
-and to all the brooks.
+{
+  Go through the land,
+  to all the springs of water,
+  and to all the brooks.
 
-Perhaps we may find grass and save the horses and mules alive,
-that we not lose all the animals.''
+  Perhaps we may find grass
+  and save the horses and mules alive,
+  that we not lose all the animals.
+}
 
 # 1Kings 18:06
 So they divided the land between them to pass throughout it.
@@ -4039,67 +4054,90 @@ Elijah met him.
 He recognized him,
 and fell on his face,
 and said,
-``Is it you,
-my lord Elijah?''
+{
+  Is it you,
+  my lord Elijah?
+}
 
 # 1Kings 18:08
 He answered him,
-``It is I.
+{
+  It is I.
 
-Go,
-tell your lord,
-‘Behold,
-Elijah is here!’''
+  Go,
+  tell your lord,
+  {
+    Behold,
+    Elijah is here!
+  }
+}
 
 # 1Kings 18:09
 He said,
-``How have I sinned,
-that you would deliver your servant into the hand of Ahab,
-to kill me?
+{
+  How have I sinned,
+  that you would deliver your servant into the hand of Ahab,
+  to kill me?
 
-# 1Kings 18:10
-As Yahweh your God lives,
-there is no nation or kingdom where my lord has not sent to seek you.
+  # 1Kings 18:10
+  As Yahweh your God lives,
+  there is no nation or kingdom
+  where my lord has not sent to seek you.
 
-When they said,
-‘He is not here,’ he took an oath of the kingdom and nation that they didn't find you.
+  When they said,
+  {
+    He is not here,
+  }
 
-# 1Kings 18:11
-Now you say,
-‘Go,
-tell your lord,
-``Behold,
-Elijah is here.''’
+  he took an oath of the kingdom and nation that they didn't find you.
 
-# 1Kings 18:12
-It will happen,
-as soon as I leave you,
-that Yahweh's Spirit will carry you I don't know where;
-and so when I come and tell Ahab,
-and he can't find you,
-he will kill me.
+  # 1Kings 18:11
+  Now you say,
+  {
+    Go,
+    tell your lord,
+    {
+      Behold, Elijah is here.
+    }
+  }
 
-But I,
-your servant,
-have feared Yahweh from my youth.
+  # 1Kings 18:12
+  It will happen,
+  as soon as I leave you,
+  that Yahweh's Spirit will carry you I don't know where;
+  and so when I come and tell Ahab,
+  and he can't find you,
+  he will kill me.
 
-# 1Kings 18:13
-Wasn't it told my lord what I did when Jezebel killed Yahweh's prophets,
-how I hid one hundred men of Yahweh's prophets with fifty to a cave,
-and fed them with bread and water?
+  But I,
+  your servant,
+  have feared Yahweh from my youth.
 
-# 1Kings 18:14
-Now you say,
-‘Go,
-tell your lord,
-``Behold,
-Elijah is here''.’ He will kill me.''
+  # 1Kings 18:13
+  Wasn't it told my lord what I did when Jezebel killed Yahweh's prophets,
+  how I hid one hundred men of Yahweh's prophets with fifty to a cave,
+  and fed them with bread and water?
+
+  # 1Kings 18:14
+  Now you say,
+  {
+    Go,
+    tell your lord,
+    {
+      Behold, Elijah is here.
+    }
+  }
+
+  He will kill me.
+}
 
 # 1Kings 18:15
 Elijah said,
-``As Yahweh of Armies lives,
-before whom I stand,
-I will surely show myself to him today.''
+{
+  As Yahweh of Armies lives,
+  before whom I stand,
+  I will surely show myself to him today.
+}
 
 # 1Kings 18:16
 So Obadiah went to meet Ahab,
@@ -4109,21 +4147,26 @@ and Ahab went to meet Elijah.
 # 1Kings 18:17
 When Ahab saw Elijah,
 Ahab said to him,
-``Is that you,
-you troubler of Israel?''
+{
+  Is that you,
+  you troubler of Israel?
+}
 
 # 1Kings 18:18
 He answered,
-``I have not troubled Israel,
-but you and your father's house,
-in that you have forsaken Yahweh's commandments and you have followed the Baals.
+{
+  I have not troubled Israel,
+  but you and your father's house,
+  in that you have forsaken Yahweh's commandments
+  and you have followed the Baals.
 
-# 1Kings 18:19
-Now therefore send,
-and gather to me all Israel to Mount Carmel,
-and four hundred fifty of the prophets of Baal,
-and four hundred of the prophets of the Asherah,
-who eat at Jezebel's table.''
+  # 1Kings 18:19
+  Now therefore send,
+  and gather to me all Israel to Mount Carmel,
+  and four hundred fifty of the prophets of Baal,
+  and four hundred of the prophets of the Asherah,
+  who eat at Jezebel's table.
+}
 
 # 1Kings 18:20
 So Ahab sent to all the children of Israel,
@@ -4132,12 +4175,14 @@ and gathered the prophets together to Mount Carmel.
 # 1Kings 18:21
 Elijah came near to all the people,
 and said,
-``How long will you waver between the two sides?
+{
+  How long will you waver between the two sides?
 
-If Yahweh is God,
-follow him;
-but if Baal,
-then follow him.''
+  If Yahweh is God,
+  follow him;
+  but if Baal,
+  then follow him.
+}
 
 The people didn't say a word.
 

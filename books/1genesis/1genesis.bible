@@ -1,1453 +1,722 @@
 ﻿# Book: Genesis
 
-# vnoremap ,, :1,.Tabu /\v[+\|]/<CR>
-# nnoremap ,, vip:Tabu /\v[+\|]/<CR>
+Notation:
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+  God[E]       \dotfill Elohim
+  over[b]       \dotfill beit --- base meaning ``in'' or ``on'' interpreted other ways
+  face[p]      \dotfill plural in Hebrew text
+  leaves[s]    \dotfill singular in Hebrew text
+  but[w]       \dotfill waw --- base meaning ``and'' interpreted other ways
+  was[x]       \dotfill word inferred from the Hebrew text
 
 # Section: \hfill{}[MERE]\tab{}$\geqq$01.01
-# Genesis 01:01
-In <the> beginning,
-God [Elohim] created the heavens [skies] and the earth [land].
+# Genesis 001:001
+In the[x] beginning,
+God[E] created the heavens [skies] and the earth [land].
 
+# Genesis 001:002
+And the earth was formless and void.
 
+And darkness was[x] upon the[x] face[p] of the[x] deep.
 
-
-
-
-# Genesis 01:02
-And the earth [land] was without form [confusion] and void [empty].
-
-
-
-
-
-
-# Genesis 01:02b
-And darkness <was> over <the> face[s] of <the> deep.
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Genesis 01:02b
-And <the> Spirit [breath] of God [Elohim]
-  was hovering over <the> face[s] of the waters.
-
-
-
-
-
-
-
-
-
+And the[x] Spirit of God[E] was hovering over the[x] face[p] of the waters.
 
 # Section: First Day\hfill{}[MERE]\tab{}$\geqq$01.03
-# Genesis 01:03
-And God [Elohim] said:
+# Genesis 001:003
+And God[E] said:
 {
   Let there be light.
 }
 
+And there was light.
 
+# Genesis 001:004
+And God[E] saw the light --- that it[x] was[x] good.
 
+And God[E] divided between the light and the darkness.
 
+# Genesis 001:005
+And God[E] called to the[x] light,
+{
+  Day;
+}
 
+and to the[x] darkness, he called,
+{
+  Night.
+}
 
-
-# Genesis 01:03c
-And it was light.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Genesis 01:04
-And God [Elohim] saw the light,
-that <it was> good.
-
-
-
-
-
-
-
-
-# Genesis 01:04b
-And God [Elohim] divided
-between the light and the darkness.
-
-
-
-
-
-
-
-
-
-# Genesis 01:05
-And God [Elohim] called to <the> light, Day;
-and to <the> darkness, he called, Night.
-
-
-
-
-
-
-
-
-# Genesis 01:05b
-And there was sunset [evening],
-and there was sunrise [morning]:
+And there was sunset,
+and there was sunrise:
 day one.
 
-
-
-
-
-
-
 # Section: Second Day\hfill{}[MERE]\tab{}$\geqq$01.06
-# Genesis 01:06
-And God said:
+# Genesis 001:006
+And God[E] said:
 {
-  Let there be <an> expanse
-    in <the> midst of the waters,
+  Let there be an[x] expanse in the[x] middle of the waters.
 
-
-
-
-
-
-
-
-  And let it divide [separate]
-    between waters and waters.
+  And let it divide between waters and waters.
 }
 
+# Genesis 001:007
+And God[E] made the expanse.
 
+And He divided
+between the waters
+  that are[x] under the expanse
+and the waters
+  that are[x] above the expanse.
 
-
-
-
-
-
-# Genesis 01:07
-And God made the expanse.
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Genesis 01:07b
-And He divided between [separated]
-  the waters that <were> under the expanse
-  and the waters that <were> above the expanse.
-
-
-
-
-# Genesis 01:07c
 And it was so.
 
+# Genesis 001:008
+And God[E] called to the expanse,
+{
+  Heavens [Skies].
+}
 
-
-
-
-
-# Genesis 01:08
-And God [Elohim] called to the expanse, Heavens [Skies].
-
-
-
-
-
-
-
-# Section: Second Day\hfill{}$\geqq$01.08b
-# Genesis 01:08b
-And there was sunset [evening],
-and there was sunrise [morning],
-<the> second day.
-
-
-
-
-
-
-
-
-
-
-
+# PresentationSection: Second Day\hfill{}$\geqq$01.08b
+And there was sunset,
+and there was sunrise:
+the[x] second day.
 
 # Section: Third Day\hfill{}[MERE]\tab{}$\geqq$01.09
-# Genesis 01:09
-And God [Elohim] said:
+# Genesis 001:009
+And God[E] said:
 {
-  Let the waters be gathered [bound] together
-    under the heavens [skies]
-    into one place
-  and let the dry <land> appear.
+  Let the waters be collected
+    under the heavens
+    into one place,
+  and let the dry land[x] appear.
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Genesis 01:09b
 And it was so.
 
+# Genesis 001:010
+And God[E] called to the dry land[x],
+{
+  Earth.
+}
 
+And to the[x] gathering of the waters, He called,
+{
+  Seas.
+}
 
-
-
-
-
-
-
-
-# Genesis 01:10
-And God [Elohim] called to the dry <land>, Earth;
-and to the gathering of waters, He called, Seas. \hfill [bound-together waters]
-
-
-
-
-
-
-# Genesis 01:10b
-And God saw that <it was> good.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+And God[E] saw that it[x] was[x] good.
 
 # PresentationSection: Third Day\hfill{}[MERE]\tab{}$\geqq$01.11
-# Genesis 01:11
-And God [Elohim] said:
+# Genesis 001:011
+And God[E] said:
 {
-  Let the earth [land] sprout grass [vegetation],
-  the herb yielding seed,
-  <and> the fruit tree <that> makes [yields] fruit
-  according to its kind,
-  whose seed <is> in itself on the earth [land].
+  Let the earth sprout [tadshe] grass [deshe],
+  the[x] herb [esev] yielding [mazria] seed;
+  the[x] fruit tree producing [o-seh] fruit
+    according to its kind,
+    whose seed is[x] in itself[x] upon the earth.
 }
 
-
-
-
-# Genesis 01:11b
 And it was so.
 
+# Genesis 001:012
+And the earth brought forth [towtse] grass [deshe],
+the[x] herb [esev] yielding [mazria] seed
+  according to its kind,
+and the[x] tree producing [oseh] fruit,
+  which has[x] seed in itself[x],
+  according to its kind.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Genesis 01:12
-And the earth [land] sprouted [brought forth] grass,
-the herb yielding seed
-  according to its kind [species],
-and the tree yielding fruit,
-  which <has> seed in it<self>,
-  according to its kind [species].
-
-
-
-
-
-
-
-
-# Genesis 01:12b
-And God [Elohim] saw that <it was> good.
-
-
-
-
-
-
-
-
+And God[E] saw that it[x] was[x] good.
 
 # PresentationSection: Third Day\hfill{}[MERE]\tab{}$\geqq$01.13
-# Genesis 01:13
-And there was sunset [evening],
-and there was sunrise [morning],
-<the> third day.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+# Genesis 001:013
+And there was sunset,
+and there was sunrise:
+the[x] third day.
 
 # Section: Fourth Day\hfill{}[MERE]\tab{}$\geqq$01.14
-# Genesis 01:14
-And God [Elohim] said:
+# Genesis 001:014
+And God[E] said:
 {
   Let there be lights
-  in the expanse [firmament] of the heavens [skies]
+  in the[x] expanse of the heavens
   to divide between the day and the night.
 
-
-
-
-
-
-
-
-
-  # Genesis 01:14b
   And let them be
     for signs
     and for seasons
     and for days and years.
 
-
-
-
-
-
-
-
-
-
-
-  # Genesis 01:15
+  # Genesis 001:015
   And let them be for lights
-  in the expanse of the heavens [skies]
-  to give light upon the earth.
+  in the expanse of the heavens
+  to shine light upon the earth.
 }
 
-
-
-
-
-
-# Genesis 01:15b
 And it was so.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # PresentationSection: Fourth Day\hfill{}[MERE]\tab{}$\geqq$01.16
-# Genesis 01:16
-And God made the two great lights ---
-  the greater light to govern [rule] the day
-  and the lesser light to govern [rule] the night ---
+# Genesis 001:016
+And God[E] made the two great lights ---
+  the greater light to rule the day
+  and the lesser light to rule the night ---
 and the stars.
 
-
-
-
-
-
-
-
-
-
-
-# Genesis 01:17
-And God set them in the expanse [firmament] of the heavens [skies]
-to give light [shine] upon the earth,
-# Genesis 01:18
-and to govern [rule] in the day and in the night,
+# Genesis 001:017
+And God[E] put them
+in the expanse of the heavens
+to shine light upon the earth,
+# Genesis 001:018
+and to rule in the day and in the night,
 and to divide between the light and the darkness.
 
+And God[E] saw that it[x] was[x] good.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Genesis 01:18b
-And God [Elohim] saw that <it was> good.
-
-
-
-
-
-
-
-
-# Genesis 01:19
-And there was sunset [evening],
-and there was sunrise [morning]:
-the fourth day.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+# Genesis 001:019
+And there was sunset,
+and there was sunrise:
+the[x] fourth day.
 
 # Section: Fifth Day\hfill{}[MERE]\tab{}$\geqq$01.20
-# Genesis 01:20
-And God said:
+# Genesis 001:020
+And God[E] said:
 {
-  Let the waters abound with an abundance of living life,
-  and let birds fly above the earth
-  across <the> face of the expanse <of> the heavens. \hfill [skies]
+  The waters will swarm with[x] a[x] swarm of living [chayah] life [nefesh];
+  and each[x] bird will fly above the earth
+  upon the[x] face[p] of the expanse of the heavens.
 }
 
-# Genesis 01:21
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-#      ,                   ,                      , .                                     , Punc
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-And God created the great sea monsters
-and every living life that moves, \hfill [Hebraic]
-with which the waters abounded,
-  according to their kinds,
-and every winged bird
-  according to its kind [species].
+# Genesis 001:021
+And God[E] created the great sea monsters
+and every living [ha-chayah] life [nefesh] that[x] moves,
+  with[x] which the waters swarmed,
+  according to their kinds;
+and every winged bird,
+  according to its kind.
 
-# Genesis 01:21b
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-#      ,                   ,                      , .                                     , Punc
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-And God saw that <it was> good.
+And God[E] saw that it[x] was[x] good.
 
 # PresentationSection: Fifth Day\hfill{}[MERE]\tab{}$\geqq$01.22
-# Genesis 01:22
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-And God blessed them, saying,
+# Genesis 001:022
+And God[E] blessed them, saying,
 {
   Be fruitful,
   and multiply,
   and fill the waters in the seas,
-  and let birds multiply on the earth.
+  and let each[x] bird multiply on the earth.
 }
 
-# Genesis 01:23
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-And there was sunset, \hfill [evening]
-and there was sunrise, \hfill [morning]
-<the> fifth day.
+# Genesis 001:023
+And there was sunset,
+and there was sunrise:
+the[x] fifth day.
 
 # Section: Sixth Day\hfill{}[MERE]\tab{}$\geqq$01.24
-# Genesis 01:24
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-And God said,
+# Genesis 001:024
+And God[E] said,
 {
-  Let the earth bring forth living life
-    according to its kind [species],
+  Let the earth bring forth [towtse] each[x] living life [nefesh]
+    according to its kind;
   livestock,
-  and creeping thing,
-  and beast <of> the earth
-    according to its kind [species].
+  and each[x] creeping [w-remes] thing[x],
+  and each[x] living [w-chaytow] thing[x] of the[x] earth
+    according to its kind.
 }
 
-# Genesis 01:24b
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-#      ,                   ,                      , .                                     , Punc
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
 And it was so.
 
-# Genesis 01:25
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-And God made the living thing <of> the earth
-  according to its kind [species],
+# Genesis 001:025
+And God[E] made
+each[x] living [chayah] thing[x] of[x] the earth
+  according to its kind,
 and livestock
-  according to its kind [species],
-and everything that creeps on the earth
-  according to its kind [species].
+  according to its kind,
+and every creeping [remes] thing[x] of the ground
+  according to its kind.
 
-# Genesis 01:25b
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-#      ,                   ,                      , .                                     , Punc
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-And God saw that <it was> good.
+And God[E] saw that it[x] was[x] good.
 
 # Section: Sixth Day\hfill{}[MERE]\tab{}$\geqq$01.26
-# Genesis 01:26
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-#      ,                   ,                      , .                                     , Punc
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-And God said,
+# Genesis 001:026
+And God[E] said,
 {
-  Let Us make man in Our image,
+  Let Us make man [adam]
+    in Our image,
     according to Our likeness.
 
   And let them rule
-    over the fish of the sea,
-    and over the birds of the heavens, \hfill [skies|air]
+    over fish of the sea,
+    and over every[x] bird of the heavens,
     and over the livestock,
     and over all the earth,
-    and over every creeping thing that creeps on the earth.
+    and over every creeping [ha-remes] thing[x]
+      creeping [ha-romes] upon the earth.
 }
 
-# Genesis 01:27
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-And God created man in His <own> image.
+# Genesis 001:027
+And God[E] created the man [adam] in His image.
 
-# Genesis 01:27b
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
 In the image of God, He created him.
 
-# Genesis 01:27c
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-#      ,                   ,                      , .                                     , Punc
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
 Male and female, He created them.
 
 # Section: Sixth Day\hfill{}[MERE]\tab{}$\geqq$01.28
-# Genesis 01:28
-# ---,------,-------------------,----------------------,---------------------------------------,---------------------------------------
-# 28 , 1288 , וַיְבָ֣רֶךְ             , way-ḇā-reḵ           , And blessed                           , Conj-w ; V-Piel-ConsecImperf-3ms
-# 28 , 853  , אֹתָם֮               , ’ō-ṯām               , them                                  , DirObjM ; 3mp
-# 28 , 430  , אֱלֹהִים֒             , elohim               , God                                   , N-mp
-# ---,------,-------------------,----------------------,---------------------------------------,---------------------------------------
-And God blessed them.
+# Genesis 001:028
+And God[E] blessed them.
 
-# Genesis 01:28b
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-#      ,                   ,                      , ;                                     , Punc
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-And God said to them,
+And God[E] said to them,
 {
   Be fruitful,
   and multiply,
   and fill the earth,
-  and subdue it. \hfill [subject]
+  and subdue it.
 
-# Genesis 01:28c
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-#      ,                   ,                      , .                                     , Punc
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-  And rule over the fish <of> the sea, \hfill [have dominion]
-  and over the birds of the heavens, \hfill [skies|air]
-  and over every living <thing> that moves upon the earth.
+  And rule over fish of the sea,
+  and over every[x] bird of the heavens,
+  and over every living [cha-yah] thing[x]
+    creeping [ha-ro-me-set] upon the earth.
 }
 
 # PresentationSection: Sixth Day\hfill{}[MERE]\tab{}$\geqq$01.29
-# Genesis 01:29
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-And God said,
+# Genesis 001:029
+And God[E] said,
 {
   Behold!
 
-# Genesis 01:29b
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-#      ,                   ,                      , ;                                     , Punc
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-  I have given you every herb <that> yields seed,
-  which <is> on <the> face of all the earth,
-  and every tree which <has> in <itself> the seed of a fruit-yielding tree ---
-  # \hfill [lit. and every tree which in <it> <is> the fruit of a tree yielding seed.]
-  # \hfill [orig: and every tree whose fruit yields seed.]
-# Genesis 01:29b
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-#      ,                   ,                      , .                                     , Punc
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-  to you it shall be for food. \hfill [HO]
+  I have given to you[p]
+  every herb [esev] yielding [zorea] seed,
+    which is[x] upon the[x] face[p] of all the earth,
+  and every tree,
+    which has[x] in itself the[x] fruit of the[x] tree,
+    yielding [zorea] seed.
 
-# Genesis 01:30
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-  And to every living thing <of> the earth,
-  and to every bird <of> the heavens, \hfill [skies|air]
-  and to everything that creeps upon the earth,
-  which <has> in itself living life ---
-  every green herb <shall be> for food.
+  To you[p] it shall be for food.
+
+  # Genesis 001:030
+  And to every living [chayat] thing[x] of the earth,
+    and to every bird of the heavens,
+    and to every creeping thing[x] upon the earth,
+    which has[x] in itself living [chayah] life [nefesh] ---
+  every green herb shall[x] be[x] for food.
 }
 
-# Genesis 01:30b
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-#      ,                   ,                      , .                                     , Punc
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
 And it was so.
 
 # PresentationSection: Sixth Day\hfill{}[MERE]\tab{}$\geqq$01.31
-# Genesis 01:31
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-#      ,                   ,                      , ;                                     , Punc
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-And God saw everything that He had made,
-and, behold!, <it was> very good.
+# Genesis 001:031
+And God[E] saw all that He had made,
+and --- behold! --- very good.
 
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-And there was sunset, \hfill [evening]
-and there was sunrise, \hfill [morning]
+And there was sunset,
+and there was sunrise:
 the sixth day.
 
 # Section: Seventh Day\hfill{}[MERE]\tab{}$\geqq$02.01
-# Genesis 02:01
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-#      ,                   ,                      , .                                     , Punc
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-And
-  the heavens \hfill [skies]
+# Genesis 002:001
+And they were finished ---
+  the heavens
   and the earth
-  and all <the> host of them
-were finished.
-
-# [
-# And were finished
-#   the skies
-#   and the earth
-#   and all <the> host of them.
-# ]
+  and all the[x] host of them.
 
 # Section: \hfill{}[MERE]\tab{}$\geqq$02.02
-# Genesis 02:02
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-#      ,                   ,                      , ;                                     , Punc
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-And God ended --- on the seventh day --- \hfill [HO]
+# Genesis 002:002
+And God[E] finished --- on the seventh day ---
 His work which He had done.
 
-# Genesis 02:02b
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-#      ,                   ,                      , .                                     , Punc
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-And He rested --- on the seventh day --- \hfill [HO]
+And He rested --- on the seventh day ---
 from all His work which He had done.
 
-# Genesis 02:03
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-#      ,                   ,                      , ;                                     , Punc
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-And God blessed the seventh day and made it holy, \hfill [set apart|sanctified]
-# Genesis 02:03
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-# 0    , ב֤וֹ                , ḇōw                  , in it                                 , Prep ; 3ms
-# 0    , פ                 , p̄                    , -                                     , Punc
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-because in it He rested \hfill [ceased|desisted]
-from all <His> work
-which God had created and made. \hfill [accomplished|fashioned]
+# Genesis 002:003
+And God[E] blessed the seventh day
+and He sanctified it.
+
+For in it He rested [ceased]
+from all His work
+which God[E] had created and[x] made.
 
 # Section: \hfill{}[MERE]\tab{}$\geqq$02.04
-# Genesis 02:04
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-#      ,                   ,                      , ;                                     , Punc
-#      ,                   ,                      , .                                     , Punc
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-These <are> the generations
-  <of> the heavens and the earth \hfill [skies]
-    when they were created,
-in the day that YHWH God  \hfill /YHWH Elohim/
-  made the earth and the heavens. \hfill [skies]
+# Genesis 002:004
+These are[x] the[x] generations
+  of the heavens and the earth
+    after they were created ---
+in the[x] day that[x] YHWH God[E] created earth and heavens.
 
-# Section: \hfill{}[MERE]\tab{}$\geqq$02.05
-# Genesis 02:05
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-#      ,                   ,                      , ;                                     , Punc
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-#      ,                   ,                      , .                                     , Punc
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-And before any plant <of> the field was in the earth
-and before any herb <of> the field had grown ---
-# Genesis 02:05b
-for YHWH God had not caused it to rain on the earth ---
-and <there was> not a man to cultivate the ground ---
-# Genesis 02:06
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-#      ,                   ,                      , ;                                     , Punc
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-but a mist went up from the earth
-and watered <the> whole face of the ground.
+# # Section: \hfill{}[MERE]\tab{}$\geqq$02.05
+# Genesis 002:005
+And before any plant [siach] of the field [ha-sadeh] was in the[x] earth ---
+and before any herb [esev] of the field [ha-sadeh] had sprouted ---
+  for YHWH God[E] had not caused it to rain upon the earth ---
+and when[x] man [adam] was[x] not there[x] to work the ground ---
+# Genesis 002:006
+vapor went up from the earth
+  and watered the[x] whole face[p] of the ground.
 
-# Genesis 02:07
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-#      ,                   ,                      , ;                                     , Punc
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-And YHWH God formed the man
-<from> the dust of the ground,
-and breathed into his nostrils the breath of life;
-and the man became a living life.
+# Genesis 002:007
+And YHWH God[E] formed the man [adam] from the[x] dust of[x] the ground,
+  and He breathed into his nostrils the[x] breath [nishmat] of life [chayim].
+
+And the man [adam] became a living [chayah] life [nefesh].
 
 # Section: \hfill{}[MERE]\tab{}$\geqq$02.08
-# Genesis 02:08
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-#      ,                   ,                      , ;                                     , Punc
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-And YHWH God planted a garden in Eden ---
-in the east ---
-and there he put the man whom he had formed.
+# Genesis 002:008
+And YHWH God[E] planted a garden in Eden [Delight] --- in the east ---
+and there he put the man [adam] whom he had formed.
 
-# Genesis 02:09
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-#      ,                   ,                      , ;                                     , Punc
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-And YHWH God made every tree
-  that is pleasing to the sight
-  and good for food
-grow out of the ground.
+# Genesis 002:009
+And YHWH God[E] made every tree grow ---
+  out of the ground ---
+every tree ---
+  pleasing to the sight
+  and good for food.
 
-And the tree of life <was> in the midst of the garden ---
+And the[x] tree of life [ha-chayim] was[x] in the middle of the garden ---
 and the tree of the knowledge of good and evil.
 
 # Section: \hfill{}[MERE]\tab{}$\geqq$02.10
-# Genesis 02:10
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-#      ,                   ,                      , ;                                     , Punc
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-And a river went out of Eden to water the garden;
-and from there it separated and became four riverheads. \hfill /headwaters/
+# Genesis 002:010
+And a[x] river went out from Eden to water the garden;
+and from there it divided and became four riverheads.
 
-# Genesis 02:11
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-#      ,                   ,                      , ;                                     , Punc
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-The name of the first <is> Pishon. \hfill [1]
+# Genesis 002:011
+The[x] name of the one is[x] Pishon. \hfill [1]
 
-  It winds through the whole land of Havilah.
+  It winds through the[x] whole land of the Havilah.
 
-  There <is> gold there;
-# Genesis 02:12
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-#      ,                   ,                      , ;                                     , Punc
-# 68   , וְאֶ֥בֶן              , wə-’e-ḇen            , and stone                             , Conj-w ; N-fsc
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-  and the gold of that land <is> good.
+  There is[x] gold there.
 
-  Bdellium and the onyx stone <are> there.
+  # Genesis 002:012
+  And the[x] gold of that land is[x] good.
 
-# Genesis 02:13
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-#      ,                   ,                      , ;                                     , Punc
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-And the name of the second river <is> Gihon. \hfill [2]
+  Bdellium and the green stone are[x] there. \hfill [oxyx, emerald]
 
-  It winds through the whole land of Cush.
+# Genesis 002:013
+And the[x] name of the second river is[x] Gihon. \hfill [2]
 
-# Genesis 02:14
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-#      ,                   ,                      , ;                                     , Punc
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-And the name of the third river is Hiddekel. \hfill [3]
+  It winds through the[x] whole land of Cush.
 
-  It runs along the east side of Assyria.
+# Genesis 002:014
+And the[x] name of the third river is[x] Hiddekel [Tigris]. \hfill [3]
 
-# Genesis 02:14b
-And the fourth river is the Euphrates. \hfill [4]
+  It is[x] the one[x] going east of Assyria.
+
+And the fourth river --- it is the[x] Euphrates. \hfill [4]
 
 # Section: \hfill{}[MERE]\tab{}$\geqq$02.15
-# Genesis 02:15
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-#      ,                   ,                      , ;                                     , Punc
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-And YHWH God took the man,
-and put him into the garden of Eden
-to cultivate and keep it.
+# Genesis 002:015
+And YHWH God[E] took the man [adam]
+and He put him into the[x] garden of Eden
+to work it and to guard it.
 
-# Genesis 02:16
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-#      ,                   ,                      , ;                                     , Punc
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-And YHWH God commanded the man,
+# Genesis 002:016
+And YHWH God[E] commanded the man [adam],
 saying,
 {
-  Of every tree of the garden
-  you may freely eat,
-  # Genesis 02:17
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-#      ,                   ,                      , ;                                     , Punc
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-  but of the tree of the knowledge of good and evil
-  you shall not eat.
+  From every tree of the garden ---
+  eating you[s] may eat.
 
-  For in the day that you eat of it,
-  dying you shall die.  \hfill [lit.]
+  # Genesis 002:017
+  And of the[x] tree
+    of the knowledge
+      of good and evil
+  you[s] may not eat from it.
+
+  For in the[x] day you[s] eat from it ---
+  dying you[s] shall die.
 }
 
 # Section: \hfill{}[MERE]\tab{}$\geqq$02.18
-# Genesis 02:18
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-#      ,                   ,                      , ;                                     , Punc
-# 0    , לּ֥וֹ                , lōw                  , him                                   , Prep ; 3ms
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-And YHWH God said,
+# Genesis 002:018
+And YHWH God[E] said,
 {
-  <It is> not good that the man should be alone.
+  It[x] is[x] not good for[x] the man [adam] to be alone.
 
-  I will make a helper suitable <for> him.
+  I will make for him his complementary helper.
 }
 
 # Section: \hfill{}[MERE]\tab{}$\geqq$02.19
-# Genesis 02:19
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-# 0    , ל֑וֹ                , lōw                  , them                                  , Prep ; 3ms
-#      ,                   ,                      , ;                                     , Punc
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-And YHWH God had formed --- out of the ground --- \hfill [vb tense]
-every living thing of the field
-and every bird of the heavens \hfill [skies]
-and He brought <them> to the man # /Adam**/
-to see what he would call them.
+# Genesis 002:019
+And YHWH God[E] had formed from the ground \hfill [vb tense]
+  every living thing of the field
+  and every bird of the heavens.
 
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-# 0    , ל֧וֹ                , lōw                  , to [be]                               , Prep ; 3ms
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-And whatever the man called <each> living life ---
-that <was> its name.
+And He brought each[x] to the man [adam]
+to see what he would call to it.
 
-# Genesis 02:20
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-#      ,                   ,                      , ;                                     , Punc
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-And the man gave names
-  to all livestock,
-  and to the birds of the heavens, \hfill [skies]
-  and to every living thing of the field;
-but for <the> man
-  was not found a suitable helper.
+And whatever the man [adam] called to each[x] living life ---
+that was[x] its name.
+
+# Genesis 002:020
+And the man [adam] called names
+  to all the livestock,
+  and to each[x] bird of the heavens,
+  and to every living thing[x] of the field.
+
+But[w] as[x] for the[x] man [adam],
+  he did not find his complementary helper.
 
 # Section: \hfill{}[MERE]\tab{}$\geqq$02.21
-# Genesis 02:21
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-#      ,                   ,                      , ;                                     , Punc
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-And YHWH God caused a deep sleep
-to fall upon the man and he slept.
+# Genesis 002:021
+And YHWH God[E] caused a deep sleep to fall upon the man [adam].
 
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-And He took one of his ribs
-and closed up the flesh in its place.
+And he slept.
 
-# Genesis 02:22
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-#      ,                   ,                      , ;                                     , Punc
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-And YHWH God made the rib ---
-  which He had taken from the man ---
+And He took one of his ribs and closed up the[x] flesh there.
+
+# Genesis 002:022
+And YHWH God[E] made the rib ---
+  which He had taken from the man [adam] ---
 into a woman.
 
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-And He brought her to the man.
+And He brought her to the man [adam].
 
-# Genesis 02:23
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-#      ,                   ,                      , ;                                     , Punc
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-And the man said,
+# Genesis 002:023
+And the man [adam] said,
 {
-  This <is> now bone of my bones
-  and flesh of my flesh.
+  This one[x] is[x] now bone out of my bones
+  and flesh out of my flesh.
 
-  This <one> shall be called Woman, \hfill [ishah]
-  for out of Man this <one> was taken. \hfill [ish]
+  For this one[x] shall be called Woman [ishah],
+  because out of Man [ish] this one[x] was taken.
 }
 
 # PresentationSection: \hfill{}[MERE]\tab{}$\geqq$02.24
-# Genesis 02:24
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-# 1    , אָבִ֖יו              , ’ā-ḇîw               , his father                            , N-msc ; 3ms
-#      ,                   ,                      , ;                                     , Punc
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-Therefore a man shall leave \hfill [ish]
-his father and mother
-and be joined to his wife
-and they shall become one flesh.
+# Genesis 002:024
+Therefore a man [ish] shall leave ---
+  his father and his mother ---
+and be joined to his wife [ishah].
 
-# Genesis 02:25
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-#      ,                   ,                      , ;                                     , Punc
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-And the two of them were naked ---
-the man and his wife ---
+And they shall become one flesh.
+
+# Genesis 002:025
+And both of them were naked ---
+  the man [adam] and his woman [ishah] ---
 and they were not ashamed.
 
 # Section: \hfill{}[MERE]\tab{}$\geqq$03.01
-# Genesis 03:01
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-#      ,                   ,                      , ;                                     , Punc
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-And the serpent was more cunning
+# Genesis 003:001
+And the serpent was more[x] clever
 than any living thing of the field
-which YHWH God had made.
+which YHWH God[E] had made.
 
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-And he said to the woman, \hfill [ishah]
+And he said to the woman [ishah],
 {
-  Has God actually said,
-  {
-    You shall not eat of every tree of the garden.
-  }
-
-  ?
+  Even though God has said,
+    you[p] shall not eat from every tree of the garden ---
 }
 
-# SEPARATOR
-BDB:
-1. e. there seem also to be other cases in which `ki',
-standing alone, has an intensive force,
-introducing a statement with emphasis: yea, surely, certainly
-DMC: ``actually said''
-
 # PresentationSection: \hfill{}[MERE]\tab{}$\geqq$03.02
-# Genesis 03:02
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-#      ,                   ,                      , ;                                     , Punc
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
+# Genesis 003:002
 And the woman said to the serpent,
 {
-  The fruit of the trees of the garden we may eat.
+  Of the[x] fruit of each[x] tree of the garden we may eat.
 
-# Genesis 03:03
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-# 0    , בּ֑וֹ                , bōw                  , it                                    , Prep ; 3ms
-#      ,                   ,                      , ;                                     , Punc
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-  But of the fruit of the tree
-  which <is> in the middle of the garden
+  # Genesis 003:003
+  But[w] of the[x] fruit of the tree,
+  which is[x] in the middle of the garden,
   God has said,
   {
-    You shall not eat it ---
-    nor shall you touch it ---
-    lest you die.
+    You[p] shall not eat from it ---
+    and you[p] shall not touch it ---
+    lest you[p] die!
   }
 }
 
 # Section: \hfill{}[MERE]\tab{}$\geqq$03.04
-# Genesis 03:04
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-#      ,                   ,                      , ;                                     , Punc
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
+# Genesis 003:004
 And the serpent said to the woman,
 {
-  Not
+  Not!
   {
-    Dying you shall die. \hfill [lit.]
+    Dying you[p] shall die.
   }
 
-# Genesis 03:05
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-#      ,                   ,                      , ;                                     , Punc
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-  For God knows
-  that in <the> day you eat of it
-  then your eyes will be opened
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-  and you will be like God
+  # Genesis 003:005
+  For God[E] knows
+  that in the[x] day you[p] eat from it
+  your[p] eyes will be opened
+  and you[p] shall be like God[E]
   knowing good and evil.
 }
 
 # Section: \hfill{}[MERE]\tab{}$\geqq$03.06
-# Genesis 03:06
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-#      ,                   ,                      , ;                                     , Punc
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-And when the woman saw
-that the tree <was> good for food
-and that it <was> pleasant to the eyes
-and a desirable tree to make <one> wise,
-then she took of its fruit and ate.
+# Genesis 003:006
+And the woman saw
+that the tree was[x] good for food
+and that it was[x] a[x] delight to the eyes
+and a desirable tree to make one[x] wise.
 
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-And she also gave
-to her husband with her,
+And she took of its fruit and ate.
+
+And she also gave to her husband with her,
 and he ate.
 
-# Genesis 03:07
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-#      ,                   ,                      , ;                                     , Punc
-# 0    , לָהֶ֖ם               , lā-hem               , themselves                            , Prep ; 3mp
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-And the eyes of the two of them were opened,
-and they knew that they <were> naked,
-and they sewed together fig leaves,
+# Genesis 003:007
+And the eyes of the two of them were opened.
+
+And they knew that they were[x] naked.
+
+And they sewed fig leaves[s],
 and made coverings for themselves.
 
 # Section: \hfill{}[MERE]\tab{}$\geqq$03.08
-# Genesis 03:08
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-#      ,                   ,                      , ;                                     , Punc
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-And they heard the voice of YHWH God \hfill [sound]
+# Genesis 003:008
+And they heard the voice of YHWH God[E]
 walking in the garden
-in the breeze <of> the day
-and hid ---
-the man and his wife ---
-from the face of YHWH God
-among the trees of the garden.
+in the breeze of[x] the day.
+
+And the man [adam] and his wife hid
+from the face[p] of YHWH God[E]
+in the midst of the trees[s] of the garden.
 
 # Section: \hfill{}[MERE]\tab{}$\geqq$03.09
-# Genesis 03:09
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-#      ,                   ,                      , ;                                     , Punc
-# 0    , ל֖וֹ                , lōw                  , to him                                , Prep ; 3ms
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-And YHWH God called to the man
+# Genesis 003:009
+And YHWH God[E] called to the man [adam]
 and said to him,
 {
-  Where <are> you?
+  Where are[x] you[s][x]?
 }
 
-# Genesis 03:10
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-#      ,                   ,                      , ;                                     , Punc
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
+# Genesis 003:010
 And he said,
 {
-  I heard Your voice in the garden
-  and I was afraid --- because I was naked ---
-  and I hid myself.
+  I heard Your[s] voice in the garden
+  and I was afraid because I was naked,
+  and I hid.
 }
 
 # PresentationSection: \hfill{}[MERE]\tab{}$\geqq$03.11
-# Genesis 03:11
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-# 0    , לְךָ֔                , lə-ḵā                , you                                   , Prep ; 2ms
-#      ,                   ,                      , ;                                     , Punc
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
+# Genesis 003:011
 And He said,
 {
-  Who told you that you <were> naked?
+  Who told you[s] that you[s] are[x] naked?
 
-  Have you eaten from the tree
-  that I commanded you <that> you should not eat from?
+  Have you[s] eaten from the tree
+  that I commanded you[s] not to eat?
 }
 
-# Genesis 03:12
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-#      ,                   ,                      , ;                                     , Punc
-# 0    , לִּ֥י                , lî                   , me                                    , Prep ; 1cs
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
+# Genesis 003:012
 And the man said,
 {
-  The woman whom You gave <to be> with me ---
-  she gave me of the tree and I ate.
+  The woman whom You[s] gave to me ---
+  she gave to me from the tree and I ate.
 }
 
 # PresentationSection: \hfill{}[MERE]\tab{}$\geqq$03.13
-# Genesis 03:13
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-#      ,                   ,                      , ;                                     , Punc
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-And YHWH God said to the woman,
+# Genesis 003:013
+And YHWH God[E] said to the woman,
 {
-  What <is> this you have done?
+  What is[x] this that[x] you[s] have done?
 }
 
-# Genesis 03:13b
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
 And the woman said,
 {
-  The serpent deceived me
-  and I ate.
+  The serpent deceived me and I ate.
 }
 
 # Section: \hfill{}[MERE]\tab{}$\geqq$03.14
-# Genesis 03:14
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-#      ,                   ,                      , ;                                     , Punc
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-And YHWH God said to the serpent,
+# Genesis 003:014
+And YHWH God[E] said to the serpent,
 {
-  Because you have done this ---
-  you <are> cursed more than all livestock
-  and every living <thing> <of> the field.
+  Because you[s] have accomplished [done] this ---
+  you[s] are[x] cursed
+  more than all livestock
+  and more than every living thing[x] of the field.
 
-# Genesis 03:14b
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-  On your belly you shall go
-  and dust you shall eat
-  all the days <of> your life.
+  Upon your[s] belly you[s] shall go.
 
-# Genesis 03:15
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-#      ,                   ,                      , ;                                     , Punc
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-  And I will put enmity
-  between you and the woman
-  and between your seed and her Seed.
+  And you[s] shall eat dust
+  all of the[x] days of your[s] life.
 
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-# 0    , ס                 , s                    , -                                     , Punc
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-  He shall bruise your head
-  and you shall bruise His heel.
+  # Genesis 003:015
+  And I will put animosity
+  between you[s] and the woman,
+  and between your[s] seed and her Seed.
+
+  He shall strike your[s] head
+  and you[s] shall strike His heel.
 }
 
 # Section: \hfill{}[MERE]\tab{}$\geqq$03.16
-# Genesis 03:16
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
+# Genesis 003:016
 To the woman, He said,
 {
-  I will greatly multiply
-  your sorrow and your conception.
+  Multiplying, I will multiply your[s] pain and your[s] pregnancy.
 
-# Genesis 03:16b
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-#      ,                   ,                      , ;                                     , Punc
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-  In pain you shall bring forth children.
+  In pain, you[s] shall give birth to[x] sons.
 
-# Genesis 03:16c
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-# 0    , בָּֽךְ׃               , bāḵ.                 , over you                              , Prep ; 2fs
-# 0    , ס                 , s                    , -                                     , Punc
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-  Your desire <shall be> for your husband
-  and he shall rule over you.
+  And your[s] longing shall[x] be[x] to your[s] man [ish]
+  and he shall rule over[b] you[s].
 }
 
 # Section: \hfill{}[MERE]\tab{}$\geqq$03.17
-# Genesis 03:17
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-#      ,                   ,                      , ;                                     , Punc
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
+# Genesis 003:017
 And to the man He said,
 {
-  Because you heeded the voice of your wife
+  Because you[s] have listened to the voice of your[s] wife
   and have eaten from the tree
-  of which I commanded you saying,
+  of which I commanded you[s] saying,
   {
-    You shall not eat of it,
+    And you[s] shall not eat of it,
   }
 
-# Genesis 03:17b
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-  cursed is the ground for your sake.
+  cursed is the ground because of you[s].
 
-# Genesis 03:17c
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-  In toil you shall eat <of> it
-  all the days of your life.
+  In pain you[s] shall eat of[x] it
+  all the[x] days of your[s] life.
 }
 
 # PresentationSection: \hfill{}[MERE]\tab{}$\geqq$03.18
 {
-  # Genesis 03:18
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-# 0    , לָ֑ךְ                , lāḵ                  , for you                               , Prep ; 2fs
-#      ,                   ,                      , ;                                     , Punc
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-  And both thorns and thistles
-  it shall bring forth for you
-  and you shall eat the herb of the field.
+  # Genesis 003:018
+  And thorns and thistles
+  it shall bring forth for you[s]
+  and you[s] shall eat the herb of the field.
 
-# Genesis 03:19
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-#      ,                   ,                      , ;                                     , Punc
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-  By the sweat of your face
+  # Genesis 003:019
+  In the[x] sweat of your face[p]
   you shall eat bread
-  until you return to the ground
-  for out of it you were taken ---
-  for dust you <are>
-  and to dust you shall return.
+  until you return to the ground.
+
+  For out of it you were taken.
+
+  For dust you are[x] and to dust you shall return.
 }
 
 # Section: \hfill{}[MERE]\tab{}$\geqq$03.20
-# Genesis 03:20
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-#      ,                   ,                      , ;                                     , Punc
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-And Adam**/Man called the name of his wife Eve/Life, \hfill [adamah]
-because she was the mother of all living.
+# Genesis 003:020
+And the man [Adam] called the[x] name of his woman, Life [Eve]
+because she would become mother of all living.
 
 # Section: \hfill{}[MERE]\tab{}$\geqq$03.21
-# Genesis 03:21
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-# 0    , פ                 , p̄                    , -                                     , Punc
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-And YHWH God made tunics of skin ---
-  for Adam** and his wife ---
-and clothed them.
+# Genesis 003:021
+And YHWH God[E] made tunics of skin
+  for the man [Adam] and for the[x] woman [ishah];
+and He clothed them.
 
 # Section: \hfill{}[MERE]\tab{}$\geqq$03.22
-# Genesis 03:22
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-#      ,                   ,                      , ;                                     , Punc
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-And YHWH God said,
+# Genesis 003:022
+And YHWH God[E] said,
 {
-  Behold,
+  Look [hen],
   the man has become like one of Us,
   knowing good and evil.
 
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
   And now,
-  lest he put out his hand,
-  and take also of the tree of life,
+  lest he put out his hand
+    and also take of the tree of life,
   and eat,
   and live forever.
 }
 
 # PresentationSection: \hfill{}[MERE]\tab{}$\geqq$03.23
-# Genesis 03:23
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-#      ,                   ,                      , ;                                     , Punc
-# -----,-------------------,----------------------,---------------------------------------,---------------------------------------
-And, therefore,
-YHWH God sent him out of the garden of Eden,
-to till the ground/adamah
-from which he had been taken. \hfill [...from there.]
+# Genesis 003:023
+And YHWH God[E] sent him out of the garden of Eden,
+to work the ground [adamah] from which he had been taken.
 
-# Genesis 03:24
+# Genesis 003:024
 And he drove out the man.
 
-And He placed cherubim
-and a whirling sword of flame
-to the east
-of the garden of Eden
-to guard the way to the tree of life.
-
-\vfill
-
-DMC: BOOM! THIS IS DRAMATIC! NEVER SAY YHWH is not DRAMATIC!
+And He placed the cherubim[p]
+and the whirling sword of flame to[?] the[x] east of the garden of Eden
+to guard the[x] way to the[x] tree of life.
