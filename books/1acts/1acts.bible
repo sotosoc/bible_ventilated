@@ -2048,12 +2048,17 @@ He said,
   Behold, it's me, Lord.
 }
 
+# TEX: \begin{figure}[h]
+# TEX: \includegraphics[width=0.75\textwidth]{tarsus2}
+# TEX: \end{figure}
+
+# Section: \hfill{}[WEB]\tab{}$\geqq$09.11
 # Acts 09:11
 The Lord said to him,
 {
   Arise and go to the street which is called Straight,
   and inquire in the house of Judah for one named Saul,
-  a man of Tarsus.
+    a man of Tarsus.
 
   For behold,
   he is praying,
@@ -2304,7 +2309,9 @@ He said to him,
 
 # Acts 10:07
 When the angel who spoke to him had departed,
-Cornelius called two of his household servants and a devout soldier of those who waited on him continually.
+Cornelius called
+  two of his household servants
+  and a devout soldier of those who waited on him continually.
 
 # Acts 10:08
 Having explained everything to them,
@@ -2324,9 +2331,9 @@ He saw heaven opened and a certain container descending to him,
 like a great sheet let down by four corners on the earth,
 # Acts 10:12
 in which were all kinds of four-footed animals of the earth,
-wild animals,
-reptiles,
-and birds of the sky.
+  wild animals,
+  reptiles,
+  and birds of the sky.
 
 # Acts 10:13
 A voice came to him,
@@ -2352,6 +2359,7 @@ A voice came to him again the second time,
 This was done three times,
 and immediately the thing was received up into heaven.
 
+# Section: \hfill{}$\geqq$10.17
 # Acts 10:17
 Now while Peter was very perplexed in himself what the vision which he had seen might mean,
 behold,
@@ -2530,6 +2538,7 @@ Peter opened his mouth and said,
   that through his name everyone who believes in him will receive remission of sins.
 }
 
+# Section: \hfill{}[WEB]\tab{}$\geqq$10.44
 # Acts 10:44
 While Peter was still speaking these words,
 the Holy Spirit fell on all those who heard the word.
@@ -2557,18 +2566,19 @@ He commanded them to be baptized in the name of Jesus Christ.
 Then they asked him to stay some days.
 
 # Acts 11:01
-Now the apostles and the brothers who were in Judea heard that the Gentiles had also received the word of God.
+Now the apostles and the brothers who were in Judea
+heard that the Gentiles had also received the word of God.
 
 # Acts 11:02
 When Peter had come up to Jerusalem,
 those who were of the circumcision contended with him,
-
 # Acts 11:03
 saying,
 {
   You went in to uncircumcised men and ate with them!
 }
 
+# Section: \hfill{}[WEB]\tab{}$\geqq$11.04
 # Acts 11:04
 But Peter began,
 and explained to them in order,
@@ -2667,6 +2677,7 @@ saying,
   Then God has also granted to the Gentiles repentance to life!
 }
 
+# Section: \hfill{}[WEB]\tab{}$\geqq$11.19
 # Acts 11:19
 They therefore who were scattered abroad
 by the oppression
@@ -2682,6 +2693,11 @@ when they had come to Antioch,
 spoke to the Hellenists,
 preaching the Lord Jesus.
 
+# TEX: \begin{figure}[h]
+# TEX: \includegraphics[width=0.75\textwidth]{tarsus2}
+# TEX: \end{figure}
+
+# Section: \hfill{}[WEB]\tab{}$\geqq$11.21
 # Acts 11:21
 The hand of the Lord was with them,
 and a great number believed and turned to the Lord.
@@ -2713,11 +2729,15 @@ Barnabas went out to Tarsus to look for Saul.
 When he had found him,
 he brought him to Antioch.
 
+# Acts 11:26b
 For a whole year they were gathered together with the assembly,
 and taught many people.
 
+# Section: \hfill{}[WEB]\tab{}$\geqq$11.26c
+# Acts 11:26c
 The disciples were first called Christians in Antioch.
 
+# Section: \hfill{}[WEB]\tab{}$\geqq$11.27
 # Acts 11:27
 Now in these days,
 prophets came down from Jerusalem to Antioch.
