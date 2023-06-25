@@ -2049,7 +2049,7 @@ He said,
 }
 
 # TEX: \begin{figure}[h]
-# TEX: \includegraphics[width=0.75\textwidth]{tarsus2}
+# TEX: \includegraphics[width=0.75\textwidth]{damascus}
 # TEX: \end{figure}
 
 # Section: \hfill{}[WEB]\tab{}$\geqq$09.11
@@ -2694,7 +2694,7 @@ spoke to the Hellenists,
 preaching the Lord Jesus.
 
 # TEX: \begin{figure}[h]
-# TEX: \includegraphics[width=0.75\textwidth]{tarsus2}
+# TEX: \includegraphics[width=0.75\textwidth]{antioch}
 # TEX: \end{figure}
 
 # Section: \hfill{}[WEB]\tab{}$\geqq$11.21
