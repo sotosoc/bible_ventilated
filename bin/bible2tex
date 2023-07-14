@@ -71,11 +71,11 @@ File.open("./#{bookname}.bible").each_with_index do |line, index|
     next
 
   elsif line.match?(/# Book:/)
-    _pre, bookname = line.split(':')
+    _pre, bookname, date = line.split(':')
     fidd.puts "\\pagenumbering{gobble}"
     fidd.puts "\\clearpage"
     fidd.puts "\\thispagestyle{empty}"
-    fidd.puts "\\chapter{#{bookname.strip}}"
+    fidd.puts "\\chapter{#{bookname.strip}} #{date}"
     # fidd.puts "\\clearpage"
     fidd.puts "\\pagenumbering{arabic}"
     fidd.flush
