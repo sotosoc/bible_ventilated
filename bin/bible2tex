@@ -71,19 +71,33 @@ File.open("./#{bookname}.bible").each_with_index do |line, index|
     next
 
   elsif line.match?(/# Book:/)
-    _pre, bookname, date = line.split(':')
+    _pre, bookname = line.split(':')
+    fidd.puts '\\newline
     fidd.puts "\\pagenumbering{gobble}"
     fidd.puts "\\clearpage"
     fidd.puts "\\thispagestyle{empty}"
-    fidd.puts "\\chapter{#{bookname.strip}} #{date}"
+    if bookname.match?(':')
+      # date
+      bookname, date = bookname.strip.split(':')
+      fidd.puts "\\chapter[#{bookname.strip}]{#{bookname.strip} #{date.strip}}"
+    else
+      fidd.puts "\\chapter[#{bookname.strip}]{#{bookname.strip}}"
+    end
     # fidd.puts "\\clearpage"
     fidd.puts "\\pagenumbering{arabic}"
+    fidd.puts '%%%'
     fidd.flush
 
     fidp.puts "\\pagenumbering{gobble}"
     fidp.puts "\\clearpage"
     fidp.puts "\\thispagestyle{empty}"
-    fidp.puts "\\chapter{#{bookname.strip}}"
+    if bookname.match?(':')
+      # date
+      bookname, date = bookname.strip.split(':')
+      fidp.puts "\\chapter[#{bookname.strip}]{#{bookname.strip} #{date.strip}}"
+    else
+      fidp.puts "\\chapter[#{bookname.strip}]{#{bookname.strip}}"
+    end
     # fidp.puts "\\clearpage"
     fidp.puts "\\pagenumbering{arabic}"
     fidp.flush
